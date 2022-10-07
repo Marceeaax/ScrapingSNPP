@@ -30,6 +30,8 @@ time.sleep(3)
 
 elem = driver.find_element(By.NAME, "value_cedula_1")
 
+missings = []
+
 for cedula in range(4000000,5000000):
     print("Procesando cedula: " + str(cedula))
     elem.clear()
@@ -60,6 +62,18 @@ for cedula in range(4000000,5000000):
 
         time.sleep(1)
 
+    else:
+        print("No encontrado")
+        missings.append(cedula)
+        # append to a list of not found
+
+
+# the list of not found in a file
+with open('missings.txt', 'w') as f:
+    for item in missings:
+        f.write("%s " % item)
+
+print("There are " + str(len(missings)) + " missing")
 
 # We can also close the connection if we are done with it.
 # Just be sure any changes have been committed or they will be lost.
