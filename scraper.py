@@ -88,7 +88,7 @@ def main():
     start_cedula = 4000000
     end_cedula = 4009999
     total_range = end_cedula - start_cedula + 1  # 100000 en tu ejemplo
-    parts = 50  # Este valor puede ser ajustado. Debe ser un divisor de total_range
+    parts = 25  # Este valor puede ser ajustado. Debe ser un divisor de total_range
 
     # Asegúrate de que 'parts' sea divisor de 'total_range'
     if total_range % parts != 0:
