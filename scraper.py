@@ -4,6 +4,8 @@ import sqlite3
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options as ChromeOptions  # Importación corregida
+
 
 def create_database_connection(db_name='paraguayosprueba.db'):
     """Create a database connection and return the connection and cursor."""
@@ -20,7 +22,9 @@ def create_table(c):
 def setup_webdriver():
     """Setup and return a Chrome WebDriver."""
     # Note: Make sure ChromeDriver is in your PATH or use ChromeDriverManager to manage this automatically
-    driver = webdriver.Chrome()
+    options = ChromeOptions()
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options) # si se quiere desactivar el headless mode solo hay que borrar el argumento de Chrome
     return driver
 
 def open_website(driver):
@@ -53,6 +57,7 @@ def fetch_data(driver, cedula):
 
 def process_range(start_cedula, end_cedula):
     """Process a range of cedulas, fetching data and saving to the database."""
+    print(f"Processing cedulas from {start_cedula} to {end_cedula}")
     conn, c = create_database_connection()
     create_table(c)
     driver = setup_webdriver()
@@ -82,11 +87,12 @@ def generate_ranges(start, end, parts):
 def save_data(c, conn, data):
     """Save the fetched data into the database."""
     c.execute("INSERT INTO paraguayosprueba VALUES (?, ?, ?, ?, ?, ?)", data)
+    print(f"insertado {data[0]}")
     conn.commit()
 
 def main():
-    start_cedula = 4000000
-    end_cedula = 4009999
+    start_cedula = 4016000
+    end_cedula = 4016999
     total_range = end_cedula - start_cedula + 1  # 100000 en tu ejemplo
     parts = 25  # Este valor puede ser ajustado. Debe ser un divisor de total_range
 
