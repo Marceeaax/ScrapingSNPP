@@ -1,0 +1,4000 @@
+Diferencias para la cédula 5000000:
+Anterior: ('5000000', 'ALEJANDRO JESUS', 'VENEGAS BELLO', 10, 1, 2002)
+Nuevo: (5000000, 'ALEJANDRO JESUS', 'VENEGAS BELLO', '10', '1', '2002')
+
+Diferencias para la cédula 5000001:
+Anterior: ('5000001', 'JOHANA VANESSA', 'VILLALBA LEZCANO', 24, 11, 1992)
+Nuevo: (5000001, 'JOHANA VANESSA', 'VILLALBA LEZCANO', '24', '11', '1992')
+
+Diferencias para la cédula 5000002:
+Anterior: ('5000002', 'CLAUDIA MABEL', 'GONZALEZ BLACKBURN', 10, 12, 1993)
+Nuevo: (5000002, 'CLAUDIA MABEL', 'GONZALEZ BLACKBURN', '10', '12', '1993')
+
+Diferencias para la cédula 5000003:
+Anterior: ('5000003', 'FLAUDIA ROSANA', 'RECALDE', 19, 8, 1989)
+Nuevo: (5000003, 'FLAUDIA ROSANA', 'RECALDE', '19', '8', '1989')
+
+Diferencias para la cédula 5000004:
+Anterior: ('5000004', 'MARIA PAOLA', 'ESPINOLA FERREIRA', 6, 12, 1992)
+Nuevo: (5000004, 'MARIA PAOLA', 'ESPINOLA FERREIRA', '6', '12', '1992')
+
+Diferencias para la cédula 5000005:
+Anterior: ('5000005', 'FABRIZZIO GABRIEL', 'RIVEROS NARDELLI', 28, 6, 2002)
+Nuevo: (5000005, 'FABRIZZIO GABRIEL', 'RIVEROS NARDELLI', '28', '6', '2002')
+
+Diferencias para la cédula 5000006:
+Anterior: ('5000006', 'LAURA NOEMI', 'BENITEZ MARECOS', 27, 11, 1989)
+Nuevo: (5000006, 'LAURA NOEMI', 'BENITEZ MARECOS', '27', '11', '1989')
+
+Diferencias para la cédula 5000007:
+Anterior: ('5000007', 'BLANCA CECILIA', 'ROJAS VALENZUELA', 13, 9, 1998)
+Nuevo: (5000007, 'BLANCA CECILIA', 'ROJAS VALENZUELA', '13', '9', '1998')
+
+Diferencias para la cédula 5000008:
+Anterior: ('5000008', 'INGRID MAGALI', 'CANTERO COLMAN', 4, 4, 1997)
+Nuevo: (5000008, 'INGRID MAGALI', 'CANTERO COLMAN', '4', '4', '1997')
+
+Diferencias para la cédula 5000009:
+Anterior: ('5000009', 'DENNYSE DAHIANA', 'SALINAS BRITEZ', 26, 11, 1995)
+Nuevo: (5000009, 'DENNYSE DAHIANA', 'SALINAS BRITEZ', '26', '11', '1995')
+
+Diferencias para la cédula 5000010:
+Anterior: ('5000010', 'DELIA ARACELI', 'FLORES ARGÃ\x9cELLO', 27, 11, 1990)
+Nuevo: (5000010, 'DELIA ARACELI', 'FLORES ARGÃ\x9cELLO', '27', '11', '1990')
+
+Diferencias para la cédula 5000011:
+Anterior: ('5000011', 'WILLIAM ARMANDO', 'SPERATTI FLECHA', 14, 5, 1995)
+Nuevo: (5000011, 'WILLIAM ARMANDO', 'SPERATTI FLECHA', '14', '5', '1995')
+
+Diferencias para la cédula 5000012:
+Anterior: ('5000012', 'STEVEN ARIEL', 'SPERATTI FLECHA', 3, 1, 1997)
+Nuevo: (5000012, 'STEVEN ARIEL', 'SPERATTI FLECHA', '3', '1', '1997')
+
+Diferencias para la cédula 5000013:
+Anterior: ('5000013', 'MAX', 'ATLAS DEL PUERTO', 5, 3, 1992)
+Nuevo: (5000013, 'MAX', 'ATLAS DEL PUERTO', '5', '3', '1992')
+
+Diferencias para la cédula 5000014:
+Anterior: ('5000014', 'FERMINA', 'AZCONA MORA', 30, 5, 1990)
+Nuevo: (5000014, 'FERMINA', 'AZCONA MORA', '30', '5', '1990')
+
+Diferencias para la cédula 5000015:
+Anterior: ('5000015', 'MARIA ALBINA', 'MELGAREJO PEREZ', 18, 3, 1994)
+Nuevo: (5000015, 'MARIA ALBINA', 'MELGAREJO PEREZ', '18', '3', '1994')
+
+Diferencias para la cédula 5000016:
+Anterior: ('5000016', 'RICHARD OSMAR', 'SPERATTI FLECHA', 22, 1, 1993)
+Nuevo: (5000016, 'RICHARD OSMAR', 'SPERATTI FLECHA', '22', '1', '1993')
+
+Diferencias para la cédula 5000017:
+Anterior: ('5000017', 'MARIA FATIMA', 'RIOS ROJAS', 3, 5, 1987)
+Nuevo: (5000017, 'MARIA FATIMA', 'RIOS ROJAS', '3', '5', '1987')
+
+Diferencias para la cédula 5000018:
+Anterior: ('5000018', 'FERNANDA BEATRIZ', 'GIMENEZ CUEVAS', 21, 3, 2002)
+Nuevo: (5000018, 'FERNANDA BEATRIZ', 'GIMENEZ CUEVAS', '21', '3', '2002')
+
+Diferencias para la cédula 5000019:
+Anterior: ('5000019', 'ANDREA KARINA MONSSERRATH', 'GIMENEZ PEREIRA', 3, 3, 1994)
+Nuevo: (5000019, 'ANDREA KARINA MONSSERRATH', 'GIMENEZ PEREIRA', '3', '3', '1994')
+
+Diferencias para la cédula 5000020:
+Anterior: ('5000020', 'VANESSA MAGALI', 'LOPEZ BENITEZ', 11, 8, 2002)
+Nuevo: (5000020, 'VANESSA MAGALI', 'LOPEZ BENITEZ', '11', '8', '2002')
+
+Diferencias para la cédula 5000021:
+Anterior: ('5000021', 'JUAN ESTEBAN', 'SANTANDER BENITEZ', 1, 4, 1997)
+Nuevo: (5000021, 'JUAN ESTEBAN', 'SANTANDER BENITEZ', '1', '4', '1997')
+
+Diferencias para la cédula 5000022:
+Anterior: ('5000022', 'PEDRO MILCIADES', 'GALEANO NUÃ\x91EZ', 20, 1, 1993)
+Nuevo: (5000022, 'PEDRO MILCIADES', 'GALEANO NUÃ\x91EZ', '20', '1', '1993')
+
+Diferencias para la cédula 5000023:
+Anterior: ('5000023', 'LIZ PAOLA', 'FLORES ROJAS', 13, 3, 1993)
+Nuevo: (5000023, 'LIZ PAOLA', 'FLORES ROJAS', '13', '3', '1993')
+
+Diferencias para la cédula 5000024:
+Anterior: ('5000024', 'VIVIANA ARACELI', 'NUÃ\x91EZ OTERO', 4, 3, 1998)
+Nuevo: (5000024, 'VIVIANA ARACELI', 'NUÃ\x91EZ OTERO', '4', '3', '1998')
+
+Diferencias para la cédula 5000025:
+Anterior: ('5000025', 'PAUL LORENZO', 'NOGUERA GAONA', 10, 8, 1992)
+Nuevo: (5000025, 'PAUL LORENZO', 'NOGUERA GAONA', '10', '8', '1992')
+
+Diferencias para la cédula 5000026:
+Anterior: ('5000026', 'LILIANA ELIZABETH', 'VEGA MOLINAS', 27, 1, 1991)
+Nuevo: (5000026, 'LILIANA ELIZABETH', 'VEGA MOLINAS', '27', '1', '1991')
+
+Diferencias para la cédula 5000027:
+Anterior: ('5000027', 'ARIEL DEJESUS', 'MENDEZ CHAMORRO', 21, 12, 2002)
+Nuevo: (5000027, 'ARIEL DEJESUS', 'MENDEZ CHAMORRO', '21', '12', '2002')
+
+Diferencias para la cédula 5000028:
+Anterior: ('5000028', 'MARIA LUCILA', 'CANDIA VERA', 9, 5, 1991)
+Nuevo: (5000028, 'MARIA LUCILA', 'CANDIA VERA', '9', '5', '1991')
+
+Diferencias para la cédula 5000029:
+Anterior: ('5000029', 'CELSA IRENE', 'BALMACEDA', 14, 4, 1989)
+Nuevo: (5000029, 'CELSA IRENE', 'BALMACEDA', '14', '4', '1989')
+
+Diferencias para la cédula 5000030:
+Anterior: ('5000030', 'AVELINA', 'TORALES BENITEZ', 28, 7, 1987)
+Nuevo: (5000030, 'AVELINA', 'TORALES BENITEZ', '28', '7', '1987')
+
+Diferencias para la cédula 5000031:
+Anterior: ('5000031', 'MARIA CRISTINA', 'VALDEZ SANTACRUZ', 6, 9, 1983)
+Nuevo: (5000031, 'MARIA CRISTINA', 'VALDEZ SANTACRUZ', '6', '9', '1983')
+
+Diferencias para la cédula 5000032:
+Anterior: ('5000032', 'CAROLINA', 'MARTINEZ ESTIGARRIBIA', 25, 3, 1990)
+Nuevo: (5000032, 'CAROLINA', 'MARTINEZ ESTIGARRIBIA', '25', '3', '1990')
+
+Diferencias para la cédula 5000033:
+Anterior: ('5000033', 'VANESSA YOHANA', 'ZENA GRANCE', 19, 4, 1996)
+Nuevo: (5000033, 'VANESSA YOHANA', 'ZENA GRANCE', '19', '4', '1996')
+
+Diferencias para la cédula 5000034:
+Anterior: ('5000034', 'HECTOR ALEJANDRO', 'SANTACRUZ DOMINGUEZ', 3, 12, 1995)
+Nuevo: (5000034, 'HECTOR ALEJANDRO', 'SANTACRUZ DOMINGUEZ', '3', '12', '1995')
+
+Diferencias para la cédula 5000035:
+Anterior: ('5000035', 'EDISON MATIAS', 'DIAZ ROJAS', 17, 11, 1997)
+Nuevo: (5000035, 'EDISON MATIAS', 'DIAZ ROJAS', '17', '11', '1997')
+
+Diferencias para la cédula 5000036:
+Anterior: ('5000036', 'YONI ROLANDO', 'ACUÃ\x91A SANTACRUZ', 8, 10, 1993)
+Nuevo: (5000036, 'YONI ROLANDO', 'ACUÃ\x91A SANTACRUZ', '8', '10', '1993')
+
+Diferencias para la cédula 5000037:
+Anterior: ('5000037', 'ARNALDO EMANUEL', 'YEGROS NOGUERA', 17, 12, 2000)
+Nuevo: (5000037, 'ARNALDO EMANUEL', 'YEGROS NOGUERA', '17', '12', '2000')
+
+Diferencias para la cédula 5000038:
+Anterior: ('5000038', 'OSMAR DANIEL', 'CABRAL FERREIRA', 25, 11, 1995)
+Nuevo: (5000038, 'OSMAR DANIEL', 'CABRAL FERREIRA', '25', '11', '1995')
+
+Diferencias para la cédula 5000039:
+Anterior: ('5000039', 'FRANCISCO JAVIER', 'MORA FLECHA', 16, 3, 1987)
+Nuevo: (5000039, 'FRANCISCO JAVIER', 'MORA FLECHA', '16', '3', '1987')
+
+Diferencias para la cédula 5000040:
+Anterior: ('5000040', 'MARCELO OSMAR', 'ACOSTA RIVEROS', 30, 3, 1996)
+Nuevo: (5000040, 'MARCELO OSMAR', 'ACOSTA RIVEROS', '30', '3', '1996')
+
+Diferencias para la cédula 5000041:
+Anterior: ('5000041', 'DIEGO ARISTIDES', 'DIAZ FRETES', 26, 7, 1996)
+Nuevo: (5000041, 'DIEGO ARISTIDES', 'DIAZ FRETES', '26', '7', '1996')
+
+Diferencias para la cédula 5000042:
+Anterior: ('5000042', 'DAVID ADRIAN', 'DIAZ FRETES', 27, 12, 1994)
+Nuevo: (5000042, 'DAVID ADRIAN', 'DIAZ FRETES', '27', '12', '1994')
+
+Diferencias para la cédula 5000043:
+Anterior: ('5000043', 'CELSO ANDRES', 'CAÃ\x91IZA MENDIETA', 4, 2, 1989)
+Nuevo: (5000043, 'CELSO ANDRES', 'CAÃ\x91IZA MENDIETA', '4', '2', '1989')
+
+Diferencias para la cédula 5000044:
+Anterior: ('5000044', 'ALEXIS RAMON', 'BAEZ FERNANDEZ', 11, 8, 1991)
+Nuevo: (5000044, 'ALEXIS RAMON', 'BAEZ FERNANDEZ', '11', '8', '1991')
+
+Diferencias para la cédula 5000045:
+Anterior: ('5000045', 'JUAN NICOLAS', 'MONTIEL ALMEIDA', 10, 7, 1995)
+Nuevo: (5000045, 'JUAN NICOLAS', 'MONTIEL ALMEIDA', '10', '7', '1995')
+
+Diferencias para la cédula 5000046:
+Anterior: ('5000046', 'TEODOSIO FERNANDO', 'ORTEGA', 20, 3, 1989)
+Nuevo: (5000046, 'TEODOSIO FERNANDO', 'ORTEGA', '20', '3', '1989')
+
+Diferencias para la cédula 5000047:
+Anterior: ('5000047', 'LUIS ALBERTO', 'CUBILLA CARDOZO', 11, 9, 1996)
+Nuevo: (5000047, 'LUIS ALBERTO', 'CUBILLA CARDOZO', '11', '9', '1996')
+
+Diferencias para la cédula 5000048:
+Anterior: ('5000048', 'FABIAN JOSE', 'RIVEROS RODRIGUEZ', 11, 12, 1990)
+Nuevo: (5000048, 'FABIAN JOSE', 'RIVEROS RODRIGUEZ', '11', '12', '1990')
+
+Diferencias para la cédula 5000049:
+Anterior: ('5000049', 'RICHARD', 'BENITEZ', 11, 3, 1996)
+Nuevo: (5000049, 'RICHARD', 'BENITEZ', '11', '3', '1996')
+
+Diferencias para la cédula 5000050:
+Anterior: ('5000050', 'JUNIOR NICOLAS', 'ZUNINI FLEITAS', 11, 11, 2001)
+Nuevo: (5000050, 'JUNIOR NICOLAS', 'ZUNINI FLEITAS', '11', '11', '2001')
+
+Diferencias para la cédula 5000051:
+Anterior: ('5000051', 'CRISTHIAN VIDAL', 'GONZALEZ DUARTE', 16, 12, 2000)
+Nuevo: (5000051, 'CRISTHIAN VIDAL', 'GONZALEZ DUARTE', '16', '12', '2000')
+
+Diferencias para la cédula 5000052:
+Anterior: ('5000052', 'PEDRO', 'NOGUERA LARES', 17, 2, 1986)
+Nuevo: (5000052, 'PEDRO', 'NOGUERA LARES', '17', '2', '1986')
+
+Diferencias para la cédula 5000053:
+Anterior: ('5000053', 'DERLIS NOEL', 'CABRAL BRIZUELA', 25, 12, 1989)
+Nuevo: (5000053, 'DERLIS NOEL', 'CABRAL BRIZUELA', '25', '12', '1989')
+
+Diferencias para la cédula 5000054:
+Anterior: ('5000054', 'CESAR AUGUSTO', 'BLANCO NOGUERA', 1, 5, 1990)
+Nuevo: (5000054, 'CESAR AUGUSTO', 'BLANCO NOGUERA', '1', '5', '1990')
+
+Diferencias para la cédula 5000055:
+Anterior: ('5000055', 'JORGE ENRIQUE', 'TRINIDAD BENITEZ', 9, 5, 1998)
+Nuevo: (5000055, 'JORGE ENRIQUE', 'TRINIDAD BENITEZ', '9', '5', '1998')
+
+Diferencias para la cédula 5000056:
+Anterior: ('5000056', 'JOSE LUIS', 'VILLALBA CANTERO', 20, 3, 1999)
+Nuevo: (5000056, 'JOSE LUIS', 'VILLALBA CANTERO', '20', '3', '1999')
+
+Diferencias para la cédula 5000057:
+Anterior: ('5000057', 'MARIO EDUARDO', 'PERALTA CAZAL', 15, 5, 1993)
+Nuevo: (5000057, 'MARIO EDUARDO', 'PERALTA CAZAL', '15', '5', '1993')
+
+Diferencias para la cédula 5000058:
+Anterior: ('5000058', 'VICTOR HUGO', 'NOGUERA LARES', 11, 6, 1987)
+Nuevo: (5000058, 'VICTOR HUGO', 'NOGUERA LARES', '11', '6', '1987')
+
+Diferencias para la cédula 5000059:
+Anterior: ('5000059', 'DERLIS ESTEBAN', 'BOBADILLA BRIZUELA', 25, 8, 1993)
+Nuevo: (5000059, 'DERLIS ESTEBAN', 'BOBADILLA BRIZUELA', '25', '8', '1993')
+
+Diferencias para la cédula 5000060:
+Anterior: ('5000060', 'HUGO JAVIER', 'DURE BENITEZ', 24, 3, 1998)
+Nuevo: (5000060, 'HUGO JAVIER', 'DURE BENITEZ', '24', '3', '1998')
+
+Diferencias para la cédula 5000061:
+Anterior: ('5000061', 'GUSTAVO DAVID', 'DOMINGUEZ YEGROS', 25, 7, 1997)
+Nuevo: (5000061, 'GUSTAVO DAVID', 'DOMINGUEZ YEGROS', '25', '7', '1997')
+
+Diferencias para la cédula 5000062:
+Anterior: ('5000062', 'LEONARDO MANUEL', 'SILVA DEL PUERTO', 13, 2, 2002)
+Nuevo: (5000062, 'LEONARDO MANUEL', 'SILVA DEL PUERTO', '13', '2', '2002')
+
+Diferencias para la cédula 5000063:
+Anterior: ('5000063', 'JORGE ANTONIO', 'VEGA SAMANIEGO', 26, 8, 1990)
+Nuevo: (5000063, 'JORGE ANTONIO', 'VEGA SAMANIEGO', '26', '8', '1990')
+
+Diferencias para la cédula 5000064:
+Anterior: ('5000064', 'JOEL MENELIO', 'SANCHEZ YEGROS', 3, 9, 1989)
+Nuevo: (5000064, 'JOEL MENELIO', 'SANCHEZ YEGROS', '3', '9', '1989')
+
+Diferencias para la cédula 5000065:
+Anterior: ('5000065', 'FELIX ALFREDO', 'BENITEZ YEGROS', 3, 11, 1991)
+Nuevo: (5000065, 'FELIX ALFREDO', 'BENITEZ YEGROS', '3', '11', '1991')
+
+Diferencias para la cédula 5000066:
+Anterior: ('5000066', 'GUIDO RUFINO', 'SILVA YEGROS', 28, 4, 1993)
+Nuevo: (5000066, 'GUIDO RUFINO', 'SILVA YEGROS', '28', '4', '1993')
+
+Diferencias para la cédula 5000067:
+Anterior: ('5000067', 'CESAR ENRIQUE', 'SILVA YEGROS', 6, 11, 1990)
+Nuevo: (5000067, 'CESAR ENRIQUE', 'SILVA YEGROS', '6', '11', '1990')
+
+Diferencias para la cédula 5000068:
+Anterior: ('5000068', 'DEISY PATRICIA', 'RIVEROS', 25, 8, 1990)
+Nuevo: (5000068, 'DEISY PATRICIA', 'RIVEROS', '25', '8', '1990')
+
+Diferencias para la cédula 5000069:
+Anterior: ('5000069', 'SANDRA NOEMI', 'VILLALBA ALMADA', 17, 9, 2002)
+Nuevo: (5000069, 'SANDRA NOEMI', 'VILLALBA ALMADA', '17', '9', '2002')
+
+Diferencias para la cédula 5000070:
+Anterior: ('5000070', 'LAURA JAZMIN', 'VARGAS ROLON', 5, 3, 1995)
+Nuevo: (5000070, 'LAURA JAZMIN', 'VARGAS ROLON', '5', '3', '1995')
+
+Diferencias para la cédula 5000071:
+Anterior: ('5000071', 'MAIDA JOSE', 'PANIAGUA BOVEDA', 13, 2, 1995)
+Nuevo: (5000071, 'MAIDA JOSE', 'PANIAGUA BOVEDA', '13', '2', '1995')
+
+Diferencias para la cédula 5000072:
+Anterior: ('5000072', 'VANESSA JOSEFINA', 'ROA JARA', 16, 11, 1996)
+Nuevo: (5000072, 'VANESSA JOSEFINA', 'ROA JARA', '16', '11', '1996')
+
+Diferencias para la cédula 5000073:
+Anterior: ('5000073', 'MARIA VANESSA', 'LOPEZ GOMEZ', 4, 1, 2003)
+Nuevo: (5000073, 'MARIA VANESSA', 'LOPEZ GOMEZ', '4', '1', '2003')
+
+Diferencias para la cédula 5000074:
+Anterior: ('5000074', 'LIZ PAOLA', 'BENITEZ', 20, 4, 1991)
+Nuevo: (5000074, 'LIZ PAOLA', 'BENITEZ', '20', '4', '1991')
+
+Diferencias para la cédula 5000075:
+Anterior: ('5000075', 'VERONICA SOLEDAD', 'AYALA', 1, 3, 1995)
+Nuevo: (5000075, 'VERONICA SOLEDAD', 'AYALA', '1', '3', '1995')
+
+Diferencias para la cédula 5000076:
+Anterior: ('5000076', 'DOMINGA BELEN', 'AYALA', 4, 8, 1992)
+Nuevo: (5000076, 'DOMINGA BELEN', 'AYALA', '4', '8', '1992')
+
+Diferencias para la cédula 5000077:
+Anterior: ('5000077', 'GIOVANNA FIORELLA', 'VERNA CHENA', 3, 5, 1999)
+Nuevo: (5000077, 'GIOVANNA FIORELLA', 'VERNA CHENA', '3', '5', '1999')
+
+Diferencias para la cédula 5000078:
+Anterior: ('5000078', 'LUZ MARINA', 'RETAMOZO TORRES', 18, 6, 1999)
+Nuevo: (5000078, 'LUZ MARINA', 'RETAMOZO TORRES', '18', '6', '1999')
+
+Diferencias para la cédula 5000079:
+Anterior: ('5000079', 'MARIA BEATRIZ', 'FRANCO INSFRAN', 9, 5, 1990)
+Nuevo: (5000079, 'MARIA BEATRIZ', 'FRANCO INSFRAN', '9', '5', '1990')
+
+Diferencias para la cédula 5000080:
+Anterior: ('5000080', 'JANETH ROCIO', 'DUARTE DELGADO', 18, 11, 1995)
+Nuevo: (5000080, 'JANETH ROCIO', 'DUARTE DELGADO', '18', '11', '1995')
+
+Diferencias para la cédula 5000081:
+Anterior: ('5000081', 'AIDA JOSEFINA', 'VELAZQUEZ BENITEZ', 11, 8, 1995)
+Nuevo: (5000081, 'AIDA JOSEFINA', 'VELAZQUEZ BENITEZ', '11', '8', '1995')
+
+Diferencias para la cédula 5000082:
+Anterior: ('5000082', 'ANA ELISA', 'BOGADO RUIZ', 27, 2, 1987)
+Nuevo: (5000082, 'ANA ELISA', 'BOGADO RUIZ', '27', '2', '1987')
+
+Diferencias para la cédula 5000083:
+Anterior: ('5000083', 'DEISY CAROLINA', 'VERA MARTINEZ', 16, 3, 1991)
+Nuevo: (5000083, 'DEISY CAROLINA', 'VERA MARTINEZ', '16', '3', '1991')
+
+Diferencias para la cédula 5000084:
+Anterior: ('5000084', 'LEILA JOSEFINA', 'VALDEZ SAMUDIO', 23, 11, 1988)
+Nuevo: (5000084, 'LEILA JOSEFINA', 'VALDEZ SAMUDIO', '23', '11', '1988')
+
+Diferencias para la cédula 5000085:
+Anterior: ('5000085', 'VALERIANA', 'GIMENEZ RODRIGUEZ', 28, 1, 1990)
+Nuevo: (5000085, 'VALERIANA', 'GIMENEZ RODRIGUEZ', '28', '1', '1990')
+
+Diferencias para la cédula 5000086:
+Anterior: ('5000086', 'VIVIANA ISABEL', 'TROCHE MENDOZA', 7, 9, 2000)
+Nuevo: (5000086, 'VIVIANA ISABEL', 'TROCHE MENDOZA', '7', '9', '2000')
+
+Diferencias para la cédula 5000087:
+Anterior: ('5000087', 'DEVORA RAQUEL', 'INSFRAN MARTINEZ', 5, 4, 1990)
+Nuevo: (5000087, 'DEVORA RAQUEL', 'INSFRAN MARTINEZ', '5', '4', '1990')
+
+Diferencias para la cédula 5000088:
+Anterior: ('5000088', 'RUTH ELIZABETH', 'CANDIA AQUINO', 25, 3, 1994)
+Nuevo: (5000088, 'RUTH ELIZABETH', 'CANDIA AQUINO', '25', '3', '1994')
+
+Diferencias para la cédula 5000089:
+Anterior: ('5000089', 'ANGELA ANTONIA', 'PEÃ\x91A BENITEZ', 13, 2, 1997)
+Nuevo: (5000089, 'ANGELA ANTONIA', 'PEÃ\x91A BENITEZ', '13', '2', '1997')
+
+Diferencias para la cédula 5000090:
+Anterior: ('5000090', 'MARGARITA BEATRIZ', 'RODRIGUEZ CACERES', 27, 2, 1992)
+Nuevo: (5000090, 'MARGARITA BEATRIZ', 'RODRIGUEZ CACERES', '27', '2', '1992')
+
+Diferencias para la cédula 5000091:
+Anterior: ('5000091', 'EVELYN AYELEN', 'SEGOVIA GARCETE', 21, 12, 2002)
+Nuevo: (5000091, 'EVELYN AYELEN', 'SEGOVIA GARCETE', '21', '12', '2002')
+
+Diferencias para la cédula 5000092:
+Anterior: ('5000092', 'ROMILDO RAUL', 'PINTO LEGUIZAMON', 19, 7, 1989)
+Nuevo: (5000092, 'ROMILDO RAUL', 'PINTO LEGUIZAMON', '19', '7', '1989')
+
+Diferencias para la cédula 5000093:
+Anterior: ('5000093', 'CARLOS MARIA', 'FIGUEREDO', 17, 5, 1992)
+Nuevo: (5000093, 'CARLOS MARIA', 'FIGUEREDO', '17', '5', '1992')
+
+Diferencias para la cédula 5000094:
+Anterior: ('5000094', 'ALAN GONZALO', 'RIVEROS SOSA', 17, 6, 1997)
+Nuevo: (5000094, 'ALAN GONZALO', 'RIVEROS SOSA', '17', '6', '1997')
+
+Diferencias para la cédula 5000095:
+Anterior: ('5000095', 'ROSANA MAGALI', 'IBAÃ\x91EZ INSFRAN', 23, 12, 1992)
+Nuevo: (5000095, 'ROSANA MAGALI', 'IBAÃ\x91EZ INSFRAN', '23', '12', '1992')
+
+Diferencias para la cédula 5000096:
+Anterior: ('5000096', 'LETICIA', 'IBAÃ\x91EZ INSFRAN', 27, 2, 1998)
+Nuevo: (5000096, 'LETICIA', 'IBAÃ\x91EZ INSFRAN', '27', '2', '1998')
+
+Diferencias para la cédula 5000097:
+Anterior: ('5000097', 'YANINA', 'BRITEZ MARTINEZ', 23, 1, 1994)
+Nuevo: (5000097, 'YANINA', 'BRITEZ MARTINEZ', '23', '1', '1994')
+
+Diferencias para la cédula 5000098:
+Anterior: ('5000098', 'ROSA ELIZABETH', 'ARZA FLEITAS', 29, 4, 1991)
+Nuevo: (5000098, 'ROSA ELIZABETH', 'ARZA FLEITAS', '29', '4', '1991')
+
+Diferencias para la cédula 5000099:
+Anterior: ('5000099', 'DORIS BELEN', 'RIOS RIVEROS', 24, 12, 1995)
+Nuevo: (5000099, 'DORIS BELEN', 'RIOS RIVEROS', '24', '12', '1995')
+
+Diferencias para la cédula 5000100:
+Anterior: ('5000100', 'MARILINA', 'ALFONSO VILLAR', 6, 5, 1995)
+Nuevo: (5000100, 'MARILINA', 'ALFONSO VILLAR', '6', '5', '1995')
+
+Diferencias para la cédula 5000101:
+Anterior: ('5000101', 'LETICIA', 'AGÃ\x9cERO CORONEL', 15, 6, 1992)
+Nuevo: (5000101, 'LETICIA', 'AGÃ\x9cERO CORONEL', '15', '6', '1992')
+
+Diferencias para la cédula 5000102:
+Anterior: ('5000102', 'LILIANA LUISA', 'LEIVA ALDANA', 22, 6, 1996)
+Nuevo: (5000102, 'LILIANA LUISA', 'LEIVA ALDANA', '22', '6', '1996')
+
+Diferencias para la cédula 5000103:
+Anterior: ('5000103', 'DIANA MABEL', 'ESPINOLA DE BAEZ', 12, 2, 1991)
+Nuevo: (5000103, 'DIANA MABEL', 'ESPINOLA DE BAEZ', '12', '2', '1991')
+
+Diferencias para la cédula 5000104:
+Anterior: ('5000104', 'CYNTHIA CAROLINA', 'RAMIREZ ZEBALLO', 13, 9, 1992)
+Nuevo: (5000104, 'CYNTHIA CAROLINA', 'RAMIREZ ZEBALLO', '13', '9', '1992')
+
+Diferencias para la cédula 5000105:
+Anterior: ('5000105', 'CINTHIA KARINA', 'BENITEZ MORINIGO', 16, 4, 1988)
+Nuevo: (5000105, 'CINTHIA KARINA', 'BENITEZ MORINIGO', '16', '4', '1988')
+
+Diferencias para la cédula 5000106:
+Anterior: ('5000106', 'LETICIA NOEMI', 'VARGAS', 18, 1, 1996)
+Nuevo: (5000106, 'LETICIA NOEMI', 'VARGAS', '18', '1', '1996')
+
+Diferencias para la cédula 5000107:
+Anterior: ('5000107', 'GABRIELA BEATRIZ', 'RIVAS', 20, 4, 1990)
+Nuevo: (5000107, 'GABRIELA BEATRIZ', 'RIVAS', '20', '4', '1990')
+
+Diferencias para la cédula 5000108:
+Anterior: ('5000108', 'NATHALIA LARISSA', 'ORTIZ CHAE', 16, 10, 1996)
+Nuevo: (5000108, 'NATHALIA LARISSA', 'ORTIZ CHAE', '16', '10', '1996')
+
+Diferencias para la cédula 5000109:
+Anterior: ('5000109', 'LILIANA ELIZABETH', 'MOREL AYALA', 25, 9, 2000)
+Nuevo: (5000109, 'LILIANA ELIZABETH', 'MOREL AYALA', '25', '9', '2000')
+
+Diferencias para la cédula 5000110:
+Anterior: ('5000110', 'CYNTHIA CAROLINA', 'GARCIA MOREL', 16, 12, 1990)
+Nuevo: (5000110, 'CYNTHIA CAROLINA', 'GARCIA MOREL', '16', '12', '1990')
+
+Diferencias para la cédula 5000111:
+Anterior: ('5000111', 'SARA YOLANDA', 'NOGUERA MARTINEZ', 8, 1, 1990)
+Nuevo: (5000111, 'SARA YOLANDA', 'NOGUERA MARTINEZ', '8', '1', '1990')
+
+Diferencias para la cédula 5000112:
+Anterior: ('5000112', 'MARIA SOLEDAD', 'DIAZ PATIÃ\x91O', 11, 10, 1989)
+Nuevo: (5000112, 'MARIA SOLEDAD', 'DIAZ PATIÃ\x91O', '11', '10', '1989')
+
+Diferencias para la cédula 5000113:
+Anterior: ('5000113', 'LIZ PAOLA', 'QUINTANA BENITEZ', 29, 7, 1991)
+Nuevo: (5000113, 'LIZ PAOLA', 'QUINTANA BENITEZ', '29', '7', '1991')
+
+Diferencias para la cédula 5000114:
+Anterior: ('5000114', 'JESSICA LILIANA', 'PANIAGUA', 14, 11, 1994)
+Nuevo: (5000114, 'JESSICA LILIANA', 'PANIAGUA', '14', '11', '1994')
+
+Diferencias para la cédula 5000115:
+Anterior: ('5000115', 'YESSENIA GISSELLE', 'AQUINO LESME', 29, 12, 1990)
+Nuevo: (5000115, 'YESSENIA GISSELLE', 'AQUINO LESME', '29', '12', '1990')
+
+Diferencias para la cédula 5000116:
+Anterior: ('5000116', 'CYNTHIA NOEMI', 'DUARTE PEREIRA', 11, 9, 1991)
+Nuevo: (5000116, 'CYNTHIA NOEMI', 'DUARTE PEREIRA', '11', '9', '1991')
+
+Diferencias para la cédula 5000117:
+Anterior: ('5000117', 'DAISY LUCIA', 'OZORIO FLEITAS', 18, 3, 1992)
+Nuevo: (5000117, 'DAISY LUCIA', 'OZORIO FLEITAS', '18', '3', '1992')
+
+Diferencias para la cédula 5000118:
+Anterior: ('5000118', 'ELIANA GISSELLE', 'DASILVA BUSTO', 13, 12, 1993)
+Nuevo: (5000118, 'ELIANA GISSELLE', 'DASILVA BUSTO', '13', '12', '1993')
+
+Diferencias para la cédula 5000119:
+Anterior: ('5000119', 'CASILDA', 'FERREIRA QUIÃ\x91ONEZ', 9, 4, 1991)
+Nuevo: (5000119, 'CASILDA', 'FERREIRA QUIÃ\x91ONEZ', '9', '4', '1991')
+
+Diferencias para la cédula 5000120:
+Anterior: ('5000120', 'ALICIA', 'RAMIREZ ZEBALLO', 17, 7, 1990)
+Nuevo: (5000120, 'ALICIA', 'RAMIREZ ZEBALLO', '17', '7', '1990')
+
+Diferencias para la cédula 5000121:
+Anterior: ('5000121', 'ANA NOEMI', 'PRIETO SILVA', 21, 11, 1990)
+Nuevo: (5000121, 'ANA NOEMI', 'PRIETO SILVA', '21', '11', '1990')
+
+Diferencias para la cédula 5000122:
+Anterior: ('5000122', 'GABRIELA MONTSERRAT', 'GAMARRA', 16, 1, 1987)
+Nuevo: (5000122, 'GABRIELA MONTSERRAT', 'GAMARRA', '16', '1', '1987')
+
+Diferencias para la cédula 5000123:
+Anterior: ('5000123', 'MARIA GREGORIA', 'ALVAREZ ROA', 25, 8, 1993)
+Nuevo: (5000123, 'MARIA GREGORIA', 'ALVAREZ ROA', '25', '8', '1993')
+
+Diferencias para la cédula 5000124:
+Anterior: ('5000124', 'MARIA GISSELA', 'PANIAGUA MELGAREJO', 8, 4, 1997)
+Nuevo: (5000124, 'MARIA GISSELA', 'PANIAGUA MELGAREJO', '8', '4', '1997')
+
+Diferencias para la cédula 5000125:
+Anterior: ('5000125', 'MARIA VICTORIA', 'PANIAGUA MELGAREJO', 8, 4, 1997)
+Nuevo: (5000125, 'MARIA VICTORIA', 'PANIAGUA MELGAREJO', '8', '4', '1997')
+
+Diferencias para la cédula 5000126:
+Anterior: ('5000126', 'LUZ MARIELA', 'SILGUERO', 30, 5, 1992)
+Nuevo: (5000126, 'LUZ MARIELA', 'SILGUERO', '30', '5', '1992')
+
+Diferencias para la cédula 5000127:
+Anterior: ('5000127', 'SUSANA ELIZABETH', 'QUINTANA PEREZ', 3, 4, 1993)
+Nuevo: (5000127, 'SUSANA ELIZABETH', 'QUINTANA PEREZ', '3', '4', '1993')
+
+Diferencias para la cédula 5000128:
+Anterior: ('5000128', 'SONIA JOHANA', 'MARTINEZ MOREL', 20, 7, 1991)
+Nuevo: (5000128, 'SONIA JOHANA', 'MARTINEZ MOREL', '20', '7', '1991')
+
+Diferencias para la cédula 5000129:
+Anterior: ('5000129', 'PAOLA ANALIA', 'DUARTE RODRIGUEZ', 29, 6, 1993)
+Nuevo: (5000129, 'PAOLA ANALIA', 'DUARTE RODRIGUEZ', '29', '6', '1993')
+
+Diferencias para la cédula 5000130:
+Anterior: ('5000130', 'VIRGINIA', 'SILVA', 26, 6, 1981)
+Nuevo: (5000130, 'VIRGINIA', 'SILVA', '26', '6', '1981')
+
+Diferencias para la cédula 5000131:
+Anterior: ('5000131', 'GABRIELA DENICE', 'MARTINEZ', 9, 12, 1987)
+Nuevo: (5000131, 'GABRIELA DENICE', 'MARTINEZ', '9', '12', '1987')
+
+Diferencias para la cédula 5000132:
+Anterior: ('5000132', 'SHEILA ALEJANDRA', 'DA SILVA CABAÃ\x91A', 5, 7, 1999)
+Nuevo: (5000132, 'SHEILA ALEJANDRA', 'DA SILVA CABAÃ\x91A', '5', '7', '1999')
+
+Diferencias para la cédula 5000133:
+Anterior: ('5000133', 'GABRIELA MAGALI', 'FERNANDEZ MASCHERONI', 21, 4, 1998)
+Nuevo: (5000133, 'GABRIELA MAGALI', 'FERNANDEZ MASCHERONI', '21', '4', '1998')
+
+Diferencias para la cédula 5000134:
+Anterior: ('5000134', 'HIPOLITA CASIANA', 'FLECHA', 13, 8, 1929)
+Nuevo: (5000134, 'HIPOLITA CASIANA', 'FLECHA', '13', '8', '1929')
+
+Diferencias para la cédula 5000135:
+Anterior: ('5000135', 'CLAUDIA PAOLA', 'BAREIRO DELGADO', 28, 1, 1992)
+Nuevo: (5000135, 'CLAUDIA PAOLA', 'BAREIRO DELGADO', '28', '1', '1992')
+
+Diferencias para la cédula 5000136:
+Anterior: ('5000136', 'MARIA ESTEFANY', 'OVIEDO AYALA', 18, 8, 2002)
+Nuevo: (5000136, 'MARIA ESTEFANY', 'OVIEDO AYALA', '18', '8', '2002')
+
+Diferencias para la cédula 5000137:
+Anterior: ('5000137', 'GRISELDA NOEMI', 'BENITEZ BRITEZ', 12, 8, 1997)
+Nuevo: (5000137, 'GRISELDA NOEMI', 'BENITEZ BRITEZ', '12', '8', '1997')
+
+Diferencias para la cédula 5000138:
+Anterior: ('5000138', 'FIORELLA AYELEN', 'OLMEDO VEGA', 15, 2, 1997)
+Nuevo: (5000138, 'FIORELLA AYELEN', 'OLMEDO VEGA', '15', '2', '1997')
+
+Diferencias para la cédula 5000139:
+Anterior: ('5000139', 'MARIA PATRICIA', 'GUANES OVIEDO', 14, 5, 1990)
+Nuevo: (5000139, 'MARIA PATRICIA', 'GUANES OVIEDO', '14', '5', '1990')
+
+Diferencias para la cédula 5000140:
+Anterior: ('5000140', 'RUTH ESTER', 'ARGÃ\x9cELLO', 19, 8, 1989)
+Nuevo: (5000140, 'RUTH ESTER', 'ARGÃ\x9cELLO', '19', '8', '1989')
+
+Diferencias para la cédula 5000141:
+Anterior: ('5000141', 'SAMANTHA ELIZABETH', 'MARTINEZ DUARTE', 9, 3, 1997)
+Nuevo: (5000141, 'SAMANTHA ELIZABETH', 'MARTINEZ DUARTE', '9', '3', '1997')
+
+Diferencias para la cédula 5000142:
+Anterior: ('5000142', 'CAMILA ANAHI', 'CACERES RUIZ DIAZ', 12, 7, 2002)
+Nuevo: (5000142, 'CAMILA ANAHI', 'CACERES RUIZ DIAZ', '12', '7', '2002')
+
+Diferencias para la cédula 5000143:
+Anterior: ('5000143', 'JULIETA ARAMI', 'CACERES RUIZ DIAZ', 14, 2, 2001)
+Nuevo: (5000143, 'JULIETA ARAMI', 'CACERES RUIZ DIAZ', '14', '2', '2001')
+
+Diferencias para la cédula 5000144:
+Anterior: ('5000144', 'JESSICA PAOLA', 'MARTINEZ MOREL', 28, 12, 1992)
+Nuevo: (5000144, 'JESSICA PAOLA', 'MARTINEZ MOREL', '28', '12', '1992')
+
+Diferencias para la cédula 5000145:
+Anterior: ('5000145', 'SONIA ELIZABETH', 'VERON', 29, 12, 1985)
+Nuevo: (5000145, 'SONIA ELIZABETH', 'VERON', '29', '12', '1985')
+
+Diferencias para la cédula 5000146:
+Anterior: ('5000146', 'VERONICA MONSERRAT', 'ROA JARA', 26, 2, 1997)
+Nuevo: (5000146, 'VERONICA MONSERRAT', 'ROA JARA', '26', '2', '1997')
+
+Diferencias para la cédula 5000147:
+Anterior: ('5000147', 'MILDREN CAROLINA', 'MANCUELLO AQUINO', 28, 4, 1998)
+Nuevo: (5000147, 'MILDREN CAROLINA', 'MANCUELLO AQUINO', '28', '4', '1998')
+
+Diferencias para la cédula 5000148:
+Anterior: ('5000148', 'DAYSI REBECA', 'VALDEZ AQUINO', 18, 5, 1993)
+Nuevo: (5000148, 'DAYSI REBECA', 'VALDEZ AQUINO', '18', '5', '1993')
+
+Diferencias para la cédula 5000149:
+Anterior: ('5000149', 'DRICA FIORELLA', 'GAVILAN PEÃ\x91A', 15, 1, 1998)
+Nuevo: (5000149, 'DRICA FIORELLA', 'GAVILAN PEÃ\x91A', '15', '1', '1998')
+
+Diferencias para la cédula 5000150:
+Anterior: ('5000150', 'PAULA LUJAN', 'IBAÃ\x91EZ ALVARENGA', 26, 9, 2002)
+Nuevo: (5000150, 'PAULA LUJAN', 'IBAÃ\x91EZ ALVARENGA', '26', '9', '2002')
+
+Diferencias para la cédula 5000151:
+Anterior: ('5000151', 'PAMELA RAQUEL', 'GAMEZ', 9, 6, 1990)
+Nuevo: (5000151, 'PAMELA RAQUEL', 'GAMEZ', '9', '6', '1990')
+
+Diferencias para la cédula 5000152:
+Anterior: ('5000152', 'ALICIA', 'AGUERO CORONEL', 25, 1, 1994)
+Nuevo: (5000152, 'ALICIA', 'AGUERO CORONEL', '25', '1', '1994')
+
+Diferencias para la cédula 5000153:
+Anterior: ('5000153', 'JUANA BEATRIZ', 'GOMEZ DUARTE', 24, 11, 1989)
+Nuevo: (5000153, 'JUANA BEATRIZ', 'GOMEZ DUARTE', '24', '11', '1989')
+
+Diferencias para la cédula 5000154:
+Anterior: ('5000154', 'MARINA', 'GONZALEZ BRITEZ', 9, 11, 1973)
+Nuevo: (5000154, 'MARINA', 'GONZALEZ BRITEZ', '9', '11', '1973')
+
+Diferencias para la cédula 5000155:
+Anterior: ('5000155', 'NATALIA JAZMIN', 'PALACIOS AVALOS', 17, 11, 1996)
+Nuevo: (5000155, 'NATALIA JAZMIN', 'PALACIOS AVALOS', '17', '11', '1996')
+
+Diferencias para la cédula 5000156:
+Anterior: ('5000156', 'ROCIO CELESTE', 'MOREL DE RIQUELME', 1, 4, 1992)
+Nuevo: (5000156, 'ROCIO CELESTE', 'MOREL DE RIQUELME', '1', '4', '1992')
+
+Diferencias para la cédula 5000157:
+Anterior: ('5000157', 'SILVIA RAQUEL', 'MOREL AYALA', 16, 3, 1993)
+Nuevo: (5000157, 'SILVIA RAQUEL', 'MOREL AYALA', '16', '3', '1993')
+
+Diferencias para la cédula 5000158:
+Anterior: ('5000158', 'MARIA BEATRIZ', 'CHAVEZ FLEYTAS', 20, 1, 1998)
+Nuevo: (5000158, 'MARIA BEATRIZ', 'CHAVEZ FLEYTAS', '20', '1', '1998')
+
+Diferencias para la cédula 5000159:
+Anterior: ('5000159', 'YESSICA GENOVEVA', 'DOMINGUEZ CANTERO', 28, 11, 1992)
+Nuevo: (5000159, 'YESSICA GENOVEVA', 'DOMINGUEZ CANTERO', '28', '11', '1992')
+
+Diferencias para la cédula 5000160:
+Anterior: ('5000160', 'JOHANA NOEMI', 'PANIAGUA CORRALES', 22, 12, 1991)
+Nuevo: (5000160, 'JOHANA NOEMI', 'PANIAGUA CORRALES', '22', '12', '1991')
+
+Diferencias para la cédula 5000161:
+Anterior: ('5000161', 'ROCIO MABEL', 'GUERREROS ORTIZ', 6, 10, 1996)
+Nuevo: (5000161, 'ROCIO MABEL', 'GUERREROS ORTIZ', '6', '10', '1996')
+
+Diferencias para la cédula 5000162:
+Anterior: ('5000162', 'CLARA ELIZABETH', 'AVALOS FRETES', 17, 7, 1994)
+Nuevo: (5000162, 'CLARA ELIZABETH', 'AVALOS FRETES', '17', '7', '1994')
+
+Diferencias para la cédula 5000163:
+Anterior: ('5000163', 'ROCIO', 'CABALLERO LEGUIZAMON', 9, 7, 1988)
+Nuevo: (5000163, 'ROCIO', 'CABALLERO LEGUIZAMON', '9', '7', '1988')
+
+Diferencias para la cédula 5000164:
+Anterior: ('5000164', 'VANESSA', 'ARCE RIVEROS', 13, 9, 1998)
+Nuevo: (5000164, 'VANESSA', 'ARCE RIVEROS', '13', '9', '1998')
+
+Diferencias para la cédula 5000165:
+Anterior: ('5000165', 'REGINA MICHAELLA', 'GUANES GOMEZ', 29, 7, 1997)
+Nuevo: (5000165, 'REGINA MICHAELLA', 'GUANES GOMEZ', '29', '7', '1997')
+
+Diferencias para la cédula 5000166:
+Anterior: ('5000166', 'LIZETT MARIA', 'ESPINOLA ROJAS', 18, 10, 1998)
+Nuevo: (5000166, 'LIZETT MARIA', 'ESPINOLA ROJAS', '18', '10', '1998')
+
+Diferencias para la cédula 5000167:
+Anterior: ('5000167', 'ANDREA MARIA BELEN', 'MOREL PANIAGUA', 8, 9, 1995)
+Nuevo: (5000167, 'ANDREA MARIA BELEN', 'MOREL PANIAGUA', '8', '9', '1995')
+
+Diferencias para la cédula 5000168:
+Anterior: ('5000168', 'SOFIA REGINA', 'CHAVEZ FLEYTAS', 2, 9, 2000)
+Nuevo: (5000168, 'SOFIA REGINA', 'CHAVEZ FLEYTAS', '2', '9', '2000')
+
+Diferencias para la cédula 5000169:
+Anterior: ('5000169', 'MARIA CECILIA', 'PANIAGUA BOVEDA', 27, 3, 1993)
+Nuevo: (5000169, 'MARIA CECILIA', 'PANIAGUA BOVEDA', '27', '3', '1993')
+
+Diferencias para la cédula 5000170:
+Anterior: ('5000170', 'LIZ KARINA', 'FIGUEREDO', 6, 2, 2001)
+Nuevo: (5000170, 'LIZ KARINA', 'FIGUEREDO', '6', '2', '2001')
+
+Diferencias para la cédula 5000171:
+Anterior: ('5000171', 'NIDIA SOLEDAD', 'VELAZQUEZ PRIETO', 22, 2, 1991)
+Nuevo: (5000171, 'NIDIA SOLEDAD', 'VELAZQUEZ PRIETO', '22', '2', '1991')
+
+Diferencias para la cédula 5000172:
+Anterior: ('5000172', 'MARIA TATIANA', 'MORINIGO RIOS', 31, 12, 1996)
+Nuevo: (5000172, 'MARIA TATIANA', 'MORINIGO RIOS', '31', '12', '1996')
+
+Diferencias para la cédula 5000173:
+Anterior: ('5000173', 'MARIANELA YERUTI', 'MORALES PEÃ\x91A', 6, 12, 2002)
+Nuevo: (5000173, 'MARIANELA YERUTI', 'MORALES PEÃ\x91A', '6', '12', '2002')
+
+Diferencias para la cédula 5000174:
+Anterior: ('5000174', 'CAROLINA', 'IBARRA GONZALEZ', 31, 7, 1997)
+Nuevo: (5000174, 'CAROLINA', 'IBARRA GONZALEZ', '31', '7', '1997')
+
+Diferencias para la cédula 5000175:
+Anterior: ('5000175', 'LOURDES OFELIA', 'IBARRA GONZALEZ', 5, 7, 1991)
+Nuevo: (5000175, 'LOURDES OFELIA', 'IBARRA GONZALEZ', '5', '7', '1991')
+
+Diferencias para la cédula 5000176:
+Anterior: ('5000176', 'CINTHIA SOLEDAD', 'SANDOVAL VEGA', 2, 1, 1991)
+Nuevo: (5000176, 'CINTHIA SOLEDAD', 'SANDOVAL VEGA', '2', '1', '1991')
+
+Diferencias para la cédula 5000177:
+Anterior: ('5000177', 'MARIA ESTER', 'MENDOZA MARECO', 6, 6, 1991)
+Nuevo: (5000177, 'MARIA ESTER', 'MENDOZA MARECO', '6', '6', '1991')
+
+Diferencias para la cédula 5000178:
+Anterior: ('5000178', 'FANNY LORENA', 'GONZALEZ DE PEREIRA', 28, 10, 1996)
+Nuevo: (5000178, 'FANNY LORENA', 'GONZALEZ DE PEREIRA', '28', '10', '1996')
+
+Diferencias para la cédula 5000179:
+Anterior: ('5000179', 'YESSICA PAOLA', 'MEZA', 17, 4, 1996)
+Nuevo: (5000179, 'YESSICA PAOLA', 'MEZA', '17', '4', '1996')
+
+Diferencias para la cédula 5000180:
+Anterior: ('5000180', 'CINTHIA LIZ MAIDA', 'SANTACRUZ BENITEZ', 17, 10, 1994)
+Nuevo: (5000180, 'CINTHIA LIZ MAIDA', 'SANTACRUZ BENITEZ', '17', '10', '1994')
+
+Diferencias para la cédula 5000181:
+Anterior: ('5000181', 'MIRTA GABRIELA', 'YEGROS NOGUERA', 4, 12, 1991)
+Nuevo: (5000181, 'MIRTA GABRIELA', 'YEGROS NOGUERA', '4', '12', '1991')
+
+Diferencias para la cédula 5000182:
+Anterior: ('5000182', 'ROMINA BEATRIZ', 'AGUERO MORAN', 28, 4, 1992)
+Nuevo: (5000182, 'ROMINA BEATRIZ', 'AGUERO MORAN', '28', '4', '1992')
+
+Diferencias para la cédula 5000183:
+Anterior: ('5000183', 'EDELINA', 'CABALLERO', 22, 5, 1990)
+Nuevo: (5000183, 'EDELINA', 'CABALLERO', '22', '5', '1990')
+
+Diferencias para la cédula 5000184:
+Anterior: ('5000184', 'LIZ ADRIANA', 'VILLALBA ALMADA', 2, 6, 1991)
+Nuevo: (5000184, 'LIZ ADRIANA', 'VILLALBA ALMADA', '2', '6', '1991')
+
+Diferencias para la cédula 5000185:
+Anterior: ('5000185', 'JENNIFER MARIA GISELLE', 'BOGADO MACIEL', 7, 12, 1998)
+Nuevo: (5000185, 'JENNIFER MARIA GISELLE', 'BOGADO MACIEL', '7', '12', '1998')
+
+Diferencias para la cédula 5000186:
+Anterior: ('5000186', 'SAIDA LIBRADA', 'DIAZ FRETES', 20, 7, 1990)
+Nuevo: (5000186, 'SAIDA LIBRADA', 'DIAZ FRETES', '20', '7', '1990')
+
+Diferencias para la cédula 5000187:
+Anterior: ('5000187', 'MARIA KARINA', 'BENITEZ YEGROS', 6, 5, 1993)
+Nuevo: (5000187, 'MARIA KARINA', 'BENITEZ YEGROS', '6', '5', '1993')
+
+Diferencias para la cédula 5000188:
+Anterior: ('5000188', 'LUCERO NOEMI', 'OJEDA MORENO', 12, 7, 1997)
+Nuevo: (5000188, 'LUCERO NOEMI', 'OJEDA MORENO', '12', '7', '1997')
+
+Diferencias para la cédula 5000189:
+Anterior: ('5000189', 'ROSA ISABEL', 'MONTIEL ALMEIDA', 23, 8, 1993)
+Nuevo: (5000189, 'ROSA ISABEL', 'MONTIEL ALMEIDA', '23', '8', '1993')
+
+Diferencias para la cédula 5000190:
+Anterior: ('5000190', 'LETICIA MARIA INES', 'FIGUEREDO DEL PUERTO', 15, 4, 1999)
+Nuevo: (5000190, 'LETICIA MARIA INES', 'FIGUEREDO DEL PUERTO', '15', '4', '1999')
+
+Diferencias para la cédula 5000191:
+Anterior: ('5000191', 'SANDRA CORAL', 'DOMINGUEZ PAVON', 30, 10, 1997)
+Nuevo: (5000191, 'SANDRA CORAL', 'DOMINGUEZ PAVON', '30', '10', '1997')
+
+Diferencias para la cédula 5000192:
+Anterior: ('5000192', 'LUZ CLARA', 'GONZALEZ MONTIEL', 29, 8, 1997)
+Nuevo: (5000192, 'LUZ CLARA', 'GONZALEZ MONTIEL', '29', '8', '1997')
+
+Diferencias para la cédula 5000193:
+Anterior: ('5000193', 'VALERIA DOLORES', 'NAVARRO FERNANDEZ', 22, 3, 1991)
+Nuevo: (5000193, 'VALERIA DOLORES', 'NAVARRO FERNANDEZ', '22', '3', '1991')
+
+Diferencias para la cédula 5000194:
+Anterior: ('5000194', 'MARIA LUCIA', 'VILLALBA ALMADA', 6, 3, 1999)
+Nuevo: (5000194, 'MARIA LUCIA', 'VILLALBA ALMADA', '6', '3', '1999')
+
+Diferencias para la cédula 5000195:
+Anterior: ('5000195', 'LOURDES FABIOLA', 'BOBADILLA', 8, 6, 1991)
+Nuevo: (5000195, 'LOURDES FABIOLA', 'BOBADILLA', '8', '6', '1991')
+
+Diferencias para la cédula 5000196:
+Anterior: ('5000196', 'MARTHA BEATRIZ', 'RIVEROS ROA', 10, 4, 1992)
+Nuevo: (5000196, 'MARTHA BEATRIZ', 'RIVEROS ROA', '10', '4', '1992')
+
+Diferencias para la cédula 5000197:
+Anterior: ('5000197', 'QUICELA ALDANA', 'FLEITAS', 8, 1, 1987)
+Nuevo: (5000197, 'QUICELA ALDANA', 'FLEITAS', '8', '1', '1987')
+
+Diferencias para la cédula 5000198:
+Anterior: ('5000198', 'MONICA MARIA', 'RODRIGUEZ CACERES', 10, 3, 1993)
+Nuevo: (5000198, 'MONICA MARIA', 'RODRIGUEZ CACERES', '10', '3', '1993')
+
+Diferencias para la cédula 5000199:
+Anterior: ('5000199', 'MARIZA RAQUEL', 'BENITEZ GONZALEZ', 29, 7, 1990)
+Nuevo: (5000199, 'MARIZA RAQUEL', 'BENITEZ GONZALEZ', '29', '7', '1990')
+
+Diferencias para la cédula 5000200:
+Anterior: ('5000200', 'PAMELA BEATRIZ', 'BENITEZ ACOSTA', 26, 5, 1990)
+Nuevo: (5000200, 'PAMELA BEATRIZ', 'BENITEZ ACOSTA', '26', '5', '1990')
+
+Diferencias para la cédula 5000201:
+Anterior: ('5000201', 'SABINA NATALIA', 'RIOS LANDAIDA', 25, 12, 1988)
+Nuevo: (5000201, 'SABINA NATALIA', 'RIOS LANDAIDA', '25', '12', '1988')
+
+Diferencias para la cédula 5000202:
+Anterior: ('5000202', 'LILIANA SOLEDAD', 'ESTIGARRIBIA GONZALEZ', 11, 10, 1991)
+Nuevo: (5000202, 'LILIANA SOLEDAD', 'ESTIGARRIBIA GONZALEZ', '11', '10', '1991')
+
+Diferencias para la cédula 5000203:
+Anterior: ('5000203', 'NAILA LUJAN', 'CORONEL RIVEROS', 9, 7, 1998)
+Nuevo: (5000203, 'NAILA LUJAN', 'CORONEL RIVEROS', '9', '7', '1998')
+
+Diferencias para la cédula 5000204:
+Anterior: ('5000204', 'GERONIMA', 'BENITEZ', 30, 9, 1981)
+Nuevo: (5000204, 'GERONIMA', 'BENITEZ', '30', '9', '1981')
+
+Diferencias para la cédula 5000205:
+Anterior: ('5000205', 'MARIO MIGUEL', 'LUGO', 28, 7, 2001)
+Nuevo: (5000205, 'MARIO MIGUEL', 'LUGO', '28', '7', '2001')
+
+Diferencias para la cédula 5000206:
+Anterior: ('5000206', 'DEISY DAHIANA', 'ALVAREZ PAEZ', 16, 6, 1995)
+Nuevo: (5000206, 'DEISY DAHIANA', 'ALVAREZ PAEZ', '16', '6', '1995')
+
+Diferencias para la cédula 5000207:
+Anterior: ('5000207', 'NILDA', 'MEZA', 1, 9, 1965)
+Nuevo: (5000207, 'NILDA', 'MEZA', '1', '9', '1965')
+
+Diferencias para la cédula 5000208:
+Anterior: ('5000208', 'REBECA ABIGAIL', 'VAZQUEZ CARBALLO', 22, 12, 2001)
+Nuevo: (5000208, '', '', '', '', '')
+
+Diferencias para la cédula 5000209:
+Anterior: ('5000209', 'FATIMA NOEMI', 'BARRIOS DE RODRIGUEZ', 19, 7, 1990)
+Nuevo: (5000209, 'FATIMA NOEMI', 'BARRIOS DE RODRIGUEZ', '19', '7', '1990')
+
+Diferencias para la cédula 5000210:
+Anterior: ('5000210', 'MARLENE', 'BENITEZ', 8, 8, 1993)
+Nuevo: (5000210, 'MARLENE', 'BENITEZ', '8', '8', '1993')
+
+Diferencias para la cédula 5000211:
+Anterior: ('5000211', 'LUZ MARIA', 'GONZALEZ', 7, 4, 1998)
+Nuevo: (5000211, 'LUZ MARIA', 'GONZALEZ', '7', '4', '1998')
+
+Diferencias para la cédula 5000212:
+Anterior: ('5000212', 'ANA MABEL', 'DOMINGUEZ DUARTE', 13, 4, 1990)
+Nuevo: (5000212, 'ANA MABEL', 'DOMINGUEZ DUARTE', '13', '4', '1990')
+
+Diferencias para la cédula 5000213:
+Anterior: ('5000213', 'LEIDY DIANA', 'SANTACRUZ BENITEZ', 3, 9, 1996)
+Nuevo: (5000213, 'LEIDY DIANA', 'SANTACRUZ BENITEZ', '3', '9', '1996')
+
+Diferencias para la cédula 5000214:
+Anterior: ('5000214', 'MARLY RAQUEL', 'BENITEZ ESPINOLA', 29, 7, 1997)
+Nuevo: (5000214, 'MARLY RAQUEL', 'BENITEZ ESPINOLA', '29', '7', '1997')
+
+Diferencias para la cédula 5000215:
+Anterior: ('5000215', 'CYNTHIA MARLENE', 'ESPINOLA', 7, 4, 1996)
+Nuevo: (5000215, 'CYNTHIA MARLENE', 'ESPINOLA', '7', '4', '1996')
+
+Diferencias para la cédula 5000216:
+Anterior: ('5000216', 'REBECA NOEMI', 'MEDINA VAZQUEZ', 16, 6, 1994)
+Nuevo: (5000216, 'REBECA NOEMI', 'MEDINA VAZQUEZ', '16', '6', '1994')
+
+Diferencias para la cédula 5000217:
+Anterior: ('5000217', 'NELIDA', 'LOPEZ GONZALEZ', 26, 11, 1987)
+Nuevo: (5000217, 'NELIDA', 'LOPEZ GONZALEZ', '26', '11', '1987')
+
+Diferencias para la cédula 5000218:
+Anterior: ('5000218', 'NIDIA MABEL', 'SOSA LEDESMA', 12, 3, 1985)
+Nuevo: (5000218, 'NIDIA MABEL', 'SOSA LEDESMA', '12', '3', '1985')
+
+Diferencias para la cédula 5000219:
+Anterior: ('5000219', 'KARINA NOEMI', 'VAZQUEZ MELGAREJO', 4, 3, 1994)
+Nuevo: (5000219, 'KARINA NOEMI', 'VAZQUEZ MELGAREJO', '4', '3', '1994')
+
+Diferencias para la cédula 5000220:
+Anterior: ('5000220', 'JAZMIN BETHARRAM', 'MOLINAS CRUZ', 7, 10, 2002)
+Nuevo: (5000220, 'JAZMIN BETHARRAM', 'MOLINAS CRUZ', '7', '10', '2002')
+
+Diferencias para la cédula 5000221:
+Anterior: ('5000221', 'MARIANA', 'SOSA GONZALEZ', 10, 4, 1997)
+Nuevo: (5000221, 'MARIANA', 'SOSA GONZALEZ', '10', '4', '1997')
+
+Diferencias para la cédula 5000222:
+Anterior: ('5000222', 'YOHANA MARICEL', 'MOREL ORTIZ', 19, 1, 1990)
+Nuevo: (5000222, 'YOHANA MARICEL', 'MOREL ORTIZ', '19', '1', '1990')
+
+Diferencias para la cédula 5000223:
+Anterior: ('5000223', 'ERMA DELMIRA', 'LEIVA DE BENITEZ', 22, 3, 1993)
+Nuevo: (5000223, 'ERMA DELMIRA', 'LEIVA DE BENITEZ', '22', '3', '1993')
+
+Diferencias para la cédula 5000224:
+Anterior: ('5000224', 'VANESSA MABEL', 'MIÃ\x91ARRO BENITEZ', 19, 9, 1992)
+Nuevo: (5000224, 'VANESSA MABEL', 'MIÃ\x91ARRO BENITEZ', '19', '9', '1992')
+
+Diferencias para la cédula 5000225:
+Anterior: ('5000225', 'VERONICA', 'SOSA GONZALEZ', 2, 12, 1995)
+Nuevo: (5000225, 'VERONICA', 'SOSA GONZALEZ', '2', '12', '1995')
+
+Diferencias para la cédula 5000226:
+Anterior: ('5000226', 'GLADYS RAQUEL', 'BENEGAS', 29, 4, 1992)
+Nuevo: (5000226, 'GLADYS RAQUEL', 'BENEGAS', '29', '4', '1992')
+
+Diferencias para la cédula 5000227:
+Anterior: ('5000227', 'ROCIO NATALIA', 'ACUÃ\x91A SANTACRUZ', 16, 8, 1996)
+Nuevo: (5000227, 'ROCIO NATALIA', 'ACUÃ\x91A SANTACRUZ', '16', '8', '1996')
+
+Diferencias para la cédula 5000228:
+Anterior: ('5000228', 'LILIANA EDITH', 'PEREZ', 5, 4, 1993)
+Nuevo: (5000228, 'LILIANA EDITH', 'PEREZ', '5', '4', '1993')
+
+Diferencias para la cédula 5000229:
+Anterior: ('5000229', 'ANDREA BELEN', 'FRANCO PEREIRA', 24, 12, 1990)
+Nuevo: (5000229, 'ANDREA BELEN', 'FRANCO PEREIRA', '24', '12', '1990')
+
+Diferencias para la cédula 5000230:
+Anterior: ('5000230', 'FERNANDA MABEL', 'RIOS FRANCO', 13, 5, 1999)
+Nuevo: (5000230, 'FERNANDA MABEL', 'RIOS FRANCO', '13', '5', '1999')
+
+Diferencias para la cédula 5000231:
+Anterior: ('5000231', 'NELLY', 'VALDEZ ALMIRON', 20, 11, 1989)
+Nuevo: (5000231, 'NELLY', 'VALDEZ ALMIRON', '20', '11', '1989')
+
+Diferencias para la cédula 5000232:
+Anterior: ('5000232', 'LEANDRO', 'RODRIGUEZ LAZZINI', 1, 8, 1975)
+Nuevo: (5000232, 'LEANDRO', 'RODRIGUEZ LAZZINI', '1', '8', '1975')
+
+Diferencias para la cédula 5000233:
+Anterior: ('5000233', 'FOUAD KAMAL', 'MERHI', 25, 2, 1977)
+Nuevo: (5000233, 'FOUAD KAMAL', 'MERHI', '25', '2', '1977')
+
+Diferencias para la cédula 5000234:
+Anterior: ('5000234', 'DAYRIM', 'ABRANTE SISTO', 18, 1, 1973)
+Nuevo: (5000234, 'DAYRIM', 'ABRANTE SISTO', '18', '1', '1973')
+
+Diferencias para la cédula 5000235:
+Anterior: ('5000235', 'LIZ PAOLA', 'LOPEZ', 4, 4, 1995)
+Nuevo: (5000235, 'LIZ PAOLA', 'LOPEZ', '4', '4', '1995')
+
+Diferencias para la cédula 5000236:
+Anterior: ('5000236', 'PEDRO LUIS', 'CHAVEZ ZEBALLOS', 19, 11, 1976)
+Nuevo: (5000236, 'PEDRO LUIS', 'CHAVEZ ZEBALLOS', '19', '11', '1976')
+
+Diferencias para la cédula 5000237:
+Anterior: ('5000237', 'SEUNG YONG', 'KIM', 17, 12, 1968)
+Nuevo: (5000237, 'SEUNG YONG', 'KIM', '17', '12', '1968')
+
+Diferencias para la cédula 5000238:
+Anterior: ('5000238', 'LUCIA ANGELICA', 'VALENTI', 20, 10, 1950)
+Nuevo: (5000238, 'LUCIA ANGELICA', 'VALENTI', '20', '10', '1950')
+
+Diferencias para la cédula 5000239:
+Anterior: ('5000239', 'JOSE APARECIDO', 'DE OLIVEIRA', 4, 10, 1974)
+Nuevo: (5000239, 'JOSE APARECIDO', 'DE OLIVEIRA', '4', '10', '1974')
+
+Diferencias para la cédula 5000240:
+Anterior: ('5000240', 'ODAIR FLAVIO', 'REIMANN', 7, 6, 1973)
+Nuevo: (5000240, 'ODAIR FLAVIO', 'REIMANN', '7', '6', '1973')
+
+Diferencias para la cédula 5000241:
+Anterior: ('5000241', 'CELIO', 'SCHUG', 31, 7, 1976)
+Nuevo: (5000241, 'CELIO', 'SCHUG', '31', '7', '1976')
+
+Diferencias para la cédula 5000242:
+Anterior: ('5000242', 'MARILETE', 'DE OLIVEIRA DE COLHADO', 10, 1, 1971)
+Nuevo: (5000242, 'MARILETE', 'DE OLIVEIRA DE COLHADO', '10', '1', '1971')
+
+Diferencias para la cédula 5000243:
+Anterior: ('5000243', 'ELIO', 'SCHUG', 31, 7, 1976)
+Nuevo: (5000243, 'ELIO', 'SCHUG', '31', '7', '1976')
+
+Diferencias para la cédula 5000244:
+Anterior: ('5000244', 'DAIHANA ANAHI', 'SERVIN GONZALEZ', 17, 7, 1991)
+Nuevo: (5000244, 'DAIHANA ANAHI', 'SERVIN GONZALEZ', '17', '7', '1991')
+
+Diferencias para la cédula 5000245:
+Anterior: ('5000245', 'RONI GUALTER', 'AYALA MONTIEL', 13, 1, 1990)
+Nuevo: (5000245, 'RONI GUALTER', 'AYALA MONTIEL', '13', '1', '1990')
+
+Diferencias para la cédula 5000246:
+Anterior: ('5000246', 'MARIA GISELA', 'AQUINO RAMIREZ', 5, 1, 1998)
+Nuevo: (5000246, 'MARIA GISELA', 'AQUINO RAMIREZ', '5', '1', '1998')
+
+Diferencias para la cédula 5000247:
+Anterior: ('5000247', 'JUAN EMILIO', 'AQUINO RAMIREZ', 18, 9, 2001)
+Nuevo: (5000247, 'JUAN EMILIO', 'AQUINO RAMIREZ', '18', '9', '2001')
+
+Diferencias para la cédula 5000248:
+Anterior: ('5000248', 'EDITH ROSSANA', 'BRITEZ ORTIZ', 3, 9, 1993)
+Nuevo: (5000248, 'EDITH ROSSANA', 'BRITEZ ORTIZ', '3', '9', '1993')
+
+Diferencias para la cédula 5000249:
+Anterior: ('5000249', 'FREDY DAVID', 'BRITEZ ORTIZ', 31, 1, 1996)
+Nuevo: (5000249, 'FREDY DAVID', 'BRITEZ ORTIZ', '31', '1', '1996')
+
+Diferencias para la cédula 5000250:
+Anterior: ('5000250', 'ANDREA RAMONA', 'BRITEZ ORTIZ', 8, 12, 1994)
+Nuevo: (5000250, 'ANDREA RAMONA', 'BRITEZ ORTIZ', '8', '12', '1994')
+
+Diferencias para la cédula 5000251:
+Anterior: ('5000251', 'ALEJANDRA ELIZABETH', 'HADID ALMADA', 7, 9, 1993)
+Nuevo: (5000251, 'ALEJANDRA ELIZABETH', 'HADID ALMADA', '7', '9', '1993')
+
+Diferencias para la cédula 5000252:
+Anterior: ('5000252', 'GRISELDA ELIZABETH', 'HADID ALMADA', 3, 7, 1997)
+Nuevo: (5000252, 'GRISELDA ELIZABETH', 'HADID ALMADA', '3', '7', '1997')
+
+Diferencias para la cédula 5000253:
+Anterior: ('5000253', 'ESMILCE ARACELLI', 'ESTAQUE CACERES', 29, 12, 1994)
+Nuevo: (5000253, 'ESMILCE ARACELLI', 'ESTAQUE CACERES', '29', '12', '1994')
+
+Diferencias para la cédula 5000254:
+Anterior: ('5000254', 'MYRIAN CELESTE', 'NUÃ\x91EZ ORTEGA', 14, 5, 1993)
+Nuevo: (5000254, 'MYRIAN CELESTE', 'NUÃ\x91EZ ORTEGA', '14', '5', '1993')
+
+Diferencias para la cédula 5000255:
+Anterior: ('5000255', 'MARIA LETICIA', 'COLLANTE ROMERO', 24, 5, 1994)
+Nuevo: (5000255, 'MARIA LETICIA', 'COLLANTE ROMERO', '24', '5', '1994')
+
+Diferencias para la cédula 5000256:
+Anterior: ('5000256', 'MARIA MARLENE', 'COLLANTE ROMERO', 24, 5, 1994)
+Nuevo: (5000256, 'MARIA MARLENE', 'COLLANTE ROMERO', '24', '5', '1994')
+
+Diferencias para la cédula 5000257:
+Anterior: ('5000257', 'LILIANA ELIZABETH', 'CUBILLA GONZALEZ', 16, 1, 1993)
+Nuevo: (5000257, 'LILIANA ELIZABETH', 'CUBILLA GONZALEZ', '16', '1', '1993')
+
+Diferencias para la cédula 5000258:
+Anterior: ('5000258', 'LOURDES PATRICIA', 'VARGAS RUIZ', 9, 5, 1995)
+Nuevo: (5000258, 'LOURDES PATRICIA', 'VARGAS RUIZ', '9', '5', '1995')
+
+Diferencias para la cédula 5000259:
+Anterior: ('5000259', 'YESSICA ALEJANDRA', 'PIANDERI DE FERNANDEZ', 24, 12, 1993)
+Nuevo: (5000259, 'YESSICA ALEJANDRA', 'PIANDERI DE FERNANDEZ', '24', '12', '1993')
+
+Diferencias para la cédula 5000260:
+Anterior: ('5000260', 'CLAUDIA CAROLINA', 'RUIZ BRIZUELA', 1, 12, 1990)
+Nuevo: (5000260, 'CLAUDIA CAROLINA', 'RUIZ BRIZUELA', '1', '12', '1990')
+
+Diferencias para la cédula 5000261:
+Anterior: ('5000261', 'NADIA CAROLINA', 'COLLANTE ROMERO', 6, 1, 1997)
+Nuevo: (5000261, 'NADIA CAROLINA', 'COLLANTE ROMERO', '6', '1', '1997')
+
+Diferencias para la cédula 5000262:
+Anterior: ('5000262', 'NATALIA SUSANA', 'IRIARTE SAMUDIO', 26, 12, 1991)
+Nuevo: (5000262, 'NATALIA SUSANA', 'IRIARTE SAMUDIO', '26', '12', '1991')
+
+Diferencias para la cédula 5000263:
+Anterior: ('5000263', 'REGINA YOHANA', 'IRIARTE SAMUDIO', 4, 9, 1990)
+Nuevo: (5000263, 'REGINA YOHANA', 'IRIARTE SAMUDIO', '4', '9', '1990')
+
+Diferencias para la cédula 5000264:
+Anterior: ('5000264', 'AURA JULIA PATRICIA', 'PEDROZO CARDOZO', 28, 3, 2002)
+Nuevo: (5000264, 'AURA JULIA PATRICIA', 'PEDROZO CARDOZO', '28', '3', '2002')
+
+Diferencias para la cédula 5000265:
+Anterior: ('5000265', 'VIDALIA MARIEL', 'CABALLERO', 14, 10, 1990)
+Nuevo: (5000265, 'VIDALIA MARIEL', 'CABALLERO', '14', '10', '1990')
+
+Diferencias para la cédula 5000266:
+Anterior: ('5000266', 'LIZ DANICE', 'GONZALEZ AMARILLA', 8, 5, 1990)
+Nuevo: (5000266, 'LIZ DANICE', 'GONZALEZ AMARILLA', '8', '5', '1990')
+
+Diferencias para la cédula 5000267:
+Anterior: ('5000267', 'GIULLIANA VALENTINA', 'LANERI GONZALEZ', 28, 6, 2001)
+Nuevo: (5000267, 'GIULLIANA VALENTINA', 'LANERI GONZALEZ', '28', '6', '2001')
+
+Diferencias para la cédula 5000268:
+Anterior: ('5000268', 'MARCOS JAVIER', 'CARDOZO GONZALEZ', 22, 10, 1994)
+Nuevo: (5000268, 'MARCOS JAVIER', 'CARDOZO GONZALEZ', '22', '10', '1994')
+
+Diferencias para la cédula 5000269:
+Anterior: ('5000269', 'LEONARDO JAVIER', 'GIMENEZ GALEANO', 14, 6, 1987)
+Nuevo: (5000269, 'LEONARDO JAVIER', 'GIMENEZ GALEANO', '14', '6', '1987')
+
+Diferencias para la cédula 5000270:
+Anterior: ('5000270', 'LOURDES JOHANA', 'DUARTE MELGAREJO', 19, 11, 2002)
+Nuevo: (5000270, 'LOURDES JOHANA', 'DUARTE MELGAREJO', '19', '11', '2002')
+
+Diferencias para la cédula 5000271:
+Anterior: ('5000271', 'LIDIA ROSA', 'CAÃ\x91ETE BENITEZ', 10, 3, 1984)
+Nuevo: (5000271, 'LIDIA ROSA', 'CAÃ\x91ETE BENITEZ', '10', '3', '1984')
+
+Diferencias para la cédula 5000272:
+Anterior: ('5000272', 'NELSON RAMON', 'RODRIGUEZ', 4, 3, 1988)
+Nuevo: (5000272, 'NELSON RAMON', 'RODRIGUEZ', '4', '3', '1988')
+
+Diferencias para la cédula 5000273:
+Anterior: ('5000273', 'RAQUEL', 'MELGAREJO DE GONZALEZ', 29, 2, 1988)
+Nuevo: (5000273, 'RAQUEL', 'MELGAREJO DE GONZALEZ', '29', '2', '1988')
+
+Diferencias para la cédula 5000274:
+Anterior: ('5000274', 'GUSTAVO ALEXANDER', 'BARNI OCAMPOS', 5, 9, 2001)
+Nuevo: (5000274, 'GUSTAVO ALEXANDER', 'BARNI OCAMPOS', '5', '9', '2001')
+
+Diferencias para la cédula 5000275:
+Anterior: ('5000275', 'CHRISTIAN MARTIN', 'CUBAS', 27, 8, 1996)
+Nuevo: (5000275, 'CHRISTIAN MARTIN', 'CUBAS', '27', '8', '1996')
+
+Diferencias para la cédula 5000276:
+Anterior: ('5000276', 'GABRIEL DARIO', 'PRIETO COLMAN', 6, 5, 1991)
+Nuevo: (5000276, 'GABRIEL DARIO', 'PRIETO COLMAN', '6', '5', '1991')
+
+Diferencias para la cédula 5000277:
+Anterior: ('5000277', 'VICTOR DANIEL', 'UCEDO MARTINEZ', 4, 5, 1996)
+Nuevo: (5000277, 'VICTOR DANIEL', 'UCEDO MARTINEZ', '4', '5', '1996')
+
+Diferencias para la cédula 5000278:
+Anterior: ('5000278', 'JUAN GABRIEL', 'UCEDO MARTINEZ', 20, 5, 1998)
+Nuevo: (5000278, 'JUAN GABRIEL', 'UCEDO MARTINEZ', '20', '5', '1998')
+
+Diferencias para la cédula 5000279:
+Anterior: ('5000279', 'PEDRO GABRIEL', 'ALMADA CENTURION', 24, 9, 1998)
+Nuevo: (5000279, 'PEDRO GABRIEL', 'ALMADA CENTURION', '24', '9', '1998')
+
+Diferencias para la cédula 5000280:
+Anterior: ('5000280', 'MARIO JUNIOR', 'LEDESMA DIAZ', 12, 8, 1997)
+Nuevo: (5000280, 'MARIO JUNIOR', 'LEDESMA DIAZ', '12', '8', '1997')
+
+Diferencias para la cédula 5000281:
+Anterior: ('5000281', 'ALEJANDRO DE JESUS', 'MENCIA ALMADA', 14, 8, 1999)
+Nuevo: (5000281, 'ALEJANDRO DE JESUS', 'MENCIA ALMADA', '14', '8', '1999')
+
+Diferencias para la cédula 5000282:
+Anterior: ('5000282', 'RICARDO DANIEL', 'TORRES MOREL', 11, 6, 1991)
+Nuevo: (5000282, 'RICARDO DANIEL', 'TORRES MOREL', '11', '6', '1991')
+
+Diferencias para la cédula 5000283:
+Anterior: ('5000283', 'GUILLERMO RAFAEL', 'ESPINOZA', 1, 11, 1989)
+Nuevo: (5000283, 'GUILLERMO RAFAEL', 'ESPINOZA', '1', '11', '1989')
+
+Diferencias para la cédula 5000284:
+Anterior: ('5000284', 'MARIO AGUSTIN', 'BENITEZ NOGUERA', 1, 5, 1998)
+Nuevo: (5000284, 'MARIO AGUSTIN', 'BENITEZ NOGUERA', '1', '5', '1998')
+
+Diferencias para la cédula 5000285:
+Anterior: ('5000285', '', '', '', '', '')
+Nuevo: (5000285, 'JOSE MARIA', 'AYALA FIGUEREDO', '8', '12', '1994')
+
+Diferencias para la cédula 5000286:
+Anterior: ('5000286', 'ANTONIO JAVIER', 'AMARILLA DELGADO', 2, 5, 1994)
+Nuevo: (5000286, 'ANTONIO JAVIER', 'AMARILLA DELGADO', '2', '5', '1994')
+
+Diferencias para la cédula 5000287:
+Anterior: ('5000287', 'DENIS FRANCISCO', 'ANTUNEZ YBARRA', 5, 4, 1998)
+Nuevo: (5000287, 'DENIS FRANCISCO', 'ANTUNEZ YBARRA', '5', '4', '1998')
+
+Diferencias para la cédula 5000288:
+Anterior: ('5000288', 'JULIO ARMANDO', 'ESTIGARRIBIA ACUÃ\x91A', 7, 9, 2001)
+Nuevo: (5000288, 'JULIO ARMANDO', 'ESTIGARRIBIA ACUÃ\x91A', '7', '9', '2001')
+
+Diferencias para la cédula 5000289:
+Anterior: ('5000289', 'AMANCIO', 'CACERES GIMENEZ', 9, 4, 1991)
+Nuevo: (5000289, 'AMANCIO', 'CACERES GIMENEZ', '9', '4', '1991')
+
+Diferencias para la cédula 5000290:
+Anterior: ('5000290', 'JORGE LUIS', 'GIMENEZ RUIZ', 23, 4, 1999)
+Nuevo: (5000290, 'JORGE LUIS', 'GIMENEZ RUIZ', '23', '4', '1999')
+
+Diferencias para la cédula 5000291:
+Anterior: ('5000291', 'MARCOS ANTONIO', 'GONZALEZ OVIEDO', 8, 1, 1993)
+Nuevo: (5000291, 'MARCOS ANTONIO', 'GONZALEZ OVIEDO', '8', '1', '1993')
+
+Diferencias para la cédula 5000292:
+Anterior: ('5000292', 'FRANCISCO GREGORIO', 'GARCETE LEON', 12, 3, 1998)
+Nuevo: (5000292, 'FRANCISCO GREGORIO', 'GARCETE LEON', '12', '3', '1998')
+
+Diferencias para la cédula 5000293:
+Anterior: ('5000293', 'MARCOS JOSE', 'GARCETE LEON', 9, 5, 1995)
+Nuevo: (5000293, 'MARCOS JOSE', 'GARCETE LEON', '9', '5', '1995')
+
+Diferencias para la cédula 5000294:
+Anterior: ('5000294', 'JUSTO JAVIER', 'VERDUN LUGO', 25, 9, 1997)
+Nuevo: (5000294, 'JUSTO JAVIER', 'VERDUN LUGO', '25', '9', '1997')
+
+Diferencias para la cédula 5000295:
+Anterior: ('5000295', 'JUAN ANDREZ', 'RIVAS GAYOSO', 15, 9, 1992)
+Nuevo: (5000295, 'JUAN ANDREZ', 'RIVAS GAYOSO', '15', '9', '1992')
+
+Diferencias para la cédula 5000296:
+Anterior: ('5000296', 'PATRICIO', 'GARCIA GAMARRA', 17, 3, 1983)
+Nuevo: (5000296, 'PATRICIO', 'GARCIA GAMARRA', '17', '3', '1983')
+
+Diferencias para la cédula 5000297:
+Anterior: ('5000297', 'MATIAS LUIS DANIEL', 'RAMIREZ ALMIRON', 26, 5, 2000)
+Nuevo: (5000297, 'MATIAS LUIS DANIEL', 'RAMIREZ ALMIRON', '26', '5', '2000')
+
+Diferencias para la cédula 5000298:
+Anterior: ('5000298', 'GUILLERMO CELESTINO', 'BARZALA RIQUELME', 14, 3, 1992)
+Nuevo: (5000298, 'GUILLERMO CELESTINO', 'BARZALA RIQUELME', '14', '3', '1992')
+
+Diferencias para la cédula 5000299:
+Anterior: ('5000299', 'CARLOS OSMAR', 'BENITEZ BENITEZ', 11, 3, 1995)
+Nuevo: (5000299, 'CARLOS OSMAR', 'BENITEZ BENITEZ', '11', '3', '1995')
+
+Diferencias para la cédula 5000300:
+Anterior: ('5000300', 'MARCOS ANTONIO', 'GIMENEZ', 29, 4, 1989)
+Nuevo: (5000300, 'MARCOS ANTONIO', 'GIMENEZ', '29', '4', '1989')
+
+Diferencias para la cédula 5000301:
+Anterior: ('5000301', 'NELSON DAVID', 'PEÃ\x91A MARTINEZ', 15, 5, 1994)
+Nuevo: (5000301, 'NELSON DAVID', 'PEÃ\x91A MARTINEZ', '15', '5', '1994')
+
+Diferencias para la cédula 5000302:
+Anterior: ('5000302', 'JONATHAN EDUARDO', 'GONZALEZ ALCARAZ', 27, 1, 1997)
+Nuevo: (5000302, 'JONATHAN EDUARDO', 'GONZALEZ ALCARAZ', '27', '1', '1997')
+
+Diferencias para la cédula 5000303:
+Anterior: ('5000303', 'MAURICIO DIOSNEL', 'GONZALEZ ALCARAZ', 30, 8, 2000)
+Nuevo: (5000303, 'MAURICIO DIOSNEL', 'GONZALEZ ALCARAZ', '30', '8', '2000')
+
+Diferencias para la cédula 5000304:
+Anterior: ('5000304', 'MARCO AURELIO', 'AMARILLA CASTRO', 8, 1, 2003)
+Nuevo: (5000304, 'MARCO AURELIO', 'AMARILLA CASTRO', '8', '1', '2003')
+
+Diferencias para la cédula 5000305:
+Anterior: ('5000305', 'FABIO AURELIO', 'AMARILLA CASTRO', 8, 1, 2003)
+Nuevo: (5000305, 'FABIO AURELIO', 'AMARILLA CASTRO', '8', '1', '2003')
+
+Diferencias para la cédula 5000306:
+Anterior: ('5000306', 'EDGAR DANIEL', 'FERNANDEZ ARZAMENDIA', 2, 1, 1993)
+Nuevo: (5000306, 'EDGAR DANIEL', 'FERNANDEZ ARZAMENDIA', '2', '1', '1993')
+
+Diferencias para la cédula 5000307:
+Anterior: ('5000307', 'FREDY', 'LOPEZ RIOS', 16, 5, 1989)
+Nuevo: (5000307, 'FREDY', 'LOPEZ RIOS', '16', '5', '1989')
+
+Diferencias para la cédula 5000308:
+Anterior: ('5000308', 'LUCAS TECUMSEH', 'ESQUIVEL CAÃ\x91ELLAS', 27, 7, 2001)
+Nuevo: (5000308, 'LUCAS TECUMSEH', 'ESQUIVEL CAÃ\x91ELLAS', '27', '7', '2001')
+
+Diferencias para la cédula 5000309:
+Anterior: ('5000309', 'RICARDO SALUSTIANO', 'TORRES MOREL', 3, 10, 1992)
+Nuevo: (5000309, 'RICARDO SALUSTIANO', 'TORRES MOREL', '3', '10', '1992')
+
+Diferencias para la cédula 5000310:
+Anterior: ('5000310', 'DIEGO ZACARIAS', 'ESPINOZA', 20, 9, 1992)
+Nuevo: (5000310, 'DIEGO ZACARIAS', 'ESPINOZA', '20', '9', '1992')
+
+Diferencias para la cédula 5000311:
+Anterior: ('5000311', 'CHRISTIAN RICARDO', 'TORRES MOREL', 21, 1, 2002)
+Nuevo: (5000311, 'CHRISTIAN RICARDO', 'TORRES MOREL', '21', '1', '2002')
+
+Diferencias para la cédula 5000312:
+Anterior: ('5000312', 'GUSTAVO CRISPIN', 'VAZQUEZ AGUILERA', 8, 5, 1992)
+Nuevo: (5000312, 'GUSTAVO CRISPIN', 'VAZQUEZ AGUILERA', '8', '5', '1992')
+
+Diferencias para la cédula 5000313:
+Anterior: ('5000313', 'IÃ\x91IGO OPTACIANO', 'BENITEZ VILLALBA', 14, 7, 1991)
+Nuevo: (5000313, 'IÃ\x91IGO OPTACIANO', 'BENITEZ VILLALBA', '14', '7', '1991')
+
+Diferencias para la cédula 5000314:
+Anterior: ('5000314', 'LUIS MARIA', 'SERVIN VARGAS', 12, 7, 1990)
+Nuevo: (5000314, 'LUIS MARIA', 'SERVIN VARGAS', '12', '7', '1990')
+
+Diferencias para la cédula 5000315:
+Anterior: ('5000315', 'PABLO DANIEL', 'RIVAROLA PAEZ', 7, 6, 1990)
+Nuevo: (5000315, 'PABLO DANIEL', 'RIVAROLA PAEZ', '7', '6', '1990')
+
+Diferencias para la cédula 5000316:
+Anterior: ('5000316', 'CRISTIAN DAVID', 'VELAZQUEZ AVEIRO', 1, 8, 1997)
+Nuevo: (5000316, 'CRISTIAN DAVID', 'VELAZQUEZ AVEIRO', '1', '8', '1997')
+
+Diferencias para la cédula 5000317:
+Anterior: ('5000317', 'MARCOS DANIEL', 'RODRIGUEZ MEDINA', 16, 7, 1999)
+Nuevo: (5000317, 'MARCOS DANIEL', 'RODRIGUEZ MEDINA', '16', '7', '1999')
+
+Diferencias para la cédula 5000318:
+Anterior: ('5000318', 'ANDY FABIAN', 'PEREIRA INSAURRALDE', 17, 6, 1995)
+Nuevo: (5000318, 'ANDY FABIAN', 'PEREIRA INSAURRALDE', '17', '6', '1995')
+
+Diferencias para la cédula 5000319:
+Anterior: ('5000319', 'MIGUEL ANGEL', 'RODRIGUEZ GRIJALBA', 28, 2, 1998)
+Nuevo: (5000319, 'MIGUEL ANGEL', 'RODRIGUEZ GRIJALBA', '28', '2', '1998')
+
+Diferencias para la cédula 5000320:
+Anterior: ('5000320', 'ANTONIO', 'FRANCO RODRIGUEZ', 13, 6, 1992)
+Nuevo: (5000320, 'ANTONIO', 'FRANCO RODRIGUEZ', '13', '6', '1992')
+
+Diferencias para la cédula 5000321:
+Anterior: ('5000321', 'LUIS', 'NOTARIO FLORENTIN', 9, 11, 1993)
+Nuevo: (5000321, 'LUIS', 'NOTARIO FLORENTIN', '9', '11', '1993')
+
+Diferencias para la cédula 5000322:
+Anterior: ('5000322', 'MARCELO IVAN', 'CANTERO PEDROZO', 2, 6, 2000)
+Nuevo: (5000322, 'MARCELO IVAN', 'CANTERO PEDROZO', '2', '6', '2000')
+
+Diferencias para la cédula 5000323:
+Anterior: ('5000323', 'VICTOR FABIAN', 'ECHEVERRIA FIGUEREDO', 17, 10, 1991)
+Nuevo: (5000323, 'VICTOR FABIAN', 'ECHEVERRIA FIGUEREDO', '17', '10', '1991')
+
+Diferencias para la cédula 5000324:
+Anterior: ('5000324', 'JORGE JAVIER', 'PENAYO', 5, 6, 1990)
+Nuevo: (5000324, 'JORGE JAVIER', 'PENAYO', '5', '6', '1990')
+
+Diferencias para la cédula 5000325:
+Anterior: ('5000325', 'RODOLFO IVAN', 'SOLIS BENITEZ', 13, 3, 1995)
+Nuevo: (5000325, 'RODOLFO IVAN', 'SOLIS BENITEZ', '13', '3', '1995')
+
+Diferencias para la cédula 5000326:
+Anterior: ('5000326', 'EDUARDO NICOLAS', 'MIMBELA VILLAGRA', 21, 12, 2000)
+Nuevo: (5000326, 'EDUARDO NICOLAS', 'MIMBELA VILLAGRA', '21', '12', '2000')
+
+Diferencias para la cédula 5000327:
+Anterior: ('5000327', 'ELIAS MANUEL', 'DELGADILLO RUIZ DIAZ', 9, 12, 2001)
+Nuevo: (5000327, 'ELIAS MANUEL', 'DELGADILLO RUIZ DIAZ', '9', '12', '2001')
+
+Diferencias para la cédula 5000328:
+Anterior: ('5000328', 'ALEJANDRO TADEO', 'OCAMPOS BENITEZ', 1, 12, 2002)
+Nuevo: (5000328, 'ALEJANDRO TADEO', 'OCAMPOS BENITEZ', '1', '12', '2002')
+
+Diferencias para la cédula 5000329:
+Anterior: ('5000329', 'CARLOS DANIEL', 'LOPEZ VILLALBA', 26, 10, 1995)
+Nuevo: (5000329, 'CARLOS DANIEL', 'LOPEZ VILLALBA', '26', '10', '1995')
+
+Diferencias para la cédula 5000330:
+Anterior: ('5000330', 'OSCAR ISIDRO', 'FIGUEREDO', 30, 11, 1987)
+Nuevo: (5000330, 'OSCAR ISIDRO', 'FIGUEREDO', '30', '11', '1987')
+
+Diferencias para la cédula 5000331:
+Anterior: ('5000331', 'DOMINGO ARIEL', 'MORENO GONZALEZ', 3, 8, 1992)
+Nuevo: (5000331, 'DOMINGO ARIEL', 'MORENO GONZALEZ', '3', '8', '1992')
+
+Diferencias para la cédula 5000332:
+Anterior: ('5000332', 'DAVID EMMANUEL', 'HERMOSILLA PINEDA', 8, 10, 1991)
+Nuevo: (5000332, 'DAVID EMMANUEL', 'HERMOSILLA PINEDA', '8', '10', '1991')
+
+Diferencias para la cédula 5000333:
+Anterior: ('5000333', 'IVAN', 'PRIETO AGUILAR', 7, 8, 2000)
+Nuevo: (5000333, 'IVAN', 'PRIETO AGUILAR', '7', '8', '2000')
+
+Diferencias para la cédula 5000334:
+Anterior: ('5000334', 'ISAAC ENMANUEL', 'VERA GALEANO', 28, 7, 2002)
+Nuevo: (5000334, 'ISAAC ENMANUEL', 'VERA GALEANO', '28', '7', '2002')
+
+Diferencias para la cédula 5000335:
+Anterior: ('5000335', 'NELSON RENE', 'SAMUDIO ACUÃ\x91A', 26, 11, 1994)
+Nuevo: (5000335, 'NELSON RENE', 'SAMUDIO ACUÃ\x91A', '26', '11', '1994')
+
+Diferencias para la cédula 5000336:
+Anterior: ('5000336', 'JUAN CARLOS', 'RAMIREZ', 19, 5, 1987)
+Nuevo: (5000336, 'JUAN CARLOS', 'RAMIREZ', '19', '5', '1987')
+
+Diferencias para la cédula 5000337:
+Anterior: ('5000337', 'HUGO ARNALDO', 'AVEIRO OLAZAR', 30, 11, 1991)
+Nuevo: (5000337, 'HUGO ARNALDO', 'AVEIRO OLAZAR', '30', '11', '1991')
+
+Diferencias para la cédula 5000338:
+Anterior: ('5000338', 'FRANCISCO BASILIO', 'PAVON SAMANIEGO', 5, 9, 2001)
+Nuevo: (5000338, 'FRANCISCO BASILIO', 'PAVON SAMANIEGO', '5', '9', '2001')
+
+Diferencias para la cédula 5000339:
+Anterior: ('5000339', 'HERWIN DAVID', 'LOPEZ BENITEZ', 11, 2, 1995)
+Nuevo: (5000339, 'HERWIN DAVID', 'LOPEZ BENITEZ', '11', '2', '1995')
+
+Diferencias para la cédula 5000340:
+Anterior: ('5000340', 'WALTER RAFAEL', 'SERVIAN PAREDES', 28, 3, 1991)
+Nuevo: (5000340, 'WALTER RAFAEL', 'SERVIAN PAREDES', '28', '3', '1991')
+
+Diferencias para la cédula 5000341:
+Anterior: ('5000341', 'RENZO FABIAN', 'RUIZ DIAZ ACOSTA', 4, 11, 1989)
+Nuevo: (5000341, 'RENZO FABIAN', 'RUIZ DIAZ ACOSTA', '4', '11', '1989')
+
+Diferencias para la cédula 5000342:
+Anterior: ('5000342', 'JESUS JOSE', 'BARZALA RIQUELME', 7, 7, 1997)
+Nuevo: (5000342, 'JESUS JOSE', 'BARZALA RIQUELME', '7', '7', '1997')
+
+Diferencias para la cédula 5000343:
+Anterior: ('5000343', 'JESUS JOEL', 'BARZALA RIQUELME', 7, 7, 1997)
+Nuevo: (5000343, 'JESUS JOEL', 'BARZALA RIQUELME', '7', '7', '1997')
+
+Diferencias para la cédula 5000344:
+Anterior: ('5000344', 'MIGUEL DAVID', 'RIVERA IBARRA', 27, 9, 1990)
+Nuevo: (5000344, 'MIGUEL DAVID', 'RIVERA IBARRA', '27', '9', '1990')
+
+Diferencias para la cédula 5000345:
+Anterior: ('5000345', 'CESAR DAVID', 'CUBAS', 18, 8, 1991)
+Nuevo: (5000345, 'CESAR DAVID', 'CUBAS', '18', '8', '1991')
+
+Diferencias para la cédula 5000346:
+Anterior: ('5000346', 'KEVIN DAVID', 'SANCHEZ INDARTE', 30, 10, 1995)
+Nuevo: (5000346, 'KEVIN DAVID', 'SANCHEZ INDARTE', '30', '10', '1995')
+
+Diferencias para la cédula 5000347:
+Anterior: ('5000347', 'MATIAS RAFAEL', 'RODRIGUEZ GRIJALBA', 8, 3, 1999)
+Nuevo: (5000347, 'MATIAS RAFAEL', 'RODRIGUEZ GRIJALBA', '8', '3', '1999')
+
+Diferencias para la cédula 5000348:
+Anterior: ('5000348', 'IVAN OMAR', 'DUARTE OJEDA', 6, 2, 2002)
+Nuevo: (5000348, 'IVAN OMAR', 'DUARTE OJEDA', '6', '2', '2002')
+
+Diferencias para la cédula 5000349:
+Anterior: ('5000349', 'EVER JOEL ANDRES', 'PORTILLO GALEANO', 8, 5, 1997)
+Nuevo: (5000349, 'EVER JOEL ANDRES', 'PORTILLO GALEANO', '8', '5', '1997')
+
+Diferencias para la cédula 5000350:
+Anterior: ('5000350', 'VICTOR DANIEL', 'PEREIRA INSAURRALDE', 19, 11, 1990)
+Nuevo: (5000350, 'VICTOR DANIEL', 'PEREIRA INSAURRALDE', '19', '11', '1990')
+
+Diferencias para la cédula 5000351:
+Anterior: ('5000351', 'GUILLERMO DE JESUS', 'DUARTE SCIFO', 11, 11, 1996)
+Nuevo: (5000351, 'GUILLERMO DE JESUS', 'DUARTE SCIFO', '11', '11', '1996')
+
+Diferencias para la cédula 5000352:
+Anterior: ('5000352', 'RAMON DANIEL', 'FLOR TOLEDO', 4, 5, 1991)
+Nuevo: (5000352, 'RAMON DANIEL', 'FLOR TOLEDO', '4', '5', '1991')
+
+Diferencias para la cédula 5000353:
+Anterior: ('5000353', 'CARLOS JAVIER', 'FLORENTIN FERNANDEZ', 6, 4, 1999)
+Nuevo: (5000353, 'CARLOS JAVIER', 'FLORENTIN FERNANDEZ', '6', '4', '1999')
+
+Diferencias para la cédula 5000354:
+Anterior: ('5000354', 'PABLO IGNACIO', 'BOGADO CABRERA', 26, 4, 1990)
+Nuevo: (5000354, 'PABLO IGNACIO', 'BOGADO CABRERA', '26', '4', '1990')
+
+Diferencias para la cédula 5000355:
+Anterior: ('5000355', 'ALEXIS RAMON', 'SANCHEZ INDARTE', 25, 2, 1998)
+Nuevo: (5000355, 'ALEXIS RAMON', 'SANCHEZ INDARTE', '25', '2', '1998')
+
+Diferencias para la cédula 5000356:
+Anterior: ('5000356', 'ALFREDO JAVIER', 'VILLATE SOSA', 5, 4, 1994)
+Nuevo: (5000356, 'ALFREDO JAVIER', 'VILLATE SOSA', '5', '4', '1994')
+
+Diferencias para la cédula 5000357:
+Anterior: ('5000357', 'RAMON ARIEL', 'VARGAS RUIZ', 28, 9, 1997)
+Nuevo: (5000357, 'RAMON ARIEL', 'VARGAS RUIZ', '28', '9', '1997')
+
+Diferencias para la cédula 5000358:
+Anterior: ('5000358', 'DERLIS FABIAN', 'VARGAS RUIZ', 24, 8, 1993)
+Nuevo: (5000358, 'DERLIS FABIAN', 'VARGAS RUIZ', '24', '8', '1993')
+
+Diferencias para la cédula 5000359:
+Anterior: ('5000359', 'MARCOS OMAR', 'MARTINEZ FRETES', 24, 9, 1992)
+Nuevo: (5000359, 'MARCOS OMAR', 'MARTINEZ FRETES', '24', '9', '1992')
+
+Diferencias para la cédula 5000360:
+Anterior: ('5000360', 'EMILIO CARMELO', 'SILVA GOITIA', 14, 12, 1996)
+Nuevo: (5000360, 'EMILIO CARMELO', 'SILVA GOITIA', '14', '12', '1996')
+
+Diferencias para la cédula 5000361:
+Anterior: ('5000361', 'DIEGO DARIO', 'CARTES CARDOZO', 20, 10, 1994)
+Nuevo: (5000361, 'DIEGO DARIO', 'CARTES CARDOZO', '20', '10', '1994')
+
+Diferencias para la cédula 5000362:
+Anterior: ('5000362', 'GUSTAVO JAVIER', 'OCAMPOS FERNANDEZ', 17, 6, 2000)
+Nuevo: (5000362, 'GUSTAVO JAVIER', 'OCAMPOS FERNANDEZ', '17', '6', '2000')
+
+Diferencias para la cédula 5000363:
+Anterior: ('5000363', 'FABIO ANDRES', 'MACIEL FORCADO', 20, 6, 1993)
+Nuevo: (5000363, 'FABIO ANDRES', 'MACIEL FORCADO', '20', '6', '1993')
+
+Diferencias para la cédula 5000364:
+Anterior: ('5000364', 'MARTIN', 'WOOD MC LEOD', 24, 8, 2001)
+Nuevo: (5000364, 'MARTIN', 'WOOD MC LEOD', '24', '8', '2001')
+
+Diferencias para la cédula 5000365:
+Anterior: ('5000365', 'LUIS FELIPE', 'CASTELLANO NUÃ\x91EZ', 25, 8, 2001)
+Nuevo: (5000365, 'LUIS FELIPE', 'CASTELLANO NUÃ\x91EZ', '25', '8', '2001')
+
+Diferencias para la cédula 5000366:
+Anterior: ('5000366', 'IVAN', 'FLORENTIN AVALOS', 3, 4, 1997)
+Nuevo: (5000366, 'IVAN', 'FLORENTIN AVALOS', '3', '4', '1997')
+
+Diferencias para la cédula 5000367:
+Anterior: ('5000367', 'RENSO ANTONIO', 'GARCETE ROMAN', 5, 11, 1990)
+Nuevo: (5000367, 'RENSO ANTONIO', 'GARCETE ROMAN', '5', '11', '1990')
+
+Diferencias para la cédula 5000368:
+Anterior: ('5000368', 'ERNESTO GIL', 'SERNA MAIDANA', 25, 3, 1979)
+Nuevo: (5000368, 'ERNESTO GIL', 'SERNA MAIDANA', '25', '3', '1979')
+
+Diferencias para la cédula 5000369:
+Anterior: ('5000369', 'ADRIANA MARIA PAZ', 'VILLALBA CACERES', 14, 7, 1995)
+Nuevo: (5000369, 'ADRIANA MARIA PAZ', 'VILLALBA CACERES', '14', '7', '1995')
+
+Diferencias para la cédula 5000370:
+Anterior: ('5000370', 'EVELYN ROCIO', 'MELGAREJO GALEANO', 5, 3, 1999)
+Nuevo: (5000370, 'EVELYN ROCIO', 'MELGAREJO GALEANO', '5', '3', '1999')
+
+Diferencias para la cédula 5000371:
+Anterior: ('5000371', 'JAZMIN ARACELI', 'BAREIRO JIMENEZ', 10, 12, 2001)
+Nuevo: (5000371, 'JAZMIN ARACELI', 'BAREIRO JIMENEZ', '10', '12', '2001')
+
+Diferencias para la cédula 5000372:
+Anterior: ('5000372', 'FATIMA LETICIA', 'ALVAREZ QUIÃ\x91ONEZ', 26, 5, 1996)
+Nuevo: (5000372, 'FATIMA LETICIA', 'ALVAREZ QUIÃ\x91ONEZ', '26', '5', '1996')
+
+Diferencias para la cédula 5000373:
+Anterior: ('5000373', 'ANDREA NATALIA', 'ACOSTA VAZQUEZ', 8, 5, 1995)
+Nuevo: (5000373, 'ANDREA NATALIA', 'ACOSTA VAZQUEZ', '8', '5', '1995')
+
+Diferencias para la cédula 5000374:
+Anterior: ('5000374', 'VANINA MONSERRAT', 'ZARATE REYES', 2, 3, 1996)
+Nuevo: (5000374, 'VANINA MONSERRAT', 'ZARATE REYES', '2', '3', '1996')
+
+Diferencias para la cédula 5000375:
+Anterior: ('5000375', 'KIARA SUMIRE', 'VIDALLET CABAÃ\x91AS', 24, 8, 2000)
+Nuevo: (5000375, 'KIARA SUMIRE', 'VIDALLET CABAÃ\x91AS', '24', '8', '2000')
+
+Diferencias para la cédula 5000376:
+Anterior: ('5000376', 'ROMINA PATRICIA', 'ACUÃ\x91A ZELADA', 4, 6, 1997)
+Nuevo: (5000376, 'ROMINA PATRICIA', 'ACUÃ\x91A ZELADA', '4', '6', '1997')
+
+Diferencias para la cédula 5000377:
+Anterior: ('5000377', 'MARINA ISIDRA', 'BRITEZ', 15, 5, 1992)
+Nuevo: (5000377, 'MARINA ISIDRA', 'BRITEZ', '15', '5', '1992')
+
+Diferencias para la cédula 5000378:
+Anterior: ('5000378', 'MARIA ELIZABETH', 'ROA PEREZ', 18, 7, 1997)
+Nuevo: (5000378, 'MARIA ELIZABETH', 'ROA PEREZ', '18', '7', '1997')
+
+Diferencias para la cédula 5000379:
+Anterior: ('5000379', 'MARLENE ROCIO', 'CORONEL DE ALLENDE', 13, 2, 1995)
+Nuevo: (5000379, 'MARLENE ROCIO', 'CORONEL DE ALLENDE', '13', '2', '1995')
+
+Diferencias para la cédula 5000380:
+Anterior: ('5000380', 'CLAUDIA EMILCE', 'VILLALBA PEREZ', 17, 8, 1992)
+Nuevo: (5000380, 'CLAUDIA EMILCE', 'VILLALBA PEREZ', '17', '8', '1992')
+
+Diferencias para la cédula 5000381:
+Anterior: ('5000381', 'CINDY MONSERRATH', 'CABALLERO', 5, 8, 1993)
+Nuevo: (5000381, 'CINDY MONSERRATH', 'CABALLERO', '5', '8', '1993')
+
+Diferencias para la cédula 5000382:
+Anterior: ('5000382', 'CAMILA MARIA ADRIANA', 'GOMEZ BOGARIN', 6, 6, 1996)
+Nuevo: (5000382, 'CAMILA MARIA ADRIANA', 'GOMEZ BOGARIN', '6', '6', '1996')
+
+Diferencias para la cédula 5000383:
+Anterior: ('5000383', 'ANDREA DENISSE', 'GOMEZ BOGARIN', 3, 1, 1994)
+Nuevo: (5000383, 'ANDREA DENISSE', 'GOMEZ BOGARIN', '3', '1', '1994')
+
+Diferencias para la cédula 5000384:
+Anterior: ('5000384', 'KAREN ARTEMIA', 'RUIZ SERVIN', 25, 9, 1992)
+Nuevo: (5000384, 'KAREN ARTEMIA', 'RUIZ SERVIN', '25', '9', '1992')
+
+Diferencias para la cédula 5000385:
+Anterior: ('5000385', 'PATRICIA CAROLINA', 'RUIZ SERVIN', 6, 8, 1991)
+Nuevo: (5000385, 'PATRICIA CAROLINA', 'RUIZ SERVIN', '6', '8', '1991')
+
+Diferencias para la cédula 5000386:
+Anterior: ('5000386', 'MONICA MABEL', 'ACOSTA AGUERO', 16, 5, 1995)
+Nuevo: (5000386, 'MONICA MABEL', 'ACOSTA AGUERO', '16', '5', '1995')
+
+Diferencias para la cédula 5000387:
+Anterior: ('5000387', 'MONICA ELIZABETH', 'HADID ALMADA', 15, 7, 1992)
+Nuevo: (5000387, 'MONICA ELIZABETH', 'HADID ALMADA', '15', '7', '1992')
+
+Diferencias para la cédula 5000388:
+Anterior: ('5000388', 'CLAUDIA VANESSA', 'BRITEZ FLORENCIANO', 22, 8, 1995)
+Nuevo: (5000388, 'CLAUDIA VANESSA', 'BRITEZ FLORENCIANO', '22', '8', '1995')
+
+Diferencias para la cédula 5000389:
+Anterior: ('5000389', 'VICTOR FABIAN', 'BOGARIN AVALOS', 6, 9, 1986)
+Nuevo: (5000389, 'VICTOR FABIAN', 'BOGARIN AVALOS', '6', '9', '1986')
+
+Diferencias para la cédula 5000390:
+Anterior: ('5000390', 'ISAIAS CARLOS', 'LEON PRESENTADO', 8, 10, 2001)
+Nuevo: (5000390, 'ISAIAS CARLOS', 'LEON PRESENTADO', '8', '10', '2001')
+
+Diferencias para la cédula 5000391:
+Anterior: ('5000391', 'LIZ DAHIANA', 'ESPINOLA GONZALEZ', 3, 11, 1996)
+Nuevo: (5000391, 'LIZ DAHIANA', 'ESPINOLA GONZALEZ', '3', '11', '1996')
+
+Diferencias para la cédula 5000392:
+Anterior: ('5000392', 'SANDRA GISSELLE', 'GALEANO ESPINOLA', 11, 1, 1992)
+Nuevo: (5000392, 'SANDRA GISSELLE', 'GALEANO ESPINOLA', '11', '1', '1992')
+
+Diferencias para la cédula 5000393:
+Anterior: ('5000393', 'CYNTHIA GABRIELA', 'CARMONA CAMBRA', 4, 6, 1992)
+Nuevo: (5000393, 'CYNTHIA GABRIELA', 'CARMONA CAMBRA', '4', '6', '1992')
+
+Diferencias para la cédula 5000394:
+Anterior: ('5000394', 'HILDA RAQUEL', 'ESPINOZA MENDEZ', 15, 5, 1984)
+Nuevo: (5000394, 'HILDA RAQUEL', 'ESPINOZA MENDEZ', '15', '5', '1984')
+
+Diferencias para la cédula 5000395:
+Anterior: ('5000395', 'NILSA', 'MARTINEZ GIMENEZ', 16, 9, 1990)
+Nuevo: (5000395, 'NILSA', 'MARTINEZ GIMENEZ', '16', '9', '1990')
+
+Diferencias para la cédula 5000396:
+Anterior: ('5000396', 'CINTHIA CAROLINA', 'CORONEL GOMEZ', 23, 1, 1993)
+Nuevo: (5000396, 'CINTHIA CAROLINA', 'CORONEL GOMEZ', '23', '1', '1993')
+
+Diferencias para la cédula 5000397:
+Anterior: ('5000397', 'MIRTA AGUSTINA', 'CABALLERO GONZALEZ', 28, 8, 1984)
+Nuevo: (5000397, 'MIRTA AGUSTINA', 'CABALLERO GONZALEZ', '28', '8', '1984')
+
+Diferencias para la cédula 5000398:
+Anterior: ('5000398', 'ANDREA MERCEDES', 'FLECHA', 19, 10, 1990)
+Nuevo: (5000398, 'ANDREA MERCEDES', 'FLECHA', '19', '10', '1990')
+
+Diferencias para la cédula 5000399:
+Anterior: ('5000399', 'ALICE MARIEL', 'PAREDES FIGUEREDO', 6, 1, 1995)
+Nuevo: (5000399, 'ALICE MARIEL', 'PAREDES FIGUEREDO', '6', '1', '1995')
+
+Diferencias para la cédula 5000400:
+Anterior: ('5000400', 'LILIANA ELIZABETH', 'ACUÃ\x91A ZELADA', 15, 7, 1992)
+Nuevo: (5000400, 'LILIANA ELIZABETH', 'ACUÃ\x91A ZELADA', '15', '7', '1992')
+
+Diferencias para la cédula 5000401:
+Anterior: ('5000401', 'KATERIN', 'AMARILLA GONZALEZ', 20, 6, 1993)
+Nuevo: (5000401, 'KATERIN', 'AMARILLA GONZALEZ', '20', '6', '1993')
+
+Diferencias para la cédula 5000402:
+Anterior: ('5000402', 'BIANCA SABRINA', 'DUARTE GONZALEZ', 13, 7, 1995)
+Nuevo: (5000402, 'BIANCA SABRINA', 'DUARTE GONZALEZ', '13', '7', '1995')
+
+Diferencias para la cédula 5000403:
+Anterior: ('5000403', 'ADRIANA', 'TORREZ PAREDES', 28, 8, 1991)
+Nuevo: (5000403, 'ADRIANA', 'TORREZ PAREDES', '28', '8', '1991')
+
+Diferencias para la cédula 5000404:
+Anterior: ('5000404', 'ALEJANDRA', 'GALEANO FERNANDEZ', 30, 6, 2002)
+Nuevo: (5000404, 'ALEJANDRA', 'GALEANO FERNANDEZ', '30', '6', '2002')
+
+Diferencias para la cédula 5000405:
+Anterior: ('5000405', 'MARIA ISABEL', 'CAÃ\x91ETE BENITEZ', 4, 3, 1991)
+Nuevo: (5000405, 'MARIA ISABEL', 'CAÃ\x91ETE BENITEZ', '4', '3', '1991')
+
+Diferencias para la cédula 5000406:
+Anterior: ('5000406', 'MARIA DEL CARMEN', 'AYALA ARMOA', 15, 7, 1989)
+Nuevo: (5000406, 'MARIA DEL CARMEN', 'AYALA ARMOA', '15', '7', '1989')
+
+Diferencias para la cédula 5000407:
+Anterior: ('5000407', 'MARIA SOLEDAD', 'ESPINOLA BENITEZ', 8, 6, 1989)
+Nuevo: (5000407, 'MARIA SOLEDAD', 'ESPINOLA BENITEZ', '8', '6', '1989')
+
+Diferencias para la cédula 5000408:
+Anterior: ('5000408', 'LIZ BELEN', 'ECHEVERRIA FIGUEREDO', 10, 7, 1994)
+Nuevo: (5000408, 'LIZ BELEN', 'ECHEVERRIA FIGUEREDO', '10', '7', '1994')
+
+Diferencias para la cédula 5000409:
+Anterior: ('5000409', 'LUZ BELEN', 'ECHEVERRIA FIGUEREDO', 10, 7, 1994)
+Nuevo: (5000409, 'LUZ BELEN', 'ECHEVERRIA FIGUEREDO', '10', '7', '1994')
+
+Diferencias para la cédula 5000410:
+Anterior: ('5000410', 'ANA ISABEL', 'MARTINEZ FRETES', 18, 12, 1990)
+Nuevo: (5000410, 'ANA ISABEL', 'MARTINEZ FRETES', '18', '12', '1990')
+
+Diferencias para la cédula 5000411:
+Anterior: ('5000411', 'MICAELA', 'VELAZQUEZ LLAMA', 11, 2, 2002)
+Nuevo: (5000411, 'MICAELA', 'VELAZQUEZ LLAMA', '11', '2', '2002')
+
+Diferencias para la cédula 5000412:
+Anterior: ('5000412', 'DEISY PATRICIA', 'SERVIN RECALDE', 22, 1, 1995)
+Nuevo: (5000412, 'DEISY PATRICIA', 'SERVIN RECALDE', '22', '1', '1995')
+
+Diferencias para la cédula 5000413:
+Anterior: ('5000413', 'MARIAN CLARISA', 'ACOSTA VERA', 12, 9, 1987)
+Nuevo: (5000413, 'MARIAN CLARISA', 'ACOSTA VERA', '12', '9', '1987')
+
+Diferencias para la cédula 5000414:
+Anterior: ('5000414', 'RITA SOLEDAD', 'BRITOS IBARRA', 18, 7, 1991)
+Nuevo: (5000414, 'RITA SOLEDAD', 'BRITOS IBARRA', '18', '7', '1991')
+
+Diferencias para la cédula 5000415:
+Anterior: ('5000415', 'GABRIELA EDITH', 'GAONA GARCIA', 18, 3, 1991)
+Nuevo: (5000415, 'GABRIELA EDITH', 'GAONA GARCIA', '18', '3', '1991')
+
+Diferencias para la cédula 5000416:
+Anterior: ('5000416', 'LUCIA ESTELA', 'GOMEZ DOMINGUEZ', 21, 6, 1990)
+Nuevo: (5000416, 'LUCIA ESTELA', 'GOMEZ DOMINGUEZ', '21', '6', '1990')
+
+Diferencias para la cédula 5000417:
+Anterior: ('5000417', 'JUANA ELIZABETH', 'FLORES', 24, 6, 1990)
+Nuevo: (5000417, 'JUANA ELIZABETH', 'FLORES', '24', '6', '1990')
+
+Diferencias para la cédula 5000418:
+Anterior: ('5000418', 'GLORIA ESTEFANI', 'OCAMPOS VARGAS', 17, 8, 1991)
+Nuevo: (5000418, 'GLORIA ESTEFANI', 'OCAMPOS VARGAS', '17', '8', '1991')
+
+Diferencias para la cédula 5000419:
+Anterior: ('5000419', 'LUANA NICOLE', 'NARA AOYAMA', 8, 3, 2002)
+Nuevo: (5000419, 'LUANA NICOLE', 'NARA AOYAMA', '8', '3', '2002')
+
+Diferencias para la cédula 5000420:
+Anterior: ('5000420', 'SARA JENNIFER', 'GIMENEZ MARIN', 4, 9, 1996)
+Nuevo: (5000420, 'SARA JENNIFER', 'GIMENEZ MARIN', '4', '9', '1996')
+
+Diferencias para la cédula 5000421:
+Anterior: ('5000421', 'MERYL LETICIA', 'VON GLASENAPP LOPEZ', 11, 6, 1994)
+Nuevo: (5000421, 'MERYL LETICIA', 'VON GLASENAPP LOPEZ', '11', '6', '1994')
+
+Diferencias para la cédula 5000422:
+Anterior: ('5000422', 'DIANA GISELLE', 'GONZALEZ', 5, 7, 1990)
+Nuevo: (5000422, 'DIANA GISELLE', 'GONZALEZ', '5', '7', '1990')
+
+Diferencias para la cédula 5000423:
+Anterior: ('5000423', 'SOFIA BELEM', 'ALVAREZ QUIÃ\x91ONEZ', 26, 6, 1992)
+Nuevo: (5000423, 'SOFIA BELEM', 'ALVAREZ QUIÃ\x91ONEZ', '26', '6', '1992')
+
+Diferencias para la cédula 5000424:
+Anterior: ('5000424', 'MARIA SELVA', 'BENEGAS', 21, 10, 1994)
+Nuevo: (5000424, 'MARIA SELVA', 'BENEGAS', '21', '10', '1994')
+
+Diferencias para la cédula 5000425:
+Anterior: ('5000425', 'JOHANA BELEN', 'QUINTANA ESCOBAR', 3, 7, 2001)
+Nuevo: (5000425, 'JOHANA BELEN', 'QUINTANA ESCOBAR', '3', '7', '2001')
+
+Diferencias para la cédula 5000426:
+Anterior: ('5000426', 'JULIANA', 'CACERES PANIAGUA', 10, 10, 1993)
+Nuevo: (5000426, 'JULIANA', 'CACERES PANIAGUA', '10', '10', '1993')
+
+Diferencias para la cédula 5000427:
+Anterior: ('5000427', 'VERONICA', 'VAZQUEZ BARRIENTOS', 30, 7, 1998)
+Nuevo: (5000427, 'VERONICA', 'VAZQUEZ BARRIENTOS', '30', '7', '1998')
+
+Diferencias para la cédula 5000428:
+Anterior: ('5000428', 'ANGELICA AMANDA', 'FIORI OVELAR', 13, 8, 1996)
+Nuevo: (5000428, 'ANGELICA AMANDA', 'FIORI OVELAR', '13', '8', '1996')
+
+Diferencias para la cédula 5000429:
+Anterior: ('5000429', 'LETICIA PAOLA', 'PENAYO', 5, 10, 1991)
+Nuevo: (5000429, 'LETICIA PAOLA', 'PENAYO', '5', '10', '1991')
+
+Diferencias para la cédula 5000430:
+Anterior: ('5000430', 'MARIA LUISA', 'ARRUA ARRUA', 1, 5, 1991)
+Nuevo: (5000430, 'MARIA LUISA', 'ARRUA ARRUA', '1', '5', '1991')
+
+Diferencias para la cédula 5000431:
+Anterior: ('5000431', 'LIDIA MABEL', 'AVEIRO GIMENEZ', 7, 8, 1990)
+Nuevo: (5000431, 'LIDIA MABEL', 'AVEIRO GIMENEZ', '7', '8', '1990')
+
+Diferencias para la cédula 5000432:
+Anterior: ('5000432', 'DAYSI DAHIANA', 'ALVAREZ BRIZUELA', 20, 4, 1994)
+Nuevo: (5000432, 'DAYSI DAHIANA', 'ALVAREZ BRIZUELA', '20', '4', '1994')
+
+Diferencias para la cédula 5000433:
+Anterior: ('5000433', 'NIDIA', 'CUELLA ARANDA', 24, 12, 1992)
+Nuevo: (5000433, 'NIDIA', 'CUELLA ARANDA', '24', '12', '1992')
+
+Diferencias para la cédula 5000434:
+Anterior: ('5000434', 'RUCT NOEMI', 'AYALA CACERES', 21, 11, 1992)
+Nuevo: (5000434, 'RUCT NOEMI', 'AYALA CACERES', '21', '11', '1992')
+
+Diferencias para la cédula 5000435:
+Anterior: ('5000435', 'VERONICA MONTSERRAT', 'MARTINEZ VERA', 18, 10, 1996)
+Nuevo: (5000435, 'VERONICA MONTSERRAT', 'MARTINEZ VERA', '18', '10', '1996')
+
+Diferencias para la cédula 5000436:
+Anterior: ('5000436', 'MILENA MAGALI', 'MARTINEZ VERA', 24, 12, 1999)
+Nuevo: (5000436, 'MILENA MAGALI', 'MARTINEZ VERA', '24', '12', '1999')
+
+Diferencias para la cédula 5000437:
+Anterior: ('5000437', 'TAMARA FIORELLA', 'GONZALEZ ACEVEDO', 19, 9, 2000)
+Nuevo: (5000437, 'TAMARA FIORELLA', 'GONZALEZ ACEVEDO', '19', '9', '2000')
+
+Diferencias para la cédula 5000438:
+Anterior: ('5000438', 'MARIA MARCELINA', 'MATTO RUIZ', 24, 5, 1992)
+Nuevo: (5000438, 'MARIA MARCELINA', 'MATTO RUIZ', '24', '5', '1992')
+
+Diferencias para la cédula 5000439:
+Anterior: ('5000439', 'MARIA BELEN', 'MELGAREJO ZELADA', 9, 7, 1990)
+Nuevo: (5000439, 'MARIA BELEN', 'MELGAREJO ZELADA', '9', '7', '1990')
+
+Diferencias para la cédula 5000440:
+Anterior: ('5000440', 'EMILIA ISABEL', 'VON GLASENAPP LOPEZ', 22, 6, 1993)
+Nuevo: (5000440, 'EMILIA ISABEL', 'VON GLASENAPP LOPEZ', '22', '6', '1993')
+
+Diferencias para la cédula 5000441:
+Anterior: ('5000441', 'MARIA FATIMA', 'ROJAS ULIAMBRE', 26, 5, 1989)
+Nuevo: (5000441, 'MARIA FATIMA', 'ROJAS ULIAMBRE', '26', '5', '1989')
+
+Diferencias para la cédula 5000442:
+Anterior: ('5000442', 'DAYSY FABIOLA', 'BRITEZ FLORENCIANO', 20, 1, 1997)
+Nuevo: (5000442, 'DAYSY FABIOLA', 'BRITEZ FLORENCIANO', '20', '1', '1997')
+
+Diferencias para la cédula 5000443:
+Anterior: ('5000443', 'NATALIA PATRICIA', 'MENDOZA MORA', 16, 4, 1993)
+Nuevo: (5000443, 'NATALIA PATRICIA', 'MENDOZA MORA', '16', '4', '1993')
+
+Diferencias para la cédula 5000444:
+Anterior: ('5000444', 'COSTANZA', 'CALIGARI SERVIAN', 10, 5, 1997)
+Nuevo: (5000444, 'COSTANZA', 'CALIGARI SERVIAN', '10', '5', '1997')
+
+Diferencias para la cédula 5000445:
+Anterior: ('5000445', 'FLORENCIA', 'CALIGARI SERVIAN', 24, 1, 2000)
+Nuevo: (5000445, 'FLORENCIA', 'CALIGARI SERVIAN', '24', '1', '2000')
+
+Diferencias para la cédula 5000446:
+Anterior: ('5000446', 'YANINA', 'GIMENEZ ALCARAZ', 29, 5, 1995)
+Nuevo: (5000446, 'YANINA', 'GIMENEZ ALCARAZ', '29', '5', '1995')
+
+Diferencias para la cédula 5000447:
+Anterior: ('5000447', 'RUTH ISABEL', 'ALVAREZ QUIÃ\x91ONEZ', 13, 7, 1994)
+Nuevo: (5000447, 'RUTH ISABEL', 'ALVAREZ QUIÃ\x91ONEZ', '13', '7', '1994')
+
+Diferencias para la cédula 5000448:
+Anterior: ('5000448', 'GABRIELA', 'GALEANO FERNANDEZ', 11, 5, 1998)
+Nuevo: (5000448, 'GABRIELA', 'GALEANO FERNANDEZ', '11', '5', '1998')
+
+Diferencias para la cédula 5000449:
+Anterior: ('5000449', 'DIANA CELESTE', 'CORONEL PANIAGUA', 19, 7, 1997)
+Nuevo: (5000449, 'DIANA CELESTE', 'CORONEL PANIAGUA', '19', '7', '1997')
+
+Diferencias para la cédula 5000450:
+Anterior: ('5000450', 'NESTOR RAMON', 'CRISTALDO CARVALLO', 26, 1, 1988)
+Nuevo: (5000450, 'NESTOR RAMON', 'CRISTALDO CARVALLO', '26', '1', '1988')
+
+Diferencias para la cédula 5000451:
+Anterior: ('5000451', 'PABLO ARIEL', 'DIAZ VELAZQUEZ', 20, 9, 1999)
+Nuevo: (5000451, 'PABLO ARIEL', 'DIAZ VELAZQUEZ', '20', '9', '1999')
+
+Diferencias para la cédula 5000452:
+Anterior: ('5000452', 'JORGE ADRIAN', 'CACERES PANIAGUA', 19, 1, 1991)
+Nuevo: (5000452, 'JORGE ADRIAN', 'CACERES PANIAGUA', '19', '1', '1991')
+
+Diferencias para la cédula 5000453:
+Anterior: ('5000453', 'GIOVANNI JAVIER', 'ALBRECHT CUEVAS', 8, 2, 2002)
+Nuevo: (5000453, 'GIOVANNI JAVIER', 'ALBRECHT CUEVAS', '8', '2', '2002')
+
+Diferencias para la cédula 5000454:
+Anterior: ('5000454', 'LUIS DAVID', 'GONZALEZ BERNAL', 23, 8, 1988)
+Nuevo: (5000454, 'LUIS DAVID', 'GONZALEZ BERNAL', '23', '8', '1988')
+
+Diferencias para la cédula 5000455:
+Anterior: ('5000455', 'SERGIO GABRIEL', 'REYES BAEZ', 13, 12, 1997)
+Nuevo: (5000455, 'SERGIO GABRIEL', 'REYES BAEZ', '13', '12', '1997')
+
+Diferencias para la cédula 5000456:
+Anterior: ('5000456', 'JOSE AURELIO', 'MARIN CABALLERO', 24, 2, 1987)
+Nuevo: (5000456, 'JOSE AURELIO', 'MARIN CABALLERO', '24', '2', '1987')
+
+Diferencias para la cédula 5000457:
+Anterior: ('5000457', 'JAVIER ENRIQUE', 'ROMERO GENES', 16, 5, 1991)
+Nuevo: (5000457, 'JAVIER ENRIQUE', 'ROMERO GENES', '16', '5', '1991')
+
+Diferencias para la cédula 5000458:
+Anterior: ('5000458', 'MARCELO JAVIER', 'GAMARRA CARDOZO', 27, 9, 1996)
+Nuevo: (5000458, 'MARCELO JAVIER', 'GAMARRA CARDOZO', '27', '9', '1996')
+
+Diferencias para la cédula 5000459:
+Anterior: ('5000459', 'JUAN HERMENEGILDO', 'ESPINOLA GONZALEZ', 5, 7, 1994)
+Nuevo: (5000459, 'JUAN HERMENEGILDO', 'ESPINOLA GONZALEZ', '5', '7', '1994')
+
+Diferencias para la cédula 5000460:
+Anterior: ('5000460', 'SERGIO RAMON', 'MEDINA', 1, 1, 1996)
+Nuevo: (5000460, 'SERGIO RAMON', 'MEDINA', '1', '1', '1996')
+
+Diferencias para la cédula 5000461:
+Anterior: ('5000461', 'LUIS ANGEL RAMON', 'ALVAREZ REYES', 28, 9, 1990)
+Nuevo: (5000461, 'LUIS ANGEL RAMON', 'ALVAREZ REYES', '28', '9', '1990')
+
+Diferencias para la cédula 5000462:
+Anterior: ('5000462', 'FABRIZIO LAUREANO', 'MEDINA IBAÃ\x91EZ', 28, 3, 1998)
+Nuevo: (5000462, 'FABRIZIO LAUREANO', 'MEDINA IBAÃ\x91EZ', '28', '3', '1998')
+
+Diferencias para la cédula 5000463:
+Anterior: ('5000463', 'HUGO JAVIER', 'ARCE RODRIGUEZ', 26, 5, 1997)
+Nuevo: (5000463, 'HUGO JAVIER', 'ARCE RODRIGUEZ', '26', '5', '1997')
+
+Diferencias para la cédula 5000464:
+Anterior: ('5000464', 'WILLIAM RAFAEL', 'GODOY VILLANUEVA', 5, 7, 1989)
+Nuevo: (5000464, 'WILLIAM RAFAEL', 'GODOY VILLANUEVA', '5', '7', '1989')
+
+Diferencias para la cédula 5000465:
+Anterior: ('5000465', 'CARLOS AGUSTIN', 'CORONEL SOLIS', 7, 3, 1993)
+Nuevo: (5000465, 'CARLOS AGUSTIN', 'CORONEL SOLIS', '7', '3', '1993')
+
+Diferencias para la cédula 5000466:
+Anterior: ('5000466', 'MATIAS SEBASTIAN', 'OCAMPO BAREIRO', 6, 5, 2002)
+Nuevo: (5000466, 'MATIAS SEBASTIAN', 'OCAMPO BAREIRO', '6', '5', '2002')
+
+Diferencias para la cédula 5000467:
+Anterior: ('5000467', 'GUSTAVO ADRIAN', 'FARIÃ\x91A GAUTO', 7, 12, 1999)
+Nuevo: (5000467, 'GUSTAVO ADRIAN', 'FARIÃ\x91A GAUTO', '7', '12', '1999')
+
+Diferencias para la cédula 5000468:
+Anterior: ('5000468', 'GABRIEL', 'GARCIA', 18, 3, 1994)
+Nuevo: (5000468, 'GABRIEL', 'GARCIA', '18', '3', '1994')
+
+Diferencias para la cédula 5000469:
+Anterior: ('5000469', 'PEDRO ANDRES', 'LEZCANO GIMENEZ', 1, 7, 1990)
+Nuevo: (5000469, 'PEDRO ANDRES', 'LEZCANO GIMENEZ', '1', '7', '1990')
+
+Diferencias para la cédula 5000470:
+Anterior: ('5000470', 'MARIO MILCIADES', 'ADORNO GAVILAN', 13, 7, 2001)
+Nuevo: (5000470, 'MARIO MILCIADES', 'ADORNO GAVILAN', '13', '7', '2001')
+
+Diferencias para la cédula 5000471:
+Anterior: ('5000471', 'JORGE DANIEL', 'ROMERO CABRAL', 1, 12, 1997)
+Nuevo: (5000471, 'JORGE DANIEL', 'ROMERO CABRAL', '1', '12', '1997')
+
+Diferencias para la cédula 5000472:
+Anterior: ('5000472', 'ROBERTO CESAR', 'GONZALEZ GONZALEZ', 17, 11, 1997)
+Nuevo: (5000472, 'ROBERTO CESAR', 'GONZALEZ GONZALEZ', '17', '11', '1997')
+
+Diferencias para la cédula 5000473:
+Anterior: ('5000473', 'IVAN GONZALO', 'MAYEREGGER FLORENTIN', 25, 3, 1995)
+Nuevo: (5000473, 'IVAN GONZALO', 'MAYEREGGER FLORENTIN', '25', '3', '1995')
+
+Diferencias para la cédula 5000474:
+Anterior: ('5000474', 'EUSEBIO RUBEN', 'ACOSTA CAZAL', 23, 12, 1990)
+Nuevo: (5000474, 'EUSEBIO RUBEN', 'ACOSTA CAZAL', '23', '12', '1990')
+
+Diferencias para la cédula 5000475:
+Anterior: ('5000475', 'MARIO FABIAN', 'ZAYAS CLIVIO', 22, 2, 1990)
+Nuevo: (5000475, 'MARIO FABIAN', 'ZAYAS CLIVIO', '22', '2', '1990')
+
+Diferencias para la cédula 5000476:
+Anterior: ('5000476', 'ADAN ALBERTO', 'DUARTE AYALA', 22, 10, 2000)
+Nuevo: (5000476, 'ADAN ALBERTO', 'DUARTE AYALA', '22', '10', '2000')
+
+Diferencias para la cédula 5000477:
+Anterior: ('5000477', 'CLAUDIO DANIEL', 'ARCE RODRIGUEZ', 5, 4, 1992)
+Nuevo: (5000477, 'CLAUDIO DANIEL', 'ARCE RODRIGUEZ', '5', '4', '1992')
+
+Diferencias para la cédula 5000478:
+Anterior: ('5000478', 'SAUL SALVADOR', 'SANTACRUZ DIAZ', 2, 7, 2001)
+Nuevo: (5000478, 'SAUL SALVADOR', 'SANTACRUZ DIAZ', '2', '7', '2001')
+
+Diferencias para la cédula 5000479:
+Anterior: ('5000479', 'RUBEN DARIO', 'VERA CABRERA', 30, 1, 1992)
+Nuevo: (5000479, 'RUBEN DARIO', 'VERA CABRERA', '30', '1', '1992')
+
+Diferencias para la cédula 5000480:
+Anterior: ('5000480', 'MARCOS GABRIEL', 'OCAMPOS', 20, 3, 1995)
+Nuevo: (5000480, 'MARCOS GABRIEL', 'OCAMPOS', '20', '3', '1995')
+
+Diferencias para la cédula 5000481:
+Anterior: ('5000481', 'MARIO SERGIO', 'ROA MASCARO', 28, 1, 1991)
+Nuevo: (5000481, 'MARIO SERGIO', 'ROA MASCARO', '28', '1', '1991')
+
+Diferencias para la cédula 5000482:
+Anterior: ('5000482', 'MATHIAS IVAN', 'ROMERO SOTO', 19, 12, 1996)
+Nuevo: (5000482, 'MATHIAS IVAN', 'ROMERO SOTO', '19', '12', '1996')
+
+Diferencias para la cédula 5000483:
+Anterior: ('5000483', 'PEDRO PASCUAL', 'RODRIGUEZ IBARRA', 30, 3, 1997)
+Nuevo: (5000483, 'PEDRO PASCUAL', 'RODRIGUEZ IBARRA', '30', '3', '1997')
+
+Diferencias para la cédula 5000484:
+Anterior: ('5000484', 'ISAIAS IVAN', 'GAONA GARCIA', 3, 9, 1994)
+Nuevo: (5000484, 'ISAIAS IVAN', 'GAONA GARCIA', '3', '9', '1994')
+
+Diferencias para la cédula 5000485:
+Anterior: ('5000485', 'SANTIAGO DANIEL', 'SANCHEZ ESTIGARRIBIA', 21, 2, 1989)
+Nuevo: (5000485, 'SANTIAGO DANIEL', 'SANCHEZ ESTIGARRIBIA', '21', '2', '1989')
+
+Diferencias para la cédula 5000486:
+Anterior: ('5000486', 'ROBERTO', 'CABAÃ\x91AS GIMENEZ', 24, 5, 1986)
+Nuevo: (5000486, 'ROBERTO', 'CABAÃ\x91AS GIMENEZ', '24', '5', '1986')
+
+Diferencias para la cédula 5000487:
+Anterior: ('5000487', 'CHRISTIAN DAVID', 'FARIÃ\x91A GAUTO', 4, 1, 1998)
+Nuevo: (5000487, 'CHRISTIAN DAVID', 'FARIÃ\x91A GAUTO', '4', '1', '1998')
+
+Diferencias para la cédula 5000488:
+Anterior: ('5000488', 'CESAR AUGUSTO', 'RODRIGUEZ PEREZ', 20, 9, 1997)
+Nuevo: (5000488, 'CESAR AUGUSTO', 'RODRIGUEZ PEREZ', '20', '9', '1997')
+
+Diferencias para la cédula 5000489:
+Anterior: ('5000489', 'CELSO GABRIEL', 'MARTINEZ BERNAL', 22, 3, 2002)
+Nuevo: (5000489, 'CELSO GABRIEL', 'MARTINEZ BERNAL', '22', '3', '2002')
+
+Diferencias para la cédula 5000490:
+Anterior: ('5000490', 'EDGAR ARIEL', 'CUBILLA GONZALEZ', 1, 7, 1995)
+Nuevo: (5000490, 'EDGAR ARIEL', 'CUBILLA GONZALEZ', '1', '7', '1995')
+
+Diferencias para la cédula 5000491:
+Anterior: ('5000491', 'HECTOR ULISES', 'ESPINOLA GONZALEZ', 16, 3, 1999)
+Nuevo: (5000491, 'HECTOR ULISES', 'ESPINOLA GONZALEZ', '16', '3', '1999')
+
+Diferencias para la cédula 5000492:
+Anterior: ('5000492', 'RONALDO OSCAR MIGUEL', 'ZARZA VILLAGRA', 6, 7, 1997)
+Nuevo: (5000492, 'RONALDO OSCAR MIGUEL', 'ZARZA VILLAGRA', '6', '7', '1997')
+
+Diferencias para la cédula 5000493:
+Anterior: ('5000493', 'JUAN TEOFILO', 'BRITEZ FLORENCIANO', 28, 11, 1998)
+Nuevo: (5000493, 'JUAN TEOFILO', 'BRITEZ FLORENCIANO', '28', '11', '1998')
+
+Diferencias para la cédula 5000494:
+Anterior: ('5000494', 'BRIAN DAMIAN', 'ROMERO CABRAL', 6, 6, 1994)
+Nuevo: (5000494, 'BRIAN DAMIAN', 'ROMERO CABRAL', '6', '6', '1994')
+
+Diferencias para la cédula 5000495:
+Anterior: ('5000495', 'CESAR BERNARDINO', 'FERREIRA', 20, 5, 1991)
+Nuevo: (5000495, 'CESAR BERNARDINO', 'FERREIRA', '20', '5', '1991')
+
+Diferencias para la cédula 5000496:
+Anterior: ('5000496', 'CRISTIAN DANIEL', 'OSORIO CABALLERO', 29, 6, 1994)
+Nuevo: (5000496, 'CRISTIAN DANIEL', 'OSORIO CABALLERO', '29', '6', '1994')
+
+Diferencias para la cédula 5000497:
+Anterior: ('5000497', 'EVER', 'AGUILAR BAEZ', 8, 6, 1993)
+Nuevo: (5000497, 'EVER', 'AGUILAR BAEZ', '8', '6', '1993')
+
+Diferencias para la cédula 5000498:
+Anterior: ('5000498', 'SERGIO DANIEL', 'MARTINEZ BENITEZ', 6, 4, 1998)
+Nuevo: (5000498, 'SERGIO DANIEL', 'MARTINEZ BENITEZ', '6', '4', '1998')
+
+Diferencias para la cédula 5000499:
+Anterior: ('5000499', 'CHRISTIAN DAVID', 'SALDIVAR VERA', 7, 11, 1995)
+Nuevo: (5000499, 'CHRISTIAN DAVID', 'SALDIVAR VERA', '7', '11', '1995')
+
+Diferencias para la cédula 5000500:
+Anterior: ('5000500', 'ELDER RAFAEL', 'LUCENA NUÃ\x91EZ', 10, 12, 1995)
+Nuevo: (5000500, 'ELDER RAFAEL', 'LUCENA NUÃ\x91EZ', '10', '12', '1995')
+
+Diferencias para la cédula 5000501:
+Anterior: ('5000501', 'EULALIO RAMON', 'ROA PEREZ', 4, 6, 1996)
+Nuevo: (5000501, 'EULALIO RAMON', 'ROA PEREZ', '4', '6', '1996')
+
+Diferencias para la cédula 5000502:
+Anterior: ('5000502', 'JUAN DAVID', 'VAZQUEZ GIMENEZ', 25, 9, 2001)
+Nuevo: (5000502, 'JUAN DAVID', 'VAZQUEZ GIMENEZ', '25', '9', '2001')
+
+Diferencias para la cédula 5000503:
+Anterior: ('5000503', 'ERIC ENRIQUE', 'GARCIA GONZALEZ', 16, 9, 1995)
+Nuevo: (5000503, 'ERIC ENRIQUE', 'GARCIA GONZALEZ', '16', '9', '1995')
+
+Diferencias para la cédula 5000504:
+Anterior: ('5000504', 'MATIAS EMMANUEL', 'BRITEZ VILLAMAYOR', 3, 9, 1998)
+Nuevo: (5000504, 'MATIAS EMMANUEL', 'BRITEZ VILLAMAYOR', '3', '9', '1998')
+
+Diferencias para la cédula 5000505:
+Anterior: ('5000505', 'HECTOR ALEJANDRO', 'GONZALEZ ARCAS', 9, 6, 1995)
+Nuevo: (5000505, 'HECTOR ALEJANDRO', 'GONZALEZ ARCAS', '9', '6', '1995')
+
+Diferencias para la cédula 5000506:
+Anterior: ('5000506', 'EDGAR ARIEL', 'GARCIA RIVEROS', 13, 10, 1992)
+Nuevo: (5000506, 'EDGAR ARIEL', 'GARCIA RIVEROS', '13', '10', '1992')
+
+Diferencias para la cédula 5000507:
+Anterior: ('5000507', 'ROLANDO BLAS', 'LOPEZ FERREIRA', 18, 11, 1993)
+Nuevo: (5000507, 'ROLANDO BLAS', 'LOPEZ FERREIRA', '18', '11', '1993')
+
+Diferencias para la cédula 5000508:
+Anterior: ('5000508', 'JOSUE NICOLAS', 'GAONA GARCIA', 4, 4, 1999)
+Nuevo: (5000508, 'JOSUE NICOLAS', 'GAONA GARCIA', '4', '4', '1999')
+
+Diferencias para la cédula 5000509:
+Anterior: ('5000509', 'RUBEN DARIO', 'RIQUELME ALVAREZ', 4, 11, 1993)
+Nuevo: (5000509, 'RUBEN DARIO', 'RIQUELME ALVAREZ', '4', '11', '1993')
+
+Diferencias para la cédula 5000510:
+Anterior: ('5000510', 'JORGE MANUEL', 'BOVEDA RAMOS', 20, 11, 1987)
+Nuevo: (5000510, 'JORGE MANUEL', 'BOVEDA RAMOS', '20', '11', '1987')
+
+Diferencias para la cédula 5000511:
+Anterior: ('5000511', 'FERNANDO DAVID', 'FERNANDEZ ESPINOLA', 7, 4, 1997)
+Nuevo: (5000511, 'FERNANDO DAVID', 'FERNANDEZ ESPINOLA', '7', '4', '1997')
+
+Diferencias para la cédula 5000512:
+Anterior: ('5000512', 'SERGIO ISMAEL', 'DIAZ VELAZQUEZ', 5, 3, 1998)
+Nuevo: (5000512, '', '', '', '', '')
+
+Diferencias para la cédula 5000513:
+Anterior: ('5000513', 'VICENTE NICOLAS', 'MEDINA VILLALBA', 19, 6, 1999)
+Nuevo: (5000513, 'VICENTE NICOLAS', 'MEDINA VILLALBA', '19', '6', '1999')
+
+Diferencias para la cédula 5000514:
+Anterior: ('5000514', 'ROLANDO', 'ESCOBAR GIMENEZ', 2, 6, 1990)
+Nuevo: (5000514, 'ROLANDO', 'ESCOBAR GIMENEZ', '2', '6', '1990')
+
+Diferencias para la cédula 5000515:
+Anterior: ('5000515', 'JORGE', 'DIAZ', 13, 10, 1994)
+Nuevo: (5000515, 'JORGE', 'DIAZ', '13', '10', '1994')
+
+Diferencias para la cédula 5000516:
+Anterior: ('5000516', 'HUGO JAVIER', 'OCAMPOS VARGAS', 4, 2, 1997)
+Nuevo: (5000516, 'HUGO JAVIER', 'OCAMPOS VARGAS', '4', '2', '1997')
+
+Diferencias para la cédula 5000517:
+Anterior: ('5000517', 'JESUS FRANCISCO', 'CANDIA PATIÃ\x91O', 30, 10, 1997)
+Nuevo: (5000517, 'JESUS FRANCISCO', 'CANDIA PATIÃ\x91O', '30', '10', '1997')
+
+Diferencias para la cédula 5000518:
+Anterior: ('5000518', 'PABLO CESAR', 'ORTEGA AGUERO', 4, 5, 1992)
+Nuevo: (5000518, 'PABLO CESAR', 'ORTEGA AGUERO', '4', '5', '1992')
+
+Diferencias para la cédula 5000519:
+Anterior: ('5000519', 'RODOLFO ARMANDO', 'GAUTO MARTINEZ', 7, 2, 1993)
+Nuevo: (5000519, 'RODOLFO ARMANDO', 'GAUTO MARTINEZ', '7', '2', '1993')
+
+Diferencias para la cédula 5000520:
+Anterior: ('5000520', 'SYLVIA MONTSERRAT', 'MONTEGGIA MENCIA', 10, 1, 1998)
+Nuevo: (5000520, 'SYLVIA MONTSERRAT', 'MONTEGGIA MENCIA', '10', '1', '1998')
+
+Diferencias para la cédula 5000521:
+Anterior: ('5000521', 'JOSE ARIEL', 'GAUTO MARTINEZ', 16, 1, 1991)
+Nuevo: (5000521, 'JOSE ARIEL', 'GAUTO MARTINEZ', '16', '1', '1991')
+
+Diferencias para la cédula 5000522:
+Anterior: ('5000522', 'FABIOLA ELIANA', 'GAUTO MARTINEZ', 30, 5, 1996)
+Nuevo: (5000522, 'FABIOLA ELIANA', 'GAUTO MARTINEZ', '30', '5', '1996')
+
+Diferencias para la cédula 5000523:
+Anterior: ('5000523', 'FELIPE SANTIAGO', 'CABAÃ\x91AS SOLIS', 1, 5, 1989)
+Nuevo: (5000523, 'FELIPE SANTIAGO', 'CABAÃ\x91AS SOLIS', '1', '5', '1989')
+
+Diferencias para la cédula 5000524:
+Anterior: ('5000524', 'JOSE MARIA', 'RICARDO NOTARIO', 1, 12, 1990)
+Nuevo: (5000524, 'JOSE MARIA', 'RICARDO NOTARIO', '1', '12', '1990')
+
+Diferencias para la cédula 5000525:
+Anterior: ('5000525', 'BRUNO DAMIAN', 'CUTTIER MOREIRA', 31, 10, 1997)
+Nuevo: (5000525, 'BRUNO DAMIAN', 'CUTTIER MOREIRA', '31', '10', '1997')
+
+Diferencias para la cédula 5000526:
+Anterior: ('5000526', 'SAMUEL ANTONIO', 'BRITEZ VILLAMAYOR', 16, 2, 1997)
+Nuevo: (5000526, 'SAMUEL ANTONIO', 'BRITEZ VILLAMAYOR', '16', '2', '1997')
+
+Diferencias para la cédula 5000527:
+Anterior: ('5000527', 'LUIS NAHUEL', 'ORTIZ CASTILLO', 11, 10, 2001)
+Nuevo: (5000527, 'LUIS NAHUEL', 'ORTIZ CASTILLO', '11', '10', '2001')
+
+Diferencias para la cédula 5000528:
+Anterior: ('5000528', 'GERARDO ADIL', 'BLANCO GONZALEZ', 22, 1, 1993)
+Nuevo: (5000528, 'GERARDO ADIL', 'BLANCO GONZALEZ', '22', '1', '1993')
+
+Diferencias para la cédula 5000529:
+Anterior: ('5000529', 'MIGUEL MATEO', 'VERA GIMENEZ', 29, 9, 1992)
+Nuevo: (5000529, 'MIGUEL MATEO', 'VERA GIMENEZ', '29', '9', '1992')
+
+Diferencias para la cédula 5000530:
+Anterior: ('5000530', 'JOSE JAVIER', 'CACERES ALVAREZ', 18, 6, 1998)
+Nuevo: (5000530, 'JOSE JAVIER', 'CACERES ALVAREZ', '18', '6', '1998')
+
+Diferencias para la cédula 5000531:
+Anterior: ('5000531', 'GERARDO ANDRES', 'FLORENTIN', 20, 5, 1988)
+Nuevo: (5000531, 'GERARDO ANDRES', 'FLORENTIN', '20', '5', '1988')
+
+Diferencias para la cédula 5000532:
+Anterior: ('5000532', 'CARLOS ENRIQUE', 'MENDOZA MORA', 21, 10, 1994)
+Nuevo: (5000532, 'CARLOS ENRIQUE', 'MENDOZA MORA', '21', '10', '1994')
+
+Diferencias para la cédula 5000533:
+Anterior: ('5000533', 'CRISTIAN DAVID', 'SANCHEZ ESTIGARRIBIA', 1, 6, 1990)
+Nuevo: (5000533, 'CRISTIAN DAVID', 'SANCHEZ ESTIGARRIBIA', '1', '6', '1990')
+
+Diferencias para la cédula 5000534:
+Anterior: ('5000534', 'JUAN', 'PAVON', 29, 8, 1972)
+Nuevo: (5000534, 'JUAN', 'PAVON', '29', '8', '1972')
+
+Diferencias para la cédula 5000535:
+Anterior: ('5000535', 'MARCOS ELIAS', 'ALVAREZ QUIÃ\x91ONEZ', 14, 4, 1998)
+Nuevo: (5000535, 'MARCOS ELIAS', 'ALVAREZ QUIÃ\x91ONEZ', '14', '4', '1998')
+
+Diferencias para la cédula 5000536:
+Anterior: ('5000536', 'JUAN ALBERTO', 'ESPINOLA FLECHA', 17, 7, 1984)
+Nuevo: (5000536, 'JUAN ALBERTO', 'ESPINOLA FLECHA', '17', '7', '1984')
+
+Diferencias para la cédula 5000537:
+Anterior: ('5000537', 'DERLIS FRANCISCO', 'SERVIN RECALDE', 27, 8, 1993)
+Nuevo: (5000537, 'DERLIS FRANCISCO', 'SERVIN RECALDE', '27', '8', '1993')
+
+Diferencias para la cédula 5000538:
+Anterior: ('5000538', 'JUAN DAVID', 'SERVIN RECALDE', 18, 9, 1996)
+Nuevo: (5000538, 'JUAN DAVID', 'SERVIN RECALDE', '18', '9', '1996')
+
+Diferencias para la cédula 5000539:
+Anterior: ('5000539', 'OSVALDO ARIEL', 'SERVIN RECALDE', 28, 5, 1998)
+Nuevo: (5000539, 'OSVALDO ARIEL', 'SERVIN RECALDE', '28', '5', '1998')
+
+Diferencias para la cédula 5000540:
+Anterior: ('5000540', 'RICARDO DANIEL', 'ARMOA MENDEZ', 28, 6, 1998)
+Nuevo: (5000540, 'RICARDO DANIEL', 'ARMOA MENDEZ', '28', '6', '1998')
+
+Diferencias para la cédula 5000541:
+Anterior: ('5000541', 'JUAN ISMAEL', 'DIAZ', 18, 5, 1988)
+Nuevo: (5000541, 'JUAN ISMAEL', 'DIAZ', '18', '5', '1988')
+
+Diferencias para la cédula 5000542:
+Anterior: ('5000542', 'JOSE FERNANDO', 'AVINAGALDE CUBA', 25, 10, 1992)
+Nuevo: (5000542, 'JOSE FERNANDO', 'AVINAGALDE CUBA', '25', '10', '1992')
+
+Diferencias para la cédula 5000543:
+Anterior: ('5000543', 'ALBERTO JAVIER', 'AREVALOS', 6, 10, 1992)
+Nuevo: (5000543, 'ALBERTO JAVIER', 'AREVALOS', '6', '10', '1992')
+
+Diferencias para la cédula 5000544:
+Anterior: ('5000544', 'AURELIO', 'CUELLAR DELVALLE ARANDA', 26, 8, 1989)
+Nuevo: (5000544, 'AURELIO', 'CUELLAR DELVALLE ARANDA', '26', '8', '1989')
+
+Diferencias para la cédula 5000545:
+Anterior: ('5000545', 'ALEJANDRO JAVIER', 'ARMOA MENDEZ', 11, 9, 1995)
+Nuevo: (5000545, 'ALEJANDRO JAVIER', 'ARMOA MENDEZ', '11', '9', '1995')
+
+Diferencias para la cédula 5000546:
+Anterior: ('5000546', 'FEDERICO ANTONIO', 'BENITEZ FIGUEREDO', 10, 9, 2001)
+Nuevo: (5000546, 'FEDERICO ANTONIO', 'BENITEZ FIGUEREDO', '10', '9', '2001')
+
+Diferencias para la cédula 5000547:
+Anterior: ('5000547', 'FIORELA ARAMI', 'GALVAN AMARILLA', 9, 2, 2003)
+Nuevo: (5000547, 'FIORELA ARAMI', 'GALVAN AMARILLA', '9', '2', '2003')
+
+Diferencias para la cédula 5000548:
+Anterior: ('5000548', 'LARISSA MAGALI', 'SALINA PEÃ\x91A', 6, 2, 2003)
+Nuevo: (5000548, 'LARISSA MAGALI', 'SALINA PEÃ\x91A', '6', '2', '2003')
+
+Diferencias para la cédula 5000549:
+Anterior: ('5000549', 'OSMAR', 'MARTINEZ PEREIRA', 5, 5, 1990)
+Nuevo: (5000549, 'OSMAR', 'MARTINEZ PEREIRA', '5', '5', '1990')
+
+Diferencias para la cédula 5000550:
+Anterior: ('5000550', 'ARIEL SANTIAGO', 'BARUA DOMINGUEZ', 18, 10, 1997)
+Nuevo: (5000550, 'ARIEL SANTIAGO', 'BARUA DOMINGUEZ', '18', '10', '1997')
+
+Diferencias para la cédula 5000551:
+Anterior: ('5000551', 'ALDO JAVIER', 'AQUINO FERREIRA', 13, 5, 1992)
+Nuevo: (5000551, 'ALDO JAVIER', 'AQUINO FERREIRA', '13', '5', '1992')
+
+Diferencias para la cédula 5000552:
+Anterior: ('5000552', 'PORFIRIO DANIEL', 'OZUNA', 30, 1, 1995)
+Nuevo: (5000552, 'PORFIRIO DANIEL', 'OZUNA', '30', '1', '1995')
+
+Diferencias para la cédula 5000553:
+Anterior: ('5000553', 'NICOLAS GUILLERMO', 'LUGO FERNANDEZ', 5, 6, 1996)
+Nuevo: (5000553, 'NICOLAS GUILLERMO', 'LUGO FERNANDEZ', '5', '6', '1996')
+
+Diferencias para la cédula 5000554:
+Anterior: ('5000554', 'ESTEBAN MAURICIO', 'FERNANDEZ ROMERO', 28, 10, 1994)
+Nuevo: (5000554, 'ESTEBAN MAURICIO', 'FERNANDEZ ROMERO', '28', '10', '1994')
+
+Diferencias para la cédula 5000555:
+Anterior: ('5000555', 'MAXIMILIANO AGUSTIN', 'CABRERA LOPEZ', 22, 9, 1989)
+Nuevo: (5000555, 'MAXIMILIANO AGUSTIN', 'CABRERA LOPEZ', '22', '9', '1989')
+
+Diferencias para la cédula 5000556:
+Anterior: ('5000556', 'FEDERICO', 'SOTO RIOS', 25, 5, 1990)
+Nuevo: (5000556, 'FEDERICO', 'SOTO RIOS', '25', '5', '1990')
+
+Diferencias para la cédula 5000557:
+Anterior: ('5000557', 'HUGO BERNARDO', 'GOMEZ ESPINOLA', 26, 1, 1991)
+Nuevo: (5000557, 'HUGO BERNARDO', 'GOMEZ ESPINOLA', '26', '1', '1991')
+
+Diferencias para la cédula 5000558:
+Anterior: ('5000558', 'ROBERT EMANUEL', 'MARTINEZ', 22, 6, 1991)
+Nuevo: (5000558, 'ROBERT EMANUEL', 'MARTINEZ', '22', '6', '1991')
+
+Diferencias para la cédula 5000559:
+Anterior: ('5000559', 'ENMANUEL', 'AYALA CACERES', 25, 10, 1998)
+Nuevo: (5000559, 'ENMANUEL', 'AYALA CACERES', '25', '10', '1998')
+
+Diferencias para la cédula 5000560:
+Anterior: ('5000560', 'HECTOR OSMAR', 'LESME BUSTO', 15, 2, 1994)
+Nuevo: (5000560, 'HECTOR OSMAR', 'LESME BUSTO', '15', '2', '1994')
+
+Diferencias para la cédula 5000561:
+Anterior: ('5000561', 'GILBERTO RAMON', 'SOSA MENDIETA', 6, 10, 1982)
+Nuevo: (5000561, 'GILBERTO RAMON', 'SOSA MENDIETA', '6', '10', '1982')
+
+Diferencias para la cédula 5000562:
+Anterior: ('5000562', 'RODRIGO IVAN', 'MARTINEZ', 13, 1, 1993)
+Nuevo: (5000562, 'RODRIGO IVAN', 'MARTINEZ', '13', '1', '1993')
+
+Diferencias para la cédula 5000563:
+Anterior: ('5000563', 'DERLIS REINALDO', 'ORTIZ CACERES', 8, 8, 1995)
+Nuevo: (5000563, 'DERLIS REINALDO', 'ORTIZ CACERES', '8', '8', '1995')
+
+Diferencias para la cédula 5000564:
+Anterior: ('5000564', 'MATIAS DAVID', 'LEGUIZAMON SANABRIA', 20, 12, 1998)
+Nuevo: (5000564, 'MATIAS DAVID', 'LEGUIZAMON SANABRIA', '20', '12', '1998')
+
+Diferencias para la cédula 5000565:
+Anterior: ('5000565', 'RODRIGO MANUEL', 'CUEVAS', 23, 7, 1991)
+Nuevo: (5000565, 'RODRIGO MANUEL', 'CUEVAS', '23', '7', '1991')
+
+Diferencias para la cédula 5000566:
+Anterior: ('5000566', 'GERONIMO', 'ESPINOLA CABRERA', 30, 9, 1961)
+Nuevo: (5000566, 'GERONIMO', 'ESPINOLA CABRERA', '30', '9', '1961')
+
+Diferencias para la cédula 5000567:
+Anterior: ('5000567', 'FERNANDO OSMAR', 'VERGARA VILLALBA', 16, 7, 1990)
+Nuevo: (5000567, 'FERNANDO OSMAR', 'VERGARA VILLALBA', '16', '7', '1990')
+
+Diferencias para la cédula 5000568:
+Anterior: ('5000568', 'ROLANDO ARIEL', 'CORONEL GOMEZ', 26, 1, 1998)
+Nuevo: (5000568, 'ROLANDO ARIEL', 'CORONEL GOMEZ', '26', '1', '1998')
+
+Diferencias para la cédula 5000569:
+Anterior: ('5000569', 'EVER FABIAN', 'SCHMIED ACOSTA', 5, 2, 1992)
+Nuevo: (5000569, 'EVER FABIAN', 'SCHMIED ACOSTA', '5', '2', '1992')
+
+Diferencias para la cédula 5000570:
+Anterior: ('5000570', 'LUCIO ARIEL', 'VAZQUEZ MELGAREJO', 13, 12, 1996)
+Nuevo: (5000570, 'LUCIO ARIEL', 'VAZQUEZ MELGAREJO', '13', '12', '1996')
+
+Diferencias para la cédula 5000571:
+Anterior: ('5000571', 'EDER RONALDO', 'RODAS ROMERO', 8, 3, 1995)
+Nuevo: (5000571, 'EDER RONALDO', 'RODAS ROMERO', '8', '3', '1995')
+
+Diferencias para la cédula 5000572:
+Anterior: ('5000572', 'LUIS MARIA', 'DUARTE CANDIA', 5, 5, 1994)
+Nuevo: (5000572, 'LUIS MARIA', 'DUARTE CANDIA', '5', '5', '1994')
+
+Diferencias para la cédula 5000573:
+Anterior: ('5000573', 'KAREN ANDREA', 'GARCIA GONZALEZ', 26, 11, 1991)
+Nuevo: (5000573, 'KAREN ANDREA', 'GARCIA GONZALEZ', '26', '11', '1991')
+
+Diferencias para la cédula 5000574:
+Anterior: ('5000574', 'ALCIDES ADRIAN', 'ORTELLADO LLANES', 29, 1, 1998)
+Nuevo: (5000574, 'ALCIDES ADRIAN', 'ORTELLADO LLANES', '29', '1', '1998')
+
+Diferencias para la cédula 5000575:
+Anterior: ('5000575', 'GABRIEL ISAAX', 'FLORENTIN ALCARAZ', 17, 4, 1993)
+Nuevo: (5000575, 'GABRIEL ISAAX', 'FLORENTIN ALCARAZ', '17', '4', '1993')
+
+Diferencias para la cédula 5000576:
+Anterior: ('5000576', 'ISAEL', 'GONZALEZ DUISIT', 18, 1, 1993)
+Nuevo: (5000576, 'ISAEL', 'GONZALEZ DUISIT', '18', '1', '1993')
+
+Diferencias para la cédula 5000577:
+Anterior: ('5000577', 'JONAS NATANAEL', 'MARECOS OLMEDO', 19, 8, 1996)
+Nuevo: (5000577, 'JONAS NATANAEL', 'MARECOS OLMEDO', '19', '8', '1996')
+
+Diferencias para la cédula 5000578:
+Anterior: ('5000578', 'LAURA CAROLINA', 'PAREDES AMARILLA', 19, 2, 1994)
+Nuevo: (5000578, 'LAURA CAROLINA', 'PAREDES AMARILLA', '19', '2', '1994')
+
+Diferencias para la cédula 5000579:
+Anterior: ('5000579', 'MARIA BELEN', 'DUARTE GUANES', 4, 3, 1991)
+Nuevo: (5000579, 'MARIA BELEN', 'DUARTE GUANES', '4', '3', '1991')
+
+Diferencias para la cédula 5000580:
+Anterior: ('5000580', 'VERONICA ALEJANDRA', 'SOLER ACOSTA', 6, 1, 1991)
+Nuevo: (5000580, 'VERONICA ALEJANDRA', 'SOLER ACOSTA', '6', '1', '1991')
+
+Diferencias para la cédula 5000581:
+Anterior: ('5000581', 'JORGE', 'BENITEZ AYALA', 5, 2, 1987)
+Nuevo: (5000581, 'JORGE', 'BENITEZ AYALA', '5', '2', '1987')
+
+Diferencias para la cédula 5000582:
+Anterior: ('5000582', 'CLAUDIA LORENA', 'SILVA SALAS', 16, 12, 1999)
+Nuevo: (5000582, 'CLAUDIA LORENA', 'SILVA SALAS', '16', '12', '1999')
+
+Diferencias para la cédula 5000583:
+Anterior: ('5000583', 'DAHIANA MONSERRATH', 'FARIÃ\x91A ROJAS', 24, 4, 1997)
+Nuevo: (5000583, 'DAHIANA MONSERRATH', 'FARIÃ\x91A ROJAS', '24', '4', '1997')
+
+Diferencias para la cédula 5000584:
+Anterior: ('5000584', 'DENISSE BEATRIZ', 'GONZALEZ VELAZQUEZ', 13, 5, 2002)
+Nuevo: (5000584, 'DENISSE BEATRIZ', 'GONZALEZ VELAZQUEZ', '13', '5', '2002')
+
+Diferencias para la cédula 5000585:
+Anterior: ('5000585', 'ANTONIA ELIZABETH', 'VARGAS TOROSSI', 14, 6, 1992)
+Nuevo: (5000585, 'ANTONIA ELIZABETH', 'VARGAS TOROSSI', '14', '6', '1992')
+
+Diferencias para la cédula 5000586:
+Anterior: ('5000586', 'DEYSI LORENZA', 'VARGAS TOROSSI', 10, 8, 1995)
+Nuevo: (5000586, 'DEYSI LORENZA', 'VARGAS TOROSSI', '10', '8', '1995')
+
+Diferencias para la cédula 5000587:
+Anterior: ('5000587', 'LUZ AURORA', 'SALINAS VAZQUEZ', 18, 10, 1995)
+Nuevo: (5000587, 'LUZ AURORA', 'SALINAS VAZQUEZ', '18', '10', '1995')
+
+Diferencias para la cédula 5000588:
+Anterior: ('5000588', 'IGNACIA', 'NUÃ\x91EZ', 1, 8, 1991)
+Nuevo: (5000588, 'IGNACIA', 'NUÃ\x91EZ', '1', '8', '1991')
+
+Diferencias para la cédula 5000589:
+Anterior: ('5000589', 'TAMARA MARIA', 'ESCURRA APURIL', 22, 6, 1998)
+Nuevo: (5000589, 'TAMARA MARIA', 'ESCURRA APURIL', '22', '6', '1998')
+
+Diferencias para la cédula 5000590:
+Anterior: ('5000590', 'GABRIELA CRISTINA', 'GOMEZ BENITEZ', 27, 3, 1996)
+Nuevo: (5000590, 'GABRIELA CRISTINA', 'GOMEZ BENITEZ', '27', '3', '1996')
+
+Diferencias para la cédula 5000591:
+Anterior: ('5000591', 'FABIANA BEATRIZ', 'SOSA PATIÃ\x91O', 29, 3, 1995)
+Nuevo: (5000591, 'FABIANA BEATRIZ', 'SOSA PATIÃ\x91O', '29', '3', '1995')
+
+Diferencias para la cédula 5000592:
+Anterior: ('5000592', 'FATIMA ELIZABETH', 'CENTURION', 20, 1, 1988)
+Nuevo: (5000592, 'FATIMA ELIZABETH', 'CENTURION', '20', '1', '1988')
+
+Diferencias para la cédula 5000593:
+Anterior: ('5000593', 'DEISY CAROLINA', 'VILLALBA ALVARENGA', 12, 11, 1997)
+Nuevo: (5000593, 'DEISY CAROLINA', 'VILLALBA ALVARENGA', '12', '11', '1997')
+
+Diferencias para la cédula 5000594:
+Anterior: ('5000594', 'ROMINA SOLEDAD', 'PAREDES AMARILLA', 31, 12, 1990)
+Nuevo: (5000594, 'ROMINA SOLEDAD', 'PAREDES AMARILLA', '31', '12', '1990')
+
+Diferencias para la cédula 5000595:
+Anterior: ('5000595', 'Ha sucedido el siguiente error', ' Persona no encontrada.', '', '', '')
+Nuevo: (5000595, 'Ha sucedido el siguiente error', ' Persona no encontrada.', '', '', '')
+
+Diferencias para la cédula 5000596:
+Anterior: ('5000596', 'MICAELA', 'AGUERO ARECO', 9, 5, 2001)
+Nuevo: (5000596, 'MICAELA', 'AGUERO ARECO', '9', '5', '2001')
+
+Diferencias para la cédula 5000597:
+Anterior: ('5000597', 'FRANCISCA VIVIANA', 'AMARILLA DELGADO', 18, 11, 1995)
+Nuevo: (5000597, 'FRANCISCA VIVIANA', 'AMARILLA DELGADO', '18', '11', '1995')
+
+Diferencias para la cédula 5000598:
+Anterior: ('5000598', 'LIZ PAOLA', 'MACIEL FORCADO', 6, 5, 1995)
+Nuevo: (5000598, 'LIZ PAOLA', 'MACIEL FORCADO', '6', '5', '1995')
+
+Diferencias para la cédula 5000599:
+Anterior: ('5000599', 'MARLENE EUGENIA', 'MARECOS TENORIO', 13, 7, 1990)
+Nuevo: (5000599, 'MARLENE EUGENIA', 'MARECOS TENORIO', '13', '7', '1990')
+
+Diferencias para la cédula 5000600:
+Anterior: ('5000600', 'JORGE ADRIAN', 'CUEVA', 19, 7, 1993)
+Nuevo: (5000600, 'JORGE ADRIAN', 'CUEVA', '19', '7', '1993')
+
+Diferencias para la cédula 5000601:
+Anterior: ('5000601', 'MARIELA', 'NUÃ\x91EZ GAUTO', 8, 1, 1992)
+Nuevo: (5000601, 'MARIELA', 'NUÃ\x91EZ GAUTO', '8', '1', '1992')
+
+Diferencias para la cédula 5000602:
+Anterior: ('5000602', 'GUILLERMO', 'NUÃ\x91EZ GAUTO', 17, 8, 1993)
+Nuevo: (5000602, 'GUILLERMO', 'NUÃ\x91EZ GAUTO', '17', '8', '1993')
+
+Diferencias para la cédula 5000603:
+Anterior: ('5000603', 'GRACIELA', 'FRANCO GENES', 1, 5, 1990)
+Nuevo: (5000603, 'GRACIELA', 'FRANCO GENES', '1', '5', '1990')
+
+Diferencias para la cédula 5000604:
+Anterior: ('5000604', 'ALEJANDRA', 'CENTURION SANTA CRUZ', 21, 8, 1990)
+Nuevo: (5000604, 'ALEJANDRA', 'CENTURION SANTA CRUZ', '21', '8', '1990')
+
+Diferencias para la cédula 5000605:
+Anterior: ('5000605', 'ANDREA BELEN', 'ACHUCARRO GOIRIS', 13, 6, 1996)
+Nuevo: (5000605, 'ANDREA BELEN', 'ACHUCARRO GOIRIS', '13', '6', '1996')
+
+Diferencias para la cédula 5000606:
+Anterior: ('5000606', 'MARCIA CRISTINA', 'LOPEZ BENITEZ', 28, 6, 1996)
+Nuevo: (5000606, 'MARCIA CRISTINA', 'LOPEZ BENITEZ', '28', '6', '1996')
+
+Diferencias para la cédula 5000607:
+Anterior: ('5000607', 'ROMINA FABIOLA', 'VERDUN', 28, 2, 1991)
+Nuevo: (5000607, 'ROMINA FABIOLA', 'VERDUN', '28', '2', '1991')
+
+Diferencias para la cédula 5000608:
+Anterior: ('5000608', 'JESSICA NATALIA', 'VERDUN', 4, 5, 1992)
+Nuevo: (5000608, 'JESSICA NATALIA', 'VERDUN', '4', '5', '1992')
+
+Diferencias para la cédula 5000609:
+Anterior: ('5000609', 'SONIA RAQUEL', 'CUENCA CABRERA', 8, 3, 1988)
+Nuevo: (5000609, 'SONIA RAQUEL', 'CUENCA CABRERA', '8', '3', '1988')
+
+Diferencias para la cédula 5000610:
+Anterior: ('5000610', 'DOLLY LUIZA', 'ARECO GAUTO', 16, 4, 1988)
+Nuevo: (5000610, 'DOLLY LUIZA', 'ARECO GAUTO', '16', '4', '1988')
+
+Diferencias para la cédula 5000611:
+Anterior: ('5000611', 'LUZ MARICEL', 'SAMUDIO ACUÃ\x91A', 6, 9, 1991)
+Nuevo: (5000611, 'LUZ MARICEL', 'SAMUDIO ACUÃ\x91A', '6', '9', '1991')
+
+Diferencias para la cédula 5000612:
+Anterior: ('5000612', 'NILSA CAROLINA', 'FERNANDEZ', 2, 11, 1986)
+Nuevo: (5000612, 'NILSA CAROLINA', 'FERNANDEZ', '2', '11', '1986')
+
+Diferencias para la cédula 5000613:
+Anterior: ('5000613', 'JULIA VANESSA', 'BAEZ ALVARENGA', 7, 3, 1992)
+Nuevo: (5000613, 'JULIA VANESSA', 'BAEZ ALVARENGA', '7', '3', '1992')
+
+Diferencias para la cédula 5000614:
+Anterior: ('5000614', 'MARIA EDELINA', 'VERGARA JARA', 5, 7, 1991)
+Nuevo: (5000614, 'MARIA EDELINA', 'VERGARA JARA', '5', '7', '1991')
+
+Diferencias para la cédula 5000615:
+Anterior: ('5000615', 'GABRIELA CELESTE', 'VERA CANDIA', 29, 12, 1995)
+Nuevo: (5000615, 'GABRIELA CELESTE', 'VERA CANDIA', '29', '12', '1995')
+
+Diferencias para la cédula 5000616:
+Anterior: ('5000616', 'JANA NATHALIA AZUCENA', 'MENCIA ALMADA', 15, 4, 1996)
+Nuevo: (5000616, 'JANA NATHALIA AZUCENA', 'MENCIA ALMADA', '15', '4', '1996')
+
+Diferencias para la cédula 5000617:
+Anterior: ('5000617', 'NILDA NATALIA', 'BENITEZ', 5, 9, 1992)
+Nuevo: (5000617, 'NILDA NATALIA', 'BENITEZ', '5', '9', '1992')
+
+Diferencias para la cédula 5000618:
+Anterior: ('5000618', 'STELLA MARIS', 'TORRES MOREL', 1, 9, 1995)
+Nuevo: (5000618, 'STELLA MARIS', 'TORRES MOREL', '1', '9', '1995')
+
+Diferencias para la cédula 5000619:
+Anterior: ('5000619', 'MARIA FATIMA', 'RECALDE SANCHEZ', 28, 6, 1988)
+Nuevo: (5000619, 'MARIA FATIMA', 'RECALDE SANCHEZ', '28', '6', '1988')
+
+Diferencias para la cédula 5000620:
+Anterior: ('5000620', 'BETTANIA BELEN', 'MIRANDA RUIZ', 3, 11, 1997)
+Nuevo: (5000620, 'BETTANIA BELEN', 'MIRANDA RUIZ', '3', '11', '1997')
+
+Diferencias para la cédula 5000621:
+Anterior: ('5000621', 'NILDA VANESSA', 'VILLALBA ALVARENGA', 23, 10, 1993)
+Nuevo: (5000621, 'NILDA VANESSA', 'VILLALBA ALVARENGA', '23', '10', '1993')
+
+Diferencias para la cédula 5000622:
+Anterior: ('5000622', 'ERICA ADRIANA', 'VERDUN LUGO', 1, 8, 2000)
+Nuevo: (5000622, 'ERICA ADRIANA', 'VERDUN LUGO', '1', '8', '2000')
+
+Diferencias para la cédula 5000623:
+Anterior: ('5000623', 'KAREN LUCIA', 'STEHLIK MACIEL', 6, 11, 1996)
+Nuevo: (5000623, 'KAREN LUCIA', 'STEHLIK MACIEL', '6', '11', '1996')
+
+Diferencias para la cédula 5000624:
+Anterior: ('5000624', 'MARIA JOSE', 'PARRA CANDIA', 26, 8, 1997)
+Nuevo: (5000624, 'MARIA JOSE', 'PARRA CANDIA', '26', '8', '1997')
+
+Diferencias para la cédula 5000625:
+Anterior: ('5000625', 'KAREN ADRIANA', 'BENITEZ', 16, 11, 1994)
+Nuevo: (5000625, 'KAREN ADRIANA', 'BENITEZ', '16', '11', '1994')
+
+Diferencias para la cédula 5000626:
+Anterior: ('5000626', 'ANGELICA MARIA', 'MUÃ\x91OZ GIMENEZ', 12, 3, 1998)
+Nuevo: (5000626, 'ANGELICA MARIA', 'MUÃ\x91OZ GIMENEZ', '12', '3', '1998')
+
+Diferencias para la cédula 5000627:
+Anterior: ('5000627', 'MARIA ISABEL', 'MUÃ\x91OZ GIMENEZ', 27, 8, 1994)
+Nuevo: (5000627, 'MARIA ISABEL', 'MUÃ\x91OZ GIMENEZ', '27', '8', '1994')
+
+Diferencias para la cédula 5000628:
+Anterior: ('5000628', 'ANA SOLEDAD', 'FRANCIA CABAÃ\x91AS', 26, 7, 1990)
+Nuevo: (5000628, 'ANA SOLEDAD', 'FRANCIA CABAÃ\x91AS', '26', '7', '1990')
+
+Diferencias para la cédula 5000629:
+Anterior: ('5000629', 'ROSALVA', 'AYALA CABALLERO', 30, 8, 1988)
+Nuevo: (5000629, 'ROSALVA', 'AYALA CABALLERO', '30', '8', '1988')
+
+Diferencias para la cédula 5000630:
+Anterior: ('5000630', 'YANINA MARIA', 'FLOR TOLEDO', 10, 5, 1997)
+Nuevo: (5000630, 'YANINA MARIA', 'FLOR TOLEDO', '10', '5', '1997')
+
+Diferencias para la cédula 5000631:
+Anterior: ('5000631', 'MARIA DEL CARMEN', 'SANABRIA VILLASANTI', 16, 7, 1999)
+Nuevo: (5000631, 'MARIA DEL CARMEN', 'SANABRIA VILLASANTI', '16', '7', '1999')
+
+Diferencias para la cédula 5000632:
+Anterior: ('5000632', 'MAGUI ROMINA', 'MUÃ\x91OZ GIMENEZ', 4, 1, 1993)
+Nuevo: (5000632, 'MAGUI ROMINA', 'MUÃ\x91OZ GIMENEZ', '4', '1', '1993')
+
+Diferencias para la cédula 5000633:
+Anterior: ('5000633', 'REBECA MARIA', 'FLOR TOLEDO', 1, 4, 1995)
+Nuevo: (5000633, 'REBECA MARIA', 'FLOR TOLEDO', '1', '4', '1995')
+
+Diferencias para la cédula 5000634:
+Anterior: ('5000634', 'VERONICA ABIGAIL', 'PEREIRA', 30, 1, 1999)
+Nuevo: (5000634, 'VERONICA ABIGAIL', 'PEREIRA', '30', '1', '1999')
+
+Diferencias para la cédula 5000635:
+Anterior: ('5000635', 'RITA VERONICA', 'LARREA FERNANDEZ', 5, 4, 1991)
+Nuevo: (5000635, 'RITA VERONICA', 'LARREA FERNANDEZ', '5', '4', '1991')
+
+Diferencias para la cédula 5000636:
+Anterior: ('5000636', 'GIANNINA BEATRIZ', 'STEHLIK MACIEL', 26, 2, 1993)
+Nuevo: (5000636, 'GIANNINA BEATRIZ', 'STEHLIK MACIEL', '26', '2', '1993')
+
+Diferencias para la cédula 5000637:
+Anterior: ('5000637', 'DIANA NAIR', 'VALDEZ MONGELOS', 12, 12, 1990)
+Nuevo: (5000637, 'DIANA NAIR', 'VALDEZ MONGELOS', '12', '12', '1990')
+
+Diferencias para la cédula 5000638:
+Anterior: ('5000638', 'PERLA', 'PAVON BENEGA', 21, 1, 1996)
+Nuevo: (5000638, 'PERLA', 'PAVON BENEGA', '21', '1', '1996')
+
+Diferencias para la cédula 5000639:
+Anterior: ('5000639', 'CAMILA BEATRIZ', 'GALLARDO ARANDA', 21, 4, 1998)
+Nuevo: (5000639, 'CAMILA BEATRIZ', 'GALLARDO ARANDA', '21', '4', '1998')
+
+Diferencias para la cédula 5000640:
+Anterior: ('5000640', 'ZUNILDA', 'ALMIRON RAMIREZ', 24, 2, 1984)
+Nuevo: (5000640, 'ZUNILDA', 'ALMIRON RAMIREZ', '24', '2', '1984')
+
+Diferencias para la cédula 5000641:
+Anterior: ('5000641', 'ROSSANA BEATRIZ', 'ALMADA CENTURION', 26, 8, 1993)
+Nuevo: (5000641, 'ROSSANA BEATRIZ', 'ALMADA CENTURION', '26', '8', '1993')
+
+Diferencias para la cédula 5000642:
+Anterior: ('5000642', 'LIZ MARCELA', 'ESPINOZA', 11, 6, 1995)
+Nuevo: (5000642, 'LIZ MARCELA', 'ESPINOZA', '11', '6', '1995')
+
+Diferencias para la cédula 5000643:
+Anterior: ('5000643', 'SHIRLEY YAMILE', 'TORRES MOREL', 10, 9, 1997)
+Nuevo: (5000643, 'SHIRLEY YAMILE', 'TORRES MOREL', '10', '9', '1997')
+
+Diferencias para la cédula 5000644:
+Anterior: ('5000644', 'LUCIO RUBEN', 'FERREIRA ALVAREZ', 23, 3, 1993)
+Nuevo: (5000644, 'LUCIO RUBEN', 'FERREIRA ALVAREZ', '23', '3', '1993')
+
+Diferencias para la cédula 5000645:
+Anterior: ('5000645', 'HECTOR JOSE', 'FERREIRA ALVAREZ', 10, 1, 1992)
+Nuevo: (5000645, 'HECTOR JOSE', 'FERREIRA ALVAREZ', '10', '1', '1992')
+
+Diferencias para la cédula 5000646:
+Anterior: ('5000646', 'GUILLERMO', 'GONZALEZ GONZALEZ', 12, 3, 1990)
+Nuevo: (5000646, 'GUILLERMO', 'GONZALEZ GONZALEZ', '12', '3', '1990')
+
+Diferencias para la cédula 5000647:
+Anterior: ('5000647', 'JORGE ANTONIO', 'MARTINEZ ARGUELLO', 1, 7, 1992)
+Nuevo: (5000647, 'JORGE ANTONIO', 'MARTINEZ ARGUELLO', '1', '7', '1992')
+
+Diferencias para la cédula 5000648:
+Anterior: ('5000648', 'LAURA JACQUELINE', 'MENDOZA BERNAL', 24, 10, 1995)
+Nuevo: (5000648, 'LAURA JACQUELINE', 'MENDOZA BERNAL', '24', '10', '1995')
+
+Diferencias para la cédula 5000649:
+Anterior: ('5000649', 'ADRIANA', 'ACOSTA ORTIGOZA', 4, 3, 1990)
+Nuevo: (5000649, 'ADRIANA', 'ACOSTA ORTIGOZA', '4', '3', '1990')
+
+Diferencias para la cédula 5000650:
+Anterior: ('5000650', 'RUTH MABELIN', 'BAREIRO CHAVEZ', 27, 8, 1997)
+Nuevo: (5000650, 'RUTH MABELIN', 'BAREIRO CHAVEZ', '27', '8', '1997')
+
+Diferencias para la cédula 5000651:
+Anterior: ('5000651', 'DENIS STEVEN', 'BAREIRO CHAVEZ', 31, 10, 1992)
+Nuevo: (5000651, 'DENIS STEVEN', 'BAREIRO CHAVEZ', '31', '10', '1992')
+
+Diferencias para la cédula 5000652:
+Anterior: ('5000652', 'GABRIELA MARIA ALEJANDRA', 'LAGUNA LOPEZ', 17, 3, 2001)
+Nuevo: (5000652, 'GABRIELA MARIA ALEJANDRA', 'LAGUNA LOPEZ', '17', '3', '2001')
+
+Diferencias para la cédula 5000653:
+Anterior: ('5000653', 'RICARDO RAMON', 'BRITEZ NAVARRO', 19, 2, 1995)
+Nuevo: (5000653, 'RICARDO RAMON', 'BRITEZ NAVARRO', '19', '2', '1995')
+
+Diferencias para la cédula 5000654:
+Anterior: ('5000654', 'CARLOS RAMON', 'CANTERO CASAL', 2, 2, 1986)
+Nuevo: (5000654, 'CARLOS RAMON', 'CANTERO CASAL', '2', '2', '1986')
+
+Diferencias para la cédula 5000655:
+Anterior: ('5000655', 'MAURA RAQUEL', 'FIGUEREDO JIMENEZ', 8, 9, 1994)
+Nuevo: (5000655, 'MAURA RAQUEL', 'FIGUEREDO JIMENEZ', '8', '9', '1994')
+
+Diferencias para la cédula 5000656:
+Anterior: ('5000656', 'OVIDIO', 'AMARILLA GAVILAN', 25, 9, 1984)
+Nuevo: (5000656, 'OVIDIO', 'AMARILLA GAVILAN', '25', '9', '1984')
+
+Diferencias para la cédula 5000657:
+Anterior: ('5000657', 'TOMAS MANUEL', 'FLORENTIN MOREL', 9, 4, 1990)
+Nuevo: (5000657, 'TOMAS MANUEL', 'FLORENTIN MOREL', '9', '4', '1990')
+
+Diferencias para la cédula 5000658:
+Anterior: ('5000658', 'FERNANDO JAVIER', 'CANDIA PORTILLO', 1, 2, 1990)
+Nuevo: (5000658, 'FERNANDO JAVIER', 'CANDIA PORTILLO', '1', '2', '1990')
+
+Diferencias para la cédula 5000659:
+Anterior: ('5000659', 'DANLEY DAVID', 'PALMA ALVAREZ', 30, 11, 1998)
+Nuevo: (5000659, 'DANLEY DAVID', 'PALMA ALVAREZ', '30', '11', '1998')
+
+Diferencias para la cédula 5000660:
+Anterior: ('5000660', 'PABLINO NICOLAS', 'MARTINEZ RIVAROLA', 10, 9, 1996)
+Nuevo: (5000660, 'PABLINO NICOLAS', 'MARTINEZ RIVAROLA', '10', '9', '1996')
+
+Diferencias para la cédula 5000661:
+Anterior: ('5000661', 'JESSICA RAMONA', 'SAMANIEGO ROMERO', 2, 5, 1993)
+Nuevo: (5000661, 'JESSICA RAMONA', 'SAMANIEGO ROMERO', '2', '5', '1993')
+
+Diferencias para la cédula 5000662:
+Anterior: ('5000662', 'LISET MARIA', 'CENTURION BENEGAS', 1, 4, 1996)
+Nuevo: (5000662, 'LISET MARIA', 'CENTURION BENEGAS', '1', '4', '1996')
+
+Diferencias para la cédula 5000663:
+Anterior: ('5000663', 'CLAUDELINA', 'ALARCON VAZQUEZ', 2, 3, 1987)
+Nuevo: (5000663, 'CLAUDELINA', 'ALARCON VAZQUEZ', '2', '3', '1987')
+
+Diferencias para la cédula 5000664:
+Anterior: ('5000664', 'SONIA ELIZABETH', 'FLORENTIN BRITEZ', 21, 1, 1990)
+Nuevo: (5000664, 'SONIA ELIZABETH', 'FLORENTIN BRITEZ', '21', '1', '1990')
+
+Diferencias para la cédula 5000665:
+Anterior: ('5000665', 'CYNTHIA CAROLINA', 'GONZALEZ', 15, 9, 1990)
+Nuevo: (5000665, 'CYNTHIA CAROLINA', 'GONZALEZ', '15', '9', '1990')
+
+Diferencias para la cédula 5000666:
+Anterior: ('5000666', 'BERNARDO', 'GAYOSO VERA', 16, 1, 1998)
+Nuevo: (5000666, 'BERNARDO', 'GAYOSO VERA', '16', '1', '1998')
+
+Diferencias para la cédula 5000667:
+Anterior: ('5000667', 'JESUS BRYAM DANIEL', 'VALDEZ ALVARES', 18, 10, 1996)
+Nuevo: (5000667, 'JESUS BRYAM DANIEL', 'VALDEZ ALVARES', '18', '10', '1996')
+
+Diferencias para la cédula 5000668:
+Anterior: ('5000668', 'ELIAS DAVID', 'GAUTO CASTRO', 28, 1, 1998)
+Nuevo: (5000668, 'ELIAS DAVID', 'GAUTO CASTRO', '28', '1', '1998')
+
+Diferencias para la cédula 5000669:
+Anterior: ('5000669', 'FRANCISCA FAVIOLA', 'MARTINEZ RUIZ', 4, 10, 1990)
+Nuevo: (5000669, 'FRANCISCA FAVIOLA', 'MARTINEZ RUIZ', '4', '10', '1990')
+
+Diferencias para la cédula 5000670:
+Anterior: ('5000670', 'JULIO CESAR', 'CHAMORRO GOMEZ', 2, 12, 1996)
+Nuevo: (5000670, 'JULIO CESAR', 'CHAMORRO GOMEZ', '2', '12', '1996')
+
+Diferencias para la cédula 5000671:
+Anterior: ('5000671', 'ALEJANDRO HADI', 'HIJAZI EL HAGE ALI', 30, 10, 1997)
+Nuevo: (5000671, 'ALEJANDRO HADI', 'HIJAZI EL HAGE ALI', '30', '10', '1997')
+
+Diferencias para la cédula 5000672:
+Anterior: ('5000672', 'JUAN DARIO', 'BRITEZ OVIEDO', 9, 5, 1988)
+Nuevo: (5000672, 'JUAN DARIO', 'BRITEZ OVIEDO', '9', '5', '1988')
+
+Diferencias para la cédula 5000673:
+Anterior: ('5000673', 'EMILIO RAMON', 'BRITEZ OVIEDO', 9, 5, 1991)
+Nuevo: (5000673, 'EMILIO RAMON', 'BRITEZ OVIEDO', '9', '5', '1991')
+
+Diferencias para la cédula 5000674:
+Anterior: ('5000674', 'FIDELINA', 'LOPEZ', 21, 1, 1956)
+Nuevo: (5000674, 'FIDELINA', 'LOPEZ', '21', '1', '1956')
+
+Diferencias para la cédula 5000675:
+Anterior: ('5000675', 'ROMINA BELEN', 'ORTELLADO NUÃ\x91EZ', 17, 10, 1997)
+Nuevo: (5000675, 'ROMINA BELEN', 'ORTELLADO NUÃ\x91EZ', '17', '10', '1997')
+
+Diferencias para la cédula 5000676:
+Anterior: ('5000676', 'MARIA MARLENE', 'ARRUA FLORES', 3, 6, 1989)
+Nuevo: (5000676, 'MARIA MARLENE', 'ARRUA FLORES', '3', '6', '1989')
+
+Diferencias para la cédula 5000677:
+Anterior: ('5000677', 'ALMA MARIA', 'CABALLERO CABRERA', 21, 10, 2002)
+Nuevo: (5000677, 'ALMA MARIA', 'CABALLERO CABRERA', '21', '10', '2002')
+
+Diferencias para la cédula 5000678:
+Anterior: ('5000678', 'CAMILA GABRIELA', 'QUIÃ\x91ONEZ PEREIRA', 15, 7, 2002)
+Nuevo: (5000678, 'CAMILA GABRIELA', 'QUIÃ\x91ONEZ PEREIRA', '15', '7', '2002')
+
+Diferencias para la cédula 5000679:
+Anterior: ('5000679', 'CAROLINA', 'ARCE VILLASANTI', 14, 8, 1987)
+Nuevo: (5000679, 'CAROLINA', 'ARCE VILLASANTI', '14', '8', '1987')
+
+Diferencias para la cédula 5000680:
+Anterior: ('5000680', 'DANIEL', 'FERNANDEZ AGUAYO', 26, 9, 1988)
+Nuevo: (5000680, 'DANIEL', 'FERNANDEZ AGUAYO', '26', '9', '1988')
+
+Diferencias para la cédula 5000681:
+Anterior: ('5000681', 'DIEGO MARTIN', 'BRITEZ ROLON', 30, 3, 1993)
+Nuevo: (5000681, 'DIEGO MARTIN', 'BRITEZ ROLON', '30', '3', '1993')
+
+Diferencias para la cédula 5000682:
+Anterior: ('5000682', 'GUSTAVO', 'FERNANDEZ AGUAYO', 2, 6, 1992)
+Nuevo: (5000682, 'GUSTAVO', 'FERNANDEZ AGUAYO', '2', '6', '1992')
+
+Diferencias para la cédula 5000683:
+Anterior: ('5000683', 'MARIA SUSANA', 'CONTRERA', 22, 10, 1988)
+Nuevo: (5000683, 'MARIA SUSANA', 'CONTRERA', '22', '10', '1988')
+
+Diferencias para la cédula 5000684:
+Anterior: ('5000684', 'ADRIAN', 'FERNANDEZ AGUAYO', 1, 8, 1986)
+Nuevo: (5000684, 'ADRIAN', 'FERNANDEZ AGUAYO', '1', '8', '1986')
+
+Diferencias para la cédula 5000685:
+Anterior: ('5000685', 'FABIOLA MONSERRAT', 'TOPACIO CHAMORRO', 18, 10, 1990)
+Nuevo: (5000685, 'FABIOLA MONSERRAT', 'TOPACIO CHAMORRO', '18', '10', '1990')
+
+Diferencias para la cédula 5000686:
+Anterior: ('5000686', 'NORA CARMITA', 'GONZALEZ TORRES', 18, 7, 1998)
+Nuevo: (5000686, 'NORA CARMITA', 'GONZALEZ TORRES', '18', '7', '1998')
+
+Diferencias para la cédula 5000687:
+Anterior: ('5000687', 'CESAR HERNAN', 'ACUÃ\x91A GOMEZ', 25, 9, 1991)
+Nuevo: (5000687, 'CESAR HERNAN', 'ACUÃ\x91A GOMEZ', '25', '9', '1991')
+
+Diferencias para la cédula 5000688:
+Anterior: ('5000688', 'JOSE AUGUSTO', 'ACUÃ\x91A GOMEZ', 9, 1, 1995)
+Nuevo: (5000688, 'JOSE AUGUSTO', 'ACUÃ\x91A GOMEZ', '9', '1', '1995')
+
+Diferencias para la cédula 5000689:
+Anterior: ('5000689', 'KAREN GULIANA', 'ACUÃ\x91A GOMEZ', 25, 5, 2000)
+Nuevo: (5000689, 'KAREN GULIANA', 'ACUÃ\x91A GOMEZ', '25', '5', '2000')
+
+Diferencias para la cédula 5000690:
+Anterior: ('5000690', 'RITA MERCEDES', 'BENITEZ PAVON', 2, 3, 1989)
+Nuevo: (5000690, 'RITA MERCEDES', 'BENITEZ PAVON', '2', '3', '1989')
+
+Diferencias para la cédula 5000691:
+Anterior: ('5000691', 'LUCAS DAMIAN', 'HANSEN FERNANDEZ', 28, 3, 1994)
+Nuevo: (5000691, 'LUCAS DAMIAN', 'HANSEN FERNANDEZ', '28', '3', '1994')
+
+Diferencias para la cédula 5000692:
+Anterior: ('5000692', 'FRANCISCO MIGUEL ELIAS', 'LOPEZ AMARILLA', 4, 10, 1993)
+Nuevo: (5000692, 'FRANCISCO MIGUEL ELIAS', 'LOPEZ AMARILLA', '4', '10', '1993')
+
+Diferencias para la cédula 5000693:
+Anterior: ('5000693', 'ANGEL MOISES', 'LOPEZ AMARILLA', 1, 11, 1990)
+Nuevo: (5000693, 'ANGEL MOISES', 'LOPEZ AMARILLA', '1', '11', '1990')
+
+Diferencias para la cédula 5000694:
+Anterior: ('5000694', 'MARCELO SAMUEL', 'LOPEZ AMARILLA', 15, 8, 1995)
+Nuevo: (5000694, 'MARCELO SAMUEL', 'LOPEZ AMARILLA', '15', '8', '1995')
+
+Diferencias para la cédula 5000695:
+Anterior: ('5000695', 'ELIAS GUSTAVO', 'HANSEN FERNANDEZ', 25, 5, 1999)
+Nuevo: (5000695, 'ELIAS GUSTAVO', 'HANSEN FERNANDEZ', '25', '5', '1999')
+
+Diferencias para la cédula 5000696:
+Anterior: ('5000696', 'JAZMIN ELIANA', 'HANSEN FERNANDEZ', 20, 9, 1995)
+Nuevo: (5000696, 'JAZMIN ELIANA', 'HANSEN FERNANDEZ', '20', '9', '1995')
+
+Diferencias para la cédula 5000697:
+Anterior: ('5000697', 'LIDA LIZ', 'GARCIA LEZCANO', 9, 4, 1995)
+Nuevo: (5000697, 'LIDA LIZ', 'GARCIA LEZCANO', '9', '4', '1995')
+
+Diferencias para la cédula 5000698:
+Anterior: ('5000698', 'LIDIA VIVIANA', 'RECALDE SANCHEZ', 26, 10, 1988)
+Nuevo: (5000698, 'LIDIA VIVIANA', 'RECALDE SANCHEZ', '26', '10', '1988')
+
+Diferencias para la cédula 5000699:
+Anterior: ('5000699', 'MAIRA DAHIANA', 'ZARATE ZORONDO', 21, 11, 1998)
+Nuevo: (5000699, 'MAIRA DAHIANA', 'ZARATE ZORONDO', '21', '11', '1998')
+
+Diferencias para la cédula 5000700:
+Anterior: ('5000700', 'SUSANA ALEJANDRA', 'BOBADILLA VELAZQUEZ', 18, 4, 1994)
+Nuevo: (5000700, 'SUSANA ALEJANDRA', 'BOBADILLA VELAZQUEZ', '18', '4', '1994')
+
+Diferencias para la cédula 5000701:
+Anterior: ('5000701', 'ERIKA LIZET', 'ORTIZ ZORONDO', 19, 9, 1998)
+Nuevo: (5000701, 'ERIKA LIZET', 'ORTIZ ZORONDO', '19', '9', '1998')
+
+Diferencias para la cédula 5000702:
+Anterior: ('5000702', 'INGRID NATALIA', 'LUGO CENA', 16, 2, 1997)
+Nuevo: (5000702, 'INGRID NATALIA', 'LUGO CENA', '16', '2', '1997')
+
+Diferencias para la cédula 5000703:
+Anterior: ('5000703', 'ALEXANDRA ELIZABETH', 'AGÃ\x9cERO DUARTE', 17, 2, 1991)
+Nuevo: (5000703, 'ALEXANDRA ELIZABETH', 'AGÃ\x9cERO DUARTE', '17', '2', '1991')
+
+Diferencias para la cédula 5000704:
+Anterior: ('5000704', 'LUISA DE JESUS', 'ARMOA DIARTE', 21, 6, 1989)
+Nuevo: (5000704, 'LUISA DE JESUS', 'ARMOA DIARTE', '21', '6', '1989')
+
+Diferencias para la cédula 5000705:
+Anterior: ('5000705', 'ERIKA SOFIA', 'BURGOS BENEGA', 20, 4, 1998)
+Nuevo: (5000705, 'ERIKA SOFIA', 'BURGOS BENEGA', '20', '4', '1998')
+
+Diferencias para la cédula 5000706:
+Anterior: ('5000706', 'SILVIA DAHIANA', 'LOPEZ GONZALEZ', 21, 4, 1999)
+Nuevo: (5000706, 'SILVIA DAHIANA', 'LOPEZ GONZALEZ', '21', '4', '1999')
+
+Diferencias para la cédula 5000707:
+Anterior: ('5000707', 'ANDREA CAROLINA', 'LOPEZ GONZALEZ', 9, 7, 1996)
+Nuevo: (5000707, 'ANDREA CAROLINA', 'LOPEZ GONZALEZ', '9', '7', '1996')
+
+Diferencias para la cédula 5000708:
+Anterior: ('5000708', 'MARIA GABRIELA', 'DELVALLE MONGES', 19, 11, 1992)
+Nuevo: (5000708, 'MARIA GABRIELA', 'DELVALLE MONGES', '19', '11', '1992')
+
+Diferencias para la cédula 5000709:
+Anterior: ('5000709', 'ADRIANA', 'HERRERA FERREIRA', 14, 11, 1992)
+Nuevo: (5000709, 'ADRIANA', 'HERRERA FERREIRA', '14', '11', '1992')
+
+Diferencias para la cédula 5000710:
+Anterior: ('5000710', 'YESICA DANIELA', 'HERRERA FERREIRA', 18, 1, 1994)
+Nuevo: (5000710, 'YESICA DANIELA', 'HERRERA FERREIRA', '18', '1', '1994')
+
+Diferencias para la cédula 5000711:
+Anterior: ('5000711', 'ELIANA AYLIN', 'TORRES', 14, 5, 2002)
+Nuevo: (5000711, 'ELIANA AYLIN', 'TORRES', '14', '5', '2002')
+
+Diferencias para la cédula 5000712:
+Anterior: ('5000712', 'MIGUEL ANGEL', 'RODI ARCE', 15, 10, 1988)
+Nuevo: (5000712, 'MIGUEL ANGEL', 'RODI ARCE', '15', '10', '1988')
+
+Diferencias para la cédula 5000713:
+Anterior: ('5000713', 'SILFIDES MARIA JUDITH', 'PANZA VERA', 12, 12, 1989)
+Nuevo: (5000713, 'SILFIDES MARIA JUDITH', 'PANZA VERA', '12', '12', '1989')
+
+Diferencias para la cédula 5000714:
+Anterior: ('5000714', 'LUCAS DANIEL', 'FERNANDEZ MORINIGO', 2, 8, 2002)
+Nuevo: (5000714, 'LUCAS DANIEL', 'FERNANDEZ MORINIGO', '2', '8', '2002')
+
+Diferencias para la cédula 5000715:
+Anterior: ('5000715', 'LETICIA NOEMI', 'ARGUELLO BENITEZ', 14, 5, 2002)
+Nuevo: (5000715, 'LETICIA NOEMI', 'ARGUELLO BENITEZ', '14', '5', '2002')
+
+Diferencias para la cédula 5000716:
+Anterior: ('5000716', 'PORFIRIO', 'CHILAVERT BENITEZ', 4, 5, 1925)
+Nuevo: (5000716, 'PORFIRIO', 'CHILAVERT BENITEZ', '4', '5', '1925')
+
+Diferencias para la cédula 5000717:
+Anterior: ('5000717', 'ESTELA', 'ZALAZAR DIAZ', 3, 7, 1989)
+Nuevo: (5000717, 'ESTELA', 'ZALAZAR DIAZ', '3', '7', '1989')
+
+Diferencias para la cédula 5000718:
+Anterior: ('5000718', 'JENNIFER DEJESUS', 'VILLALBA VIÃ\x91ALES', 25, 12, 2002)
+Nuevo: (5000718, 'JENNIFER DEJESUS', 'VILLALBA VIÃ\x91ALES', '25', '12', '2002')
+
+Diferencias para la cédula 5000719:
+Anterior: ('5000719', 'LIZ PAOLA', 'GOMEZ INSAURRALDE', 18, 9, 1996)
+Nuevo: (5000719, 'LIZ PAOLA', 'GOMEZ INSAURRALDE', '18', '9', '1996')
+
+Diferencias para la cédula 5000720:
+Anterior: ('5000720', 'NIDIA', 'QUINTANA VALDEZ', 16, 4, 1990)
+Nuevo: (5000720, 'NIDIA', 'QUINTANA VALDEZ', '16', '4', '1990')
+
+Diferencias para la cédula 5000721:
+Anterior: ('5000721', 'PATRICIA MONTSERRAT', 'BELOTTO GOMEZ', 11, 10, 1990)
+Nuevo: (5000721, 'PATRICIA MONTSERRAT', 'BELOTTO GOMEZ', '11', '10', '1990')
+
+Diferencias para la cédula 5000722:
+Anterior: ('5000722', 'SILVIA', 'PENAYO', 12, 7, 1991)
+Nuevo: (5000722, 'SILVIA', 'PENAYO', '12', '7', '1991')
+
+Diferencias para la cédula 5000723:
+Anterior: ('5000723', 'NATALIA CAROLINA', 'AYALA CESPEDES', 16, 6, 1992)
+Nuevo: (5000723, 'NATALIA CAROLINA', 'AYALA CESPEDES', '16', '6', '1992')
+
+Diferencias para la cédula 5000724:
+Anterior: ('5000724', 'PATROCINIA', 'MEDINA MORENO', 9, 3, 1989)
+Nuevo: (5000724, 'PATROCINIA', 'MEDINA MORENO', '9', '3', '1989')
+
+Diferencias para la cédula 5000725:
+Anterior: ('5000725', 'ELIANA ARAMI', 'OCAMPOS BENITEZ', 20, 3, 1995)
+Nuevo: (5000725, 'ELIANA ARAMI', 'OCAMPOS BENITEZ', '20', '3', '1995')
+
+Diferencias para la cédula 5000726:
+Anterior: ('5000726', 'LIZ PAMELA', 'GODOY BURGOS', 12, 6, 1999)
+Nuevo: (5000726, 'LIZ PAMELA', 'GODOY BURGOS', '12', '6', '1999')
+
+Diferencias para la cédula 5000727:
+Anterior: ('5000727', 'NATALIA BEATRIZ', 'MARECOS BURGOS', 6, 11, 1995)
+Nuevo: (5000727, 'NATALIA BEATRIZ', 'MARECOS BURGOS', '6', '11', '1995')
+
+Diferencias para la cédula 5000728:
+Anterior: ('5000728', 'DINA EUNICE', 'MENDEZ CACERES', 8, 8, 1994)
+Nuevo: (5000728, 'DINA EUNICE', 'MENDEZ CACERES', '8', '8', '1994')
+
+Diferencias para la cédula 5000729:
+Anterior: ('5000729', 'CAMILA SOLEDAD', 'SAMANIEGO DELGADO', 4, 10, 2000)
+Nuevo: (5000729, 'CAMILA SOLEDAD', 'SAMANIEGO DELGADO', '4', '10', '2000')
+
+Diferencias para la cédula 5000730:
+Anterior: ('5000730', 'KATHYA BELEN', 'MEDINA BARRIOS', 28, 4, 1997)
+Nuevo: (5000730, 'KATHYA BELEN', 'MEDINA BARRIOS', '28', '4', '1997')
+
+Diferencias para la cédula 5000731:
+Anterior: ('5000731', 'CLARA LILIANA', 'BAEZ ESPINOLA', 29, 6, 1997)
+Nuevo: (5000731, 'CLARA LILIANA', 'BAEZ ESPINOLA', '29', '6', '1997')
+
+Diferencias para la cédula 5000732:
+Anterior: ('5000732', 'LUCERO ARAMI', 'CANO MACIEL', 3, 9, 2001)
+Nuevo: (5000732, 'LUCERO ARAMI', 'CANO MACIEL', '3', '9', '2001')
+
+Diferencias para la cédula 5000733:
+Anterior: ('5000733', 'KAREN YANINA', 'SILVERO COLMAN', 22, 5, 1998)
+Nuevo: (5000733, 'KAREN YANINA', 'SILVERO COLMAN', '22', '5', '1998')
+
+Diferencias para la cédula 5000734:
+Anterior: ('5000734', 'MARIA LUJAN', 'PORTILLO MIERES', 9, 10, 1998)
+Nuevo: (5000734, 'MARIA LUJAN', 'PORTILLO MIERES', '9', '10', '1998')
+
+Diferencias para la cédula 5000735:
+Anterior: ('5000735', 'ARIANA CLARA MONTSERRAT', 'PORTILLO MIERES', 17, 8, 2001)
+Nuevo: (5000735, 'ARIANA CLARA MONTSERRAT', 'PORTILLO MIERES', '17', '8', '2001')
+
+Diferencias para la cédula 5000736:
+Anterior: ('5000736', 'PERLA TOMASA', 'GONZALEZ TORALES', 21, 12, 1989)
+Nuevo: (5000736, 'PERLA TOMASA', 'GONZALEZ TORALES', '21', '12', '1989')
+
+Diferencias para la cédula 5000737:
+Anterior: ('5000737', 'LILIAN ABIGAIL', 'CORONEL QUESNEL', 3, 10, 1992)
+Nuevo: (5000737, 'LILIAN ABIGAIL', 'CORONEL QUESNEL', '3', '10', '1992')
+
+Diferencias para la cédula 5000738:
+Anterior: ('5000738', 'LORENA BEATRIZ', 'ALVAREZ', 2, 7, 1987)
+Nuevo: (5000738, 'LORENA BEATRIZ', 'ALVAREZ', '2', '7', '1987')
+
+Diferencias para la cédula 5000739:
+Anterior: ('5000739', 'PAULA YANINA', 'VERA BUSTAMANTE', 7, 7, 1991)
+Nuevo: (5000739, 'PAULA YANINA', 'VERA BUSTAMANTE', '7', '7', '1991')
+
+Diferencias para la cédula 5000740:
+Anterior: ('5000740', 'SANNIE MARLENE', 'SALCEDO TOLEDO', 3, 10, 1993)
+Nuevo: (5000740, 'SANNIE MARLENE', 'SALCEDO TOLEDO', '3', '10', '1993')
+
+Diferencias para la cédula 5000741:
+Anterior: ('5000741', 'MAIRA VERONICA', 'OJEDA ROMAN', 9, 11, 1995)
+Nuevo: (5000741, 'MAIRA VERONICA', 'OJEDA ROMAN', '9', '11', '1995')
+
+Diferencias para la cédula 5000742:
+Anterior: ('5000742', 'IVANA CHAVELA', 'ORTEGA GIMENEZ', 27, 11, 1998)
+Nuevo: (5000742, 'IVANA CHAVELA', 'ORTEGA GIMENEZ', '27', '11', '1998')
+
+Diferencias para la cédula 5000743:
+Anterior: ('5000743', 'YESSICA BEATRIZ', 'CHAPARRO VALDEZ', 9, 10, 1991)
+Nuevo: (5000743, 'YESSICA BEATRIZ', 'CHAPARRO VALDEZ', '9', '10', '1991')
+
+Diferencias para la cédula 5000744:
+Anterior: ('5000744', 'ROCIO ADRIANA', 'SILVERO COLMAN', 21, 5, 1992)
+Nuevo: (5000744, 'ROCIO ADRIANA', 'SILVERO COLMAN', '21', '5', '1992')
+
+Diferencias para la cédula 5000745:
+Anterior: ('5000745', 'ANDREA MABEL', 'SANABRIA LEIVA', 29, 11, 1996)
+Nuevo: (5000745, 'ANDREA MABEL', 'SANABRIA LEIVA', '29', '11', '1996')
+
+Diferencias para la cédula 5000746:
+Anterior: ('5000746', 'NAIDER THAIS', 'SILVA FRETES', 2, 12, 1995)
+Nuevo: (5000746, 'NAIDER THAIS', 'SILVA FRETES', '2', '12', '1995')
+
+Diferencias para la cédula 5000747:
+Anterior: ('5000747', 'LILIANA MABEL', 'ACUÃ\x91A ROMERO', 2, 3, 1999)
+Nuevo: (5000747, 'LILIANA MABEL', 'ACUÃ\x91A ROMERO', '2', '3', '1999')
+
+Diferencias para la cédula 5000748:
+Anterior: ('5000748', 'MARIA GUADALUPE', 'ESCOBAR VILLALBA', 5, 4, 1998)
+Nuevo: (5000748, 'MARIA GUADALUPE', 'ESCOBAR VILLALBA', '5', '4', '1998')
+
+Diferencias para la cédula 5000749:
+Anterior: ('5000749', 'LORENZA RAMONA', 'ALVARENGA TROCHE', 23, 8, 1995)
+Nuevo: (5000749, 'LORENZA RAMONA', 'ALVARENGA TROCHE', '23', '8', '1995')
+
+Diferencias para la cédula 5000750:
+Anterior: ('5000750', 'TATIANA LUJAN', 'FLORENCIAÃ\x91EZ BORDON', 30, 9, 2000)
+Nuevo: (5000750, 'TATIANA LUJAN', 'FLORENCIAÃ\x91EZ BORDON', '30', '9', '2000')
+
+Diferencias para la cédula 5000751:
+Anterior: ('5000751', 'AMADA', 'MACIEL VAZQUEZ', 4, 3, 1996)
+Nuevo: (5000751, 'AMADA', 'MACIEL VAZQUEZ', '4', '3', '1996')
+
+Diferencias para la cédula 5000752:
+Anterior: ('5000752', 'JADIYI JAZMIN', 'BURGOS BENEGA', 3, 8, 1999)
+Nuevo: (5000752, 'JADIYI JAZMIN', 'BURGOS BENEGA', '3', '8', '1999')
+
+Diferencias para la cédula 5000753:
+Anterior: ('5000753', 'MYRIAM NOEMI', 'VILLALBA PINTOS', 11, 8, 1988)
+Nuevo: (5000753, 'MYRIAM NOEMI', 'VILLALBA PINTOS', '11', '8', '1988')
+
+Diferencias para la cédula 5000754:
+Anterior: ('5000754', 'NADIA PATRICIA', 'BENITEZ LLANO', 24, 2, 2001)
+Nuevo: (5000754, 'NADIA PATRICIA', 'BENITEZ LLANO', '24', '2', '2001')
+
+Diferencias para la cédula 5000755:
+Anterior: ('5000755', 'LAURA CAROLINA', 'ARMOA ARMOA', 1, 12, 1996)
+Nuevo: (5000755, 'LAURA CAROLINA', 'ARMOA ARMOA', '1', '12', '1996')
+
+Diferencias para la cédula 5000756:
+Anterior: ('5000756', 'LILIANA CAROLINA', 'GAONA AYALA', 22, 2, 1989)
+Nuevo: (5000756, 'LILIANA CAROLINA', 'GAONA AYALA', '22', '2', '1989')
+
+Diferencias para la cédula 5000757:
+Anterior: ('5000757', 'VANINA ARACELI', 'VERA BUSTAMANTE', 17, 10, 1995)
+Nuevo: (5000757, 'VANINA ARACELI', 'VERA BUSTAMANTE', '17', '10', '1995')
+
+Diferencias para la cédula 5000758:
+Anterior: ('5000758', 'CLAUDIA MARCELA', 'BENITEZ ALARCON', 25, 7, 1996)
+Nuevo: (5000758, 'CLAUDIA MARCELA', 'BENITEZ ALARCON', '25', '7', '1996')
+
+Diferencias para la cédula 5000759:
+Anterior: ('5000759', 'SANDRA MONTSERRAT', 'OJEDA ESPINOZA', 17, 4, 2000)
+Nuevo: (5000759, 'SANDRA MONTSERRAT', 'OJEDA ESPINOZA', '17', '4', '2000')
+
+Diferencias para la cédula 5000760:
+Anterior: ('5000760', 'PAMELA ROCIO', 'SILVA FRETES', 27, 4, 1997)
+Nuevo: (5000760, 'PAMELA ROCIO', 'SILVA FRETES', '27', '4', '1997')
+
+Diferencias para la cédula 5000761:
+Anterior: ('5000761', 'DEBORA RAQUEL', 'SILVA FRETES', 4, 2, 1994)
+Nuevo: (5000761, 'DEBORA RAQUEL', 'SILVA FRETES', '4', '2', '1994')
+
+Diferencias para la cédula 5000762:
+Anterior: ('5000762', 'AMANDA SOFIA', 'BRITEZ RODRIGUEZ', 21, 6, 1998)
+Nuevo: (5000762, 'AMANDA SOFIA', 'BRITEZ RODRIGUEZ', '21', '6', '1998')
+
+Diferencias para la cédula 5000763:
+Anterior: ('5000763', 'ANTONELA', 'LEGUIZAMON MORALES', 14, 5, 1993)
+Nuevo: (5000763, 'ANTONELA', 'LEGUIZAMON MORALES', '14', '5', '1993')
+
+Diferencias para la cédula 5000764:
+Anterior: ('5000764', 'JISSEL FABIANA', 'PAREDES GONZALEZ', 26, 8, 1991)
+Nuevo: (5000764, 'JISSEL FABIANA', 'PAREDES GONZALEZ', '26', '8', '1991')
+
+Diferencias para la cédula 5000765:
+Anterior: ('5000765', 'MARIA DEL PILAR', 'BURGOS BENEGA', 7, 4, 1994)
+Nuevo: (5000765, 'MARIA DEL PILAR', 'BURGOS BENEGA', '7', '4', '1994')
+
+Diferencias para la cédula 5000766:
+Anterior: ('5000766', 'GLORIA ELIZABETH', 'GALEANO CASTILLO', 21, 3, 1999)
+Nuevo: (5000766, 'GLORIA ELIZABETH', 'GALEANO CASTILLO', '21', '3', '1999')
+
+Diferencias para la cédula 5000767:
+Anterior: ('5000767', 'ZULMA MARIA', 'ESCOBAR JIMENEZ', 25, 11, 1991)
+Nuevo: (5000767, 'ZULMA MARIA', 'ESCOBAR JIMENEZ', '25', '11', '1991')
+
+Diferencias para la cédula 5000768:
+Anterior: ('5000768', 'FABIANA ALICE', 'DELGADO VERA', 4, 6, 1991)
+Nuevo: (5000768, 'FABIANA ALICE', 'DELGADO VERA', '4', '6', '1991')
+
+Diferencias para la cédula 5000769:
+Anterior: ('5000769', 'ANA PATRICIA', 'MARTINEZ VALENZUELA', 28, 10, 1993)
+Nuevo: (5000769, 'ANA PATRICIA', 'MARTINEZ VALENZUELA', '28', '10', '1993')
+
+Diferencias para la cédula 5000770:
+Anterior: ('5000770', 'GERONIMO', 'RODRIGUEZ DAVALOS', 30, 9, 1945)
+Nuevo: (5000770, 'GERONIMO', 'RODRIGUEZ DAVALOS', '30', '9', '1945')
+
+Diferencias para la cédula 5000771:
+Anterior: ('5000771', 'SUSANA MARIA PAZ', 'MARIN AQUINO', 6, 2, 1999)
+Nuevo: (5000771, 'SUSANA MARIA PAZ', 'MARIN AQUINO', '6', '2', '1999')
+
+Diferencias para la cédula 5000772:
+Anterior: ('5000772', 'HELLEN DEL PILAR', 'ACEVEDO FERNANDEZ', 15, 4, 1992)
+Nuevo: (5000772, 'HELLEN DEL PILAR', 'ACEVEDO FERNANDEZ', '15', '4', '1992')
+
+Diferencias para la cédula 5000773:
+Anterior: ('5000773', 'SANTIAGO ANDRES', 'ZARZA CACERES', 28, 12, 2002)
+Nuevo: (5000773, 'SANTIAGO ANDRES', 'ZARZA CACERES', '28', '12', '2002')
+
+Diferencias para la cédula 5000774:
+Anterior: ('5000774', 'MARA CAROLINA', 'SORIA PERALTA', 2, 4, 2000)
+Nuevo: (5000774, 'MARA CAROLINA', 'SORIA PERALTA', '2', '4', '2000')
+
+Diferencias para la cédula 5000775:
+Anterior: ('5000775', 'EVA CAROLINA', 'QUINTANA PAREDES', 9, 10, 1996)
+Nuevo: (5000775, 'EVA CAROLINA', 'QUINTANA PAREDES', '9', '10', '1996')
+
+Diferencias para la cédula 5000776:
+Anterior: ('5000776', 'MIRTA GRACIELA', 'SOSA', 1, 7, 1987)
+Nuevo: (5000776, 'MIRTA GRACIELA', 'SOSA', '1', '7', '1987')
+
+Diferencias para la cédula 5000777:
+Anterior: ('5000777', 'MILVA CAROLINA', 'LOPEZ', 28, 5, 1990)
+Nuevo: (5000777, 'MILVA CAROLINA', 'LOPEZ', '28', '5', '1990')
+
+Diferencias para la cédula 5000778:
+Anterior: ('5000778', 'ROSANA', 'HERTZ AGÃ\x9cERO', 7, 11, 1989)
+Nuevo: (5000778, 'ROSANA', 'HERTZ AGÃ\x9cERO', '7', '11', '1989')
+
+Diferencias para la cédula 5000779:
+Anterior: ('5000779', 'CLARA', 'CACERES AMARILLA', 30, 11, 1994)
+Nuevo: (5000779, 'CLARA', 'CACERES AMARILLA', '30', '11', '1994')
+
+Diferencias para la cédula 5000780:
+Anterior: ('5000780', 'ANDREA MARIEL', 'AREVALO TORRES', 27, 7, 1997)
+Nuevo: (5000780, 'ANDREA MARIEL', 'AREVALO TORRES', '27', '7', '1997')
+
+Diferencias para la cédula 5000781:
+Anterior: ('5000781', 'ELVIA DOLORES', 'ORTIZ RUIZ DIAZ', 13, 8, 1992)
+Nuevo: (5000781, 'ELVIA DOLORES', 'ORTIZ RUIZ DIAZ', '13', '8', '1992')
+
+Diferencias para la cédula 5000782:
+Anterior: ('5000782', 'CECILIA BEATRIZ', 'BENITEZ LLANO', 15, 12, 1992)
+Nuevo: (5000782, 'CECILIA BEATRIZ', 'BENITEZ LLANO', '15', '12', '1992')
+
+Diferencias para la cédula 5000783:
+Anterior: ('5000783', 'PATRICIA LORENA', 'ORTELLADO ARAUJO', 12, 6, 2001)
+Nuevo: (5000783, 'PATRICIA LORENA', 'ORTELLADO ARAUJO', '12', '6', '2001')
+
+Diferencias para la cédula 5000784:
+Anterior: ('5000784', 'LUCILA JAZMIN', 'ESPINOLA PAVON', 28, 10, 2001)
+Nuevo: (5000784, 'LUCILA JAZMIN', 'ESPINOLA PAVON', '28', '10', '2001')
+
+Diferencias para la cédula 5000785:
+Anterior: ('5000785', 'MARIA NATALIA', 'ESPINOLA ARCE', 20, 4, 1993)
+Nuevo: (5000785, 'MARIA NATALIA', 'ESPINOLA ARCE', '20', '4', '1993')
+
+Diferencias para la cédula 5000786:
+Anterior: ('5000786', 'KATHIA MARIET', 'SOSA ZEQUEIRA', 1, 3, 1994)
+Nuevo: (5000786, 'KATHIA MARIET', 'SOSA ZEQUEIRA', '1', '3', '1994')
+
+Diferencias para la cédula 5000787:
+Anterior: ('5000787', 'MARIA ISIDORA', 'BENITEZ LLANO', 15, 5, 1991)
+Nuevo: (5000787, 'MARIA ISIDORA', 'BENITEZ LLANO', '15', '5', '1991')
+
+Diferencias para la cédula 5000788:
+Anterior: ('5000788', 'LIZ MARISOL', 'BENITEZ LLANO', 6, 6, 1994)
+Nuevo: (5000788, 'LIZ MARISOL', 'BENITEZ LLANO', '6', '6', '1994')
+
+Diferencias para la cédula 5000789:
+Anterior: ('5000789', 'LIZ', 'ESPINOLA BENITEZ', 8, 7, 1992)
+Nuevo: (5000789, 'LIZ', 'ESPINOLA BENITEZ', '8', '7', '1992')
+
+Diferencias para la cédula 5000790:
+Anterior: ('5000790', 'DEISY TATIANA', 'OVANDO OZUNA', 4, 6, 1994)
+Nuevo: (5000790, 'DEISY TATIANA', 'OVANDO OZUNA', '4', '6', '1994')
+
+Diferencias para la cédula 5000791:
+Anterior: ('5000791', 'GRISELDA', 'RUIZ DIAZ', 17, 4, 1987)
+Nuevo: (5000791, 'GRISELDA', 'RUIZ DIAZ', '17', '4', '1987')
+
+Diferencias para la cédula 5000792:
+Anterior: ('5000792', 'LOURDES ELIZABETH', 'MARECOS BURGOS', 25, 2, 1992)
+Nuevo: (5000792, 'LOURDES ELIZABETH', 'MARECOS BURGOS', '25', '2', '1992')
+
+Diferencias para la cédula 5000793:
+Anterior: ('5000793', 'LIMPIA ANGELICA', 'GONZALEZ BENITEZ', 24, 10, 1992)
+Nuevo: (5000793, 'LIMPIA ANGELICA', 'GONZALEZ BENITEZ', '24', '10', '1992')
+
+Diferencias para la cédula 5000794:
+Anterior: ('5000794', 'SANDRA MABEL', 'ALVARENGA MARTINEZ', 20, 2, 1992)
+Nuevo: (5000794, 'SANDRA MABEL', 'ALVARENGA MARTINEZ', '20', '2', '1992')
+
+Diferencias para la cédula 5000795:
+Anterior: ('5000795', 'LIDIA MARISEL', 'DUARTE VERA', 31, 3, 1987)
+Nuevo: (5000795, 'LIDIA MARISEL', 'DUARTE VERA', '31', '3', '1987')
+
+Diferencias para la cédula 5000796:
+Anterior: ('5000796', 'AIDA MALICE', 'DUARTE VERA', 28, 8, 1988)
+Nuevo: (5000796, 'AIDA MALICE', 'DUARTE VERA', '28', '8', '1988')
+
+Diferencias para la cédula 5000797:
+Anterior: ('5000797', 'CRISTELL GABRIELA', 'MEDINA BARRIOS', 23, 3, 1996)
+Nuevo: (5000797, 'CRISTELL GABRIELA', 'MEDINA BARRIOS', '23', '3', '1996')
+
+Diferencias para la cédula 5000798:
+Anterior: ('5000798', 'MARIA BEATRIZ', 'BRIZUELA CASTILLO', 18, 11, 1993)
+Nuevo: (5000798, 'MARIA BEATRIZ', 'BRIZUELA CASTILLO', '18', '11', '1993')
+
+Diferencias para la cédula 5000799:
+Anterior: ('5000799', 'SOFIA MIKAHELA', 'OJEDA RIVEROS', 25, 1, 1999)
+Nuevo: (5000799, 'SOFIA MIKAHELA', 'OJEDA RIVEROS', '25', '1', '1999')
+
+Diferencias para la cédula 5000800:
+Anterior: ('5000800', 'MARIAM ALEJANDRA', 'ACOSTA BAEZ', 14, 11, 2002)
+Nuevo: (5000800, 'MARIAM ALEJANDRA', 'ACOSTA BAEZ', '14', '11', '2002')
+
+Diferencias para la cédula 5000801:
+Anterior: ('5000801', 'ANGELICA MARIA', 'ACOSTA MARTINEZ', 17, 10, 1995)
+Nuevo: (5000801, 'ANGELICA MARIA', 'ACOSTA MARTINEZ', '17', '10', '1995')
+
+Diferencias para la cédula 5000802:
+Anterior: ('5000802', 'VILDA VIVIANA', 'VARGAS PERALTA', 16, 12, 1997)
+Nuevo: (5000802, 'VILDA VIVIANA', 'VARGAS PERALTA', '16', '12', '1997')
+
+Diferencias para la cédula 5000803:
+Anterior: ('5000803', 'CAMILA CAROLINA', 'GODOY BURGOS', 23, 11, 1995)
+Nuevo: (5000803, 'CAMILA CAROLINA', 'GODOY BURGOS', '23', '11', '1995')
+
+Diferencias para la cédula 5000804:
+Anterior: ('5000804', 'PATRICIA ROMINA', 'AGUILERA MEDINA', 11, 8, 1997)
+Nuevo: (5000804, 'PATRICIA ROMINA', 'AGUILERA MEDINA', '11', '8', '1997')
+
+Diferencias para la cédula 5000805:
+Anterior: ('5000805', 'SONIA SOLEDAD', 'RODRIGUEZ', 27, 7, 1990)
+Nuevo: (5000805, 'SONIA SOLEDAD', 'RODRIGUEZ', '27', '7', '1990')
+
+Diferencias para la cédula 5000806:
+Anterior: ('5000806', '', '', '', '', '')
+Nuevo: (5000806, 'DESIREE TAMARA', 'ROBLES ARAUJO', '13', '10', '1995')
+
+Diferencias para la cédula 5000807:
+Anterior: ('5000807', 'JESSICA PAMELA', 'ACOSTA', 16, 4, 1991)
+Nuevo: (5000807, 'JESSICA PAMELA', 'ACOSTA', '16', '4', '1991')
+
+Diferencias para la cédula 5000808:
+Anterior: ('5000808', 'DORA MABEL', 'BENITEZ BENITEZ', 7, 9, 1993)
+Nuevo: (5000808, 'DORA MABEL', 'BENITEZ BENITEZ', '7', '9', '1993')
+
+Diferencias para la cédula 5000809:
+Anterior: ('5000809', 'MAIDA RAMONA', 'FERREIRA AGUILERA', 14, 6, 1994)
+Nuevo: (5000809, 'MAIDA RAMONA', 'FERREIRA AGUILERA', '14', '6', '1994')
+
+Diferencias para la cédula 5000810:
+Anterior: ('5000810', 'MARGARITA BELEN', 'BENITEZ BENITEZ', 7, 9, 1998)
+Nuevo: (5000810, 'MARGARITA BELEN', 'BENITEZ BENITEZ', '7', '9', '1998')
+
+Diferencias para la cédula 5000811:
+Anterior: ('5000811', 'SOFIA MONSERRAT', 'TORREZ SERVIN', 24, 7, 1997)
+Nuevo: (5000811, 'SOFIA MONSERRAT', 'TORREZ SERVIN', '24', '7', '1997')
+
+Diferencias para la cédula 5000812:
+Anterior: ('5000812', 'MONICA', 'ROBLES ARAUJO', 27, 8, 1997)
+Nuevo: (5000812, 'MONICA', 'ROBLES ARAUJO', '27', '8', '1997')
+
+Diferencias para la cédula 5000813:
+Anterior: ('5000813', 'KATRIEL', 'MEZA GONZALEZ', 7, 9, 1994)
+Nuevo: (5000813, 'KATRIEL', 'MEZA GONZALEZ', '7', '9', '1994')
+
+Diferencias para la cédula 5000814:
+Anterior: ('5000814', 'MARIA MAGDALENA', 'FRETES ALMIRON', 10, 5, 1996)
+Nuevo: (5000814, 'MARIA MAGDALENA', 'FRETES ALMIRON', '10', '5', '1996')
+
+Diferencias para la cédula 5000815:
+Anterior: ('5000815', 'VERONICA EVELIN', 'LOPEZ VEJAR', 23, 2, 1990)
+Nuevo: (5000815, 'VERONICA EVELIN', 'LOPEZ VEJAR', '23', '2', '1990')
+
+Diferencias para la cédula 5000816:
+Anterior: ('5000816', 'ANDREA CAROLINA', 'OJEDA MONTIEL', 13, 9, 1990)
+Nuevo: (5000816, 'ANDREA CAROLINA', 'OJEDA MONTIEL', '13', '9', '1990')
+
+Diferencias para la cédula 5000817:
+Anterior: ('5000817', 'ALBA ROMINA', 'BENEGAS', 16, 4, 1997)
+Nuevo: (5000817, 'ALBA ROMINA', 'BENEGAS', '16', '4', '1997')
+
+Diferencias para la cédula 5000818:
+Anterior: ('5000818', 'BAUDELIA', 'SOSA LEGUIZAMON', 17, 2, 1990)
+Nuevo: (5000818, 'BAUDELIA', 'SOSA LEGUIZAMON', '17', '2', '1990')
+
+Diferencias para la cédula 5000819:
+Anterior: ('5000819', 'NORA ELIZABETH', 'BAEZ ESCOBAR', 25, 8, 1996)
+Nuevo: (5000819, 'NORA ELIZABETH', 'BAEZ ESCOBAR', '25', '8', '1996')
+
+Diferencias para la cédula 5000820:
+Anterior: ('5000820', 'ROCIO CELINA', 'DELVALLE MONGES', 25, 6, 1988)
+Nuevo: (5000820, 'ROCIO CELINA', 'DELVALLE MONGES', '25', '6', '1988')
+
+Diferencias para la cédula 5000821:
+Anterior: ('5000821', 'CAROLINA', 'ALVAREZ', 16, 7, 1991)
+Nuevo: (5000821, 'CAROLINA', 'ALVAREZ', '16', '7', '1991')
+
+Diferencias para la cédula 5000822:
+Anterior: ('5000822', 'JESSICA PAOLA', 'BENITEZ LLANO', 25, 6, 1996)
+Nuevo: (5000822, 'JESSICA PAOLA', 'BENITEZ LLANO', '25', '6', '1996')
+
+Diferencias para la cédula 5000823:
+Anterior: ('5000823', 'MARIA GABRIELA', 'AVILA GONZALEZ', 7, 8, 1993)
+Nuevo: (5000823, 'MARIA GABRIELA', 'AVILA GONZALEZ', '7', '8', '1993')
+
+Diferencias para la cédula 5000824:
+Anterior: ('5000824', 'Ha sucedido el siguiente error', ' Persona no encontrada.', '', '', '')
+Nuevo: (5000824, 'FELICITA MARIA', 'MARTINEZ VALENZUELA', '8', '1', '1995')
+
+Diferencias para la cédula 5000825:
+Anterior: ('5000825', 'PAMELA ALEXANDRA', 'PERALTA BENITEZ', 19, 12, 1994)
+Nuevo: (5000825, 'PAMELA ALEXANDRA', 'PERALTA BENITEZ', '19', '12', '1994')
+
+Diferencias para la cédula 5000826:
+Anterior: ('5000826', 'DAISY BEATRIZ', 'GONZALEZ PEREIRA', 6, 3, 1993)
+Nuevo: (5000826, 'DAISY BEATRIZ', 'GONZALEZ PEREIRA', '6', '3', '1993')
+
+Diferencias para la cédula 5000827:
+Anterior: ('5000827', 'VERONICA', 'VERA VERA', 22, 12, 1990)
+Nuevo: (5000827, 'VERONICA', 'VERA VERA', '22', '12', '1990')
+
+Diferencias para la cédula 5000828:
+Anterior: ('5000828', 'OLGA ADELINA', 'SALINAS GONZALEZ', 14, 4, 1981)
+Nuevo: (5000828, 'OLGA ADELINA', 'SALINAS GONZALEZ', '14', '4', '1981')
+
+Diferencias para la cédula 5000829:
+Anterior: ('5000829', 'LARISSA NOEMI', 'GOMEZ ACOSTA', 25, 9, 2000)
+Nuevo: (5000829, 'LARISSA NOEMI', 'GOMEZ ACOSTA', '25', '9', '2000')
+
+Diferencias para la cédula 5000830:
+Anterior: ('5000830', 'LUZ CLARA', 'IBARRA ESTECHE', 30, 4, 1997)
+Nuevo: (5000830, 'LUZ CLARA', 'IBARRA ESTECHE', '30', '4', '1997')
+
+Diferencias para la cédula 5000831:
+Anterior: ('5000831', 'MARIA LETICIA', 'PEREIRA ROJAS', 12, 12, 1991)
+Nuevo: (5000831, 'MARIA LETICIA', 'PEREIRA ROJAS', '12', '12', '1991')
+
+Diferencias para la cédula 5000832:
+Anterior: ('5000832', 'WILMA GABRIELA', 'ORTIGOZA OVIEDO', 10, 5, 1991)
+Nuevo: (5000832, 'WILMA GABRIELA', 'ORTIGOZA OVIEDO', '10', '5', '1991')
+
+Diferencias para la cédula 5000833:
+Anterior: ('5000833', 'MARIA JOSE', 'MENA AVILA', 10, 6, 1987)
+Nuevo: (5000833, 'MARIA JOSE', 'MENA AVILA', '10', '6', '1987')
+
+Diferencias para la cédula 5000834:
+Anterior: ('5000834', 'RUTH MARIBEL', 'GOMEZ NUÃ\x91EZ', 11, 4, 1996)
+Nuevo: (5000834, 'RUTH MARIBEL', 'GOMEZ NUÃ\x91EZ', '11', '4', '1996')
+
+Diferencias para la cédula 5000835:
+Anterior: ('5000835', 'ALEJANDRA', 'SOSA GONZALEZ', 8, 7, 1999)
+Nuevo: (5000835, 'ALEJANDRA', 'SOSA GONZALEZ', '8', '7', '1999')
+
+Diferencias para la cédula 5000836:
+Anterior: ('5000836', 'ERIKA ROMINA', 'AVILA CABRAL', 9, 8, 1994)
+Nuevo: (5000836, 'ERIKA ROMINA', 'AVILA CABRAL', '9', '8', '1994')
+
+Diferencias para la cédula 5000837:
+Anterior: ('5000837', 'RITA ARACELI', 'TORRES GONZALEZ', 21, 5, 1997)
+Nuevo: (5000837, 'RITA ARACELI', 'TORRES GONZALEZ', '21', '5', '1997')
+
+Diferencias para la cédula 5000838:
+Anterior: ('5000838', 'ANDREA JOHANI', 'RIVERO RIVERO', 20, 1, 1995)
+Nuevo: (5000838, 'ANDREA JOHANI', 'RIVERO RIVERO', '20', '1', '1995')
+
+Diferencias para la cédula 5000839:
+Anterior: ('5000839', 'DEISY DAHIANA', 'MARTINEZ VALENZUELA', 20, 1, 1998)
+Nuevo: (5000839, 'DEISY DAHIANA', 'MARTINEZ VALENZUELA', '20', '1', '1998')
+
+Diferencias para la cédula 5000840:
+Anterior: ('5000840', 'ALICE RAQUEL', 'LESME SAUCEDO', 7, 1, 1994)
+Nuevo: (5000840, 'ALICE RAQUEL', 'LESME SAUCEDO', '7', '1', '1994')
+
+Diferencias para la cédula 5000841:
+Anterior: ('5000841', 'GLADIS ESTELA', 'FIGUEREDO CENTURION', 4, 7, 1988)
+Nuevo: (5000841, 'GLADIS ESTELA', 'FIGUEREDO CENTURION', '4', '7', '1988')
+
+Diferencias para la cédula 5000842:
+Anterior: ('5000842', 'BIANCA SABRINA', 'PRIETO MARIN', 24, 11, 2001)
+Nuevo: (5000842, 'BIANCA SABRINA', 'PRIETO MARIN', '24', '11', '2001')
+
+Diferencias para la cédula 5000843:
+Anterior: ('5000843', 'NEUSA MARISETTE', 'MOLINAS GARCETE', 28, 2, 1992)
+Nuevo: (5000843, 'NEUSA MARISETTE', 'MOLINAS GARCETE', '28', '2', '1992')
+
+Diferencias para la cédula 5000844:
+Anterior: ('5000844', 'ADA CAROLINA', 'PRIETO CUBA', 28, 3, 1991)
+Nuevo: (5000844, 'ADA CAROLINA', 'PRIETO CUBA', '28', '3', '1991')
+
+Diferencias para la cédula 5000845:
+Anterior: ('5000845', 'SANIA ALICE', 'CANDIA', 8, 7, 1991)
+Nuevo: (5000845, 'SANIA ALICE', 'CANDIA', '8', '7', '1991')
+
+Diferencias para la cédula 5000846:
+Anterior: ('5000846', 'PETRONA', 'GONZALEZ CACERES', 27, 7, 1970)
+Nuevo: (5000846, 'PETRONA', 'GONZALEZ CACERES', '27', '7', '1970')
+
+Diferencias para la cédula 5000847:
+Anterior: ('5000847', 'LIZ PAMELA', 'PINTO CANDIA', 23, 12, 1995)
+Nuevo: (5000847, 'LIZ PAMELA', 'PINTO CANDIA', '23', '12', '1995')
+
+Diferencias para la cédula 5000848:
+Anterior: ('5000848', 'VICTORIA CELESTE', 'MIRANDA ACOSTA', 12, 4, 1988)
+Nuevo: (5000848, 'VICTORIA CELESTE', 'MIRANDA ACOSTA', '12', '4', '1988')
+
+Diferencias para la cédula 5000849:
+Anterior: ('5000849', 'LUCIA JAZMIN', 'ALVARENGA TROCHE', 7, 8, 1997)
+Nuevo: (5000849, 'LUCIA JAZMIN', 'ALVARENGA TROCHE', '7', '8', '1997')
+
+Diferencias para la cédula 5000850:
+Anterior: ('5000850', 'LIDIA PATRICIA', 'ALCARAZ ARRUA', 13, 7, 1990)
+Nuevo: (5000850, 'LIDIA PATRICIA', 'ALCARAZ ARRUA', '13', '7', '1990')
+
+Diferencias para la cédula 5000851:
+Anterior: ('5000851', 'CLAUDIO RAFAEL', 'ROJAS JAQUET', 22, 9, 1998)
+Nuevo: (5000851, 'CLAUDIO RAFAEL', 'ROJAS JAQUET', '22', '9', '1998')
+
+Diferencias para la cédula 5000852:
+Anterior: ('5000852', 'MARIA BELEN', 'RUIZ DIAZ VALLEJOS', 26, 12, 2002)
+Nuevo: (5000852, 'MARIA BELEN', 'RUIZ DIAZ VALLEJOS', '26', '12', '2002')
+
+Diferencias para la cédula 5000853:
+Anterior: ('5000853', 'ELADIO', 'GONZALEZ MARTINEZ', 17, 2, 1991)
+Nuevo: (5000853, 'ELADIO', 'GONZALEZ MARTINEZ', '17', '2', '1991')
+
+Diferencias para la cédula 5000854:
+Anterior: ('5000854', 'FIORELLA AYELEN', 'ROLON CESPEDES', 17, 10, 2002)
+Nuevo: (5000854, 'FIORELLA AYELEN', 'ROLON CESPEDES', '17', '10', '2002')
+
+Diferencias para la cédula 5000855:
+Anterior: ('5000855', 'FELICIANO ARIEL', 'GODOY VIANA', 16, 7, 1989)
+Nuevo: (5000855, 'FELICIANO ARIEL', 'GODOY VIANA', '16', '7', '1989')
+
+Diferencias para la cédula 5000856:
+Anterior: ('5000856', 'NILSON FERNANDO', 'LEIVA BENITEZ', 23, 11, 1996)
+Nuevo: (5000856, 'NILSON FERNANDO', 'LEIVA BENITEZ', '23', '11', '1996')
+
+Diferencias para la cédula 5000857:
+Anterior: ('5000857', 'LILIANA ELIZABETH', 'KATZER AMARILLA', 23, 9, 1988)
+Nuevo: (5000857, 'LILIANA ELIZABETH', 'KATZER AMARILLA', '23', '9', '1988')
+
+Diferencias para la cédula 5000858:
+Anterior: ('5000858', 'JHONY APARECIDO', 'DURE DE ARAUJO', 9, 12, 1988)
+Nuevo: (5000858, 'JHONY APARECIDO', 'DURE DE ARAUJO', '9', '12', '1988')
+
+Diferencias para la cédula 5000859:
+Anterior: ('5000859', 'BLAS MATIAS', 'LOPEZ MALDONADO', 18, 10, 1995)
+Nuevo: (5000859, 'BLAS MATIAS', 'LOPEZ MALDONADO', '18', '10', '1995')
+
+Diferencias para la cédula 5000860:
+Anterior: ('5000860', 'SERGIO ROBERTO', 'CABAÃ\x91AS VEGA', 11, 11, 1998)
+Nuevo: (5000860, 'SERGIO ROBERTO', 'CABAÃ\x91AS VEGA', '11', '11', '1998')
+
+Diferencias para la cédula 5000861:
+Anterior: ('5000861', 'IGOR GABRIEL', 'SCHUSTER ARANDA', 24, 6, 2001)
+Nuevo: (5000861, 'IGOR GABRIEL', 'SCHUSTER ARANDA', '24', '6', '2001')
+
+Diferencias para la cédula 5000862:
+Anterior: ('5000862', 'MARIO FELIPE', 'HEREBIA PEREIRA', 5, 11, 1987)
+Nuevo: (5000862, 'MARIO FELIPE', 'HEREBIA PEREIRA', '5', '11', '1987')
+
+Diferencias para la cédula 5000863:
+Anterior: ('5000863', 'MANUEL ALEXANDER', 'AGUILERA CACERES', 6, 3, 1998)
+Nuevo: (5000863, 'MANUEL ALEXANDER', 'AGUILERA CACERES', '6', '3', '1998')
+
+Diferencias para la cédula 5000864:
+Anterior: ('5000864', 'EDER RICARDO', 'GUEDES SARUBBI', 25, 6, 1990)
+Nuevo: (5000864, 'EDER RICARDO', 'GUEDES SARUBBI', '25', '6', '1990')
+
+Diferencias para la cédula 5000865:
+Anterior: ('5000865', 'JUAN', 'VILLALBA BENITEZ', 15, 11, 1988)
+Nuevo: (5000865, 'JUAN', 'VILLALBA BENITEZ', '15', '11', '1988')
+
+Diferencias para la cédula 5000866:
+Anterior: ('5000866', 'OSMAR', 'PIRES DE SOUZA', 29, 10, 1987)
+Nuevo: (5000866, 'OSMAR', 'PIRES DE SOUZA', '29', '10', '1987')
+
+Diferencias para la cédula 5000867:
+Anterior: ('5000867', 'LEANDRO', 'PIRES DE SOUZA', 20, 9, 1983)
+Nuevo: (5000867, 'LEANDRO', 'PIRES DE SOUZA', '20', '9', '1983')
+
+Diferencias para la cédula 5000868:
+Anterior: ('5000868', 'MARIO', 'GARCIA LOPEZ', 24, 5, 1999)
+Nuevo: (5000868, 'MARIO', 'GARCIA LOPEZ', '24', '5', '1999')
+
+Diferencias para la cédula 5000869:
+Anterior: ('5000869', 'JUAN', 'GARCIA LOPEZ', 8, 8, 1987)
+Nuevo: (5000869, 'JUAN', 'GARCIA LOPEZ', '8', '8', '1987')
+
+Diferencias para la cédula 5000870:
+Anterior: ('5000870', 'JONATHAN', 'SEGOVIA MANZUR', 13, 2, 2001)
+Nuevo: (5000870, 'JONATHAN', 'SEGOVIA MANZUR', '13', '2', '2001')
+
+Diferencias para la cédula 5000871:
+Anterior: ('5000871', 'DELI', 'GARCIA IBARRA', 5, 2, 1984)
+Nuevo: (5000871, 'DELI', 'GARCIA IBARRA', '5', '2', '1984')
+
+Diferencias para la cédula 5000872:
+Anterior: ('5000872', 'ELIANE', 'AGÃ\x9cERO CARDOSA', 6, 2, 1990)
+Nuevo: (5000872, 'ELIANE', 'AGÃ\x9cERO CARDOSA', '6', '2', '1990')
+
+Diferencias para la cédula 5000873:
+Anterior: ('5000873', 'ALICIA', 'RODRIGUEZ VDA DE SOLIZ', 2, 12, 1980)
+Nuevo: (5000873, 'ALICIA', 'RODRIGUEZ VDA DE SOLIZ', '2', '12', '1980')
+
+Diferencias para la cédula 5000874:
+Anterior: ('5000874', 'DA JI', 'CHOI CRISTALDO', 15, 4, 2000)
+Nuevo: (5000874, 'DA JI', 'CHOI CRISTALDO', '15', '4', '2000')
+
+Diferencias para la cédula 5000875:
+Anterior: ('5000875', 'Ha sucedido el siguiente error', ' Persona no encontrada.', '', '', '')
+Nuevo: (5000875, 'Ha sucedido el siguiente error', ' Persona no encontrada.', '', '', '')
+
+Diferencias para la cédula 5000876:
+Anterior: ('5000876', 'TAMARA YOLANDA', 'PATIÃ\x91O MARTINEZ', 14, 10, 1997)
+Nuevo: (5000876, 'TAMARA YOLANDA', 'PATIÃ\x91O MARTINEZ', '14', '10', '1997')
+
+Diferencias para la cédula 5000877:
+Anterior: ('5000877', 'ALEX DARIO', 'GAMARRA FERNANDEZ', 27, 8, 2001)
+Nuevo: (5000877, 'ALEX DARIO', 'GAMARRA FERNANDEZ', '27', '8', '2001')
+
+Diferencias para la cédula 5000878:
+Anterior: ('5000878', 'CELINA', 'YAHARI MARIN', 27, 10, 1987)
+Nuevo: (5000878, 'CELINA', 'YAHARI MARIN', '27', '10', '1987')
+
+Diferencias para la cédula 5000879:
+Anterior: ('5000879', 'ARNALDO ANDRES', 'CABAÃ\x91AS ZALAZAR', 12, 2, 1995)
+Nuevo: (5000879, 'ARNALDO ANDRES', 'CABAÃ\x91AS ZALAZAR', '12', '2', '1995')
+
+Diferencias para la cédula 5000880:
+Anterior: ('5000880', 'PATRICIA', 'FERREIRA ADORNO', 29, 12, 1988)
+Nuevo: (5000880, 'PATRICIA', 'FERREIRA ADORNO', '29', '12', '1988')
+
+Diferencias para la cédula 5000881:
+Anterior: ('5000881', 'GISSELLE LILIANA', 'SANCHEZ LUGO', 14, 4, 1994)
+Nuevo: (5000881, 'GISSELLE LILIANA', 'SANCHEZ LUGO', '14', '4', '1994')
+
+Diferencias para la cédula 5000882:
+Anterior: ('5000882', 'NANCY CAROLINA', 'MELGAREJO CHAMORRO', 20, 11, 1985)
+Nuevo: (5000882, 'NANCY CAROLINA', 'MELGAREJO CHAMORRO', '20', '11', '1985')
+
+Diferencias para la cédula 5000883:
+Anterior: ('5000883', 'CARLOS MIGUEL', 'PEZOA', 4, 7, 1987)
+Nuevo: (5000883, 'CARLOS MIGUEL', 'PEZOA', '4', '7', '1987')
+
+Diferencias para la cédula 5000884:
+Anterior: ('5000884', 'LIZ KARINA', 'BENITEZ PESOA', 8, 11, 1990)
+Nuevo: (5000884, 'LIZ KARINA', 'BENITEZ PESOA', '8', '11', '1990')
+
+Diferencias para la cédula 5000885:
+Anterior: ('5000885', 'ANGELA', 'RUIZ DIAZ ROLON', 5, 9, 1987)
+Nuevo: (5000885, 'ANGELA', 'RUIZ DIAZ ROLON', '5', '9', '1987')
+
+Diferencias para la cédula 5000886:
+Anterior: ('5000886', 'JULIO CESAR', 'CABAÃ\x91AS ZALAZAR', 17, 7, 1998)
+Nuevo: (5000886, 'JULIO CESAR', 'CABAÃ\x91AS ZALAZAR', '17', '7', '1998')
+
+Diferencias para la cédula 5000887:
+Anterior: ('5000887', 'HILDA ESMERALDA', 'WOELKER SALINAS', 7, 10, 1999)
+Nuevo: (5000887, 'HILDA ESMERALDA', 'WOELKER SALINAS', '7', '10', '1999')
+
+Diferencias para la cédula 5000888:
+Anterior: ('5000888', 'VICTOR EMMANUEL', 'WOELKER SALINAS', 7, 2, 1991)
+Nuevo: (5000888, 'VICTOR EMMANUEL', 'WOELKER SALINAS', '7', '2', '1991')
+
+Diferencias para la cédula 5000889:
+Anterior: ('5000889', 'RODRIGO ANDRES', 'DUARTE MARTINEZ', 6, 1, 1999)
+Nuevo: (5000889, 'RODRIGO ANDRES', 'DUARTE MARTINEZ', '6', '1', '1999')
+
+Diferencias para la cédula 5000890:
+Anterior: ('5000890', 'WILLIAN ARMANDO', 'CACERES GONZALEZ', 12, 1, 1998)
+Nuevo: (5000890, 'WILLIAN ARMANDO', 'CACERES GONZALEZ', '12', '1', '1998')
+
+Diferencias para la cédula 5000891:
+Anterior: ('5000891', 'ANDREI', 'DOS SANTOS ALVES', 7, 4, 1994)
+Nuevo: (5000891, 'ANDREI', 'DOS SANTOS ALVES', '7', '4', '1994')
+
+Diferencias para la cédula 5000892:
+Anterior: ('5000892', 'PEDRO CELESTINO', 'DOS SANTOS MARTINEZ', 27, 3, 1986)
+Nuevo: (5000892, 'PEDRO CELESTINO', 'DOS SANTOS MARTINEZ', '27', '3', '1986')
+
+Diferencias para la cédula 5000893:
+Anterior: ('5000893', 'CHARLES', 'PERALTA DENIS', 14, 11, 1990)
+Nuevo: (5000893, 'CHARLES', 'PERALTA DENIS', '14', '11', '1990')
+
+Diferencias para la cédula 5000894:
+Anterior: ('5000894', 'JUAN CARLOS', 'MALDONADO GARCIA', 20, 4, 1997)
+Nuevo: (5000894, 'JUAN CARLOS', 'MALDONADO GARCIA', '20', '4', '1997')
+
+Diferencias para la cédula 5000895:
+Anterior: ('5000895', 'ROQUE RAFAEL', 'BAREIRO NUÃ\x91EZ', 21, 10, 1995)
+Nuevo: (5000895, 'ROQUE RAFAEL', 'BAREIRO NUÃ\x91EZ', '21', '10', '1995')
+
+Diferencias para la cédula 5000896:
+Anterior: ('5000896', 'JOHANA JACQUELINE', 'ESPINOLA VAZQUEZ', 31, 5, 1999)
+Nuevo: (5000896, 'JOHANA JACQUELINE', 'ESPINOLA VAZQUEZ', '31', '5', '1999')
+
+Diferencias para la cédula 5000897:
+Anterior: ('5000897', 'JULIO CESAR', 'ESPINOLA VAZQUEZ', 25, 2, 2001)
+Nuevo: (5000897, 'JULIO CESAR', 'ESPINOLA VAZQUEZ', '25', '2', '2001')
+
+Diferencias para la cédula 5000898:
+Anterior: ('5000898', 'CARLOS JAVIER', 'CANTERO BARBUDES', 13, 1, 1996)
+Nuevo: (5000898, 'CARLOS JAVIER', 'CANTERO BARBUDES', '13', '1', '1996')
+
+Diferencias para la cédula 5000899:
+Anterior: ('5000899', 'JUAN ANTONIO', 'VILLALBA ACOSTA', 24, 6, 1999)
+Nuevo: (5000899, 'JUAN ANTONIO', 'VILLALBA ACOSTA', '24', '6', '1999')
+
+Diferencias para la cédula 5000900:
+Anterior: ('5000900', 'FELIX GREGORIO', 'ARRUA FLEITAS', 2, 1, 1992)
+Nuevo: (5000900, 'FELIX GREGORIO', 'ARRUA FLEITAS', '2', '1', '1992')
+
+Diferencias para la cédula 5000901:
+Anterior: ('5000901', 'DORIS', 'LUDWIG LECHTENBORGER', 11, 11, 1963)
+Nuevo: (5000901, 'DORIS', 'LUDWIG LECHTENBORGER', '11', '11', '1963')
+
+Diferencias para la cédula 5000902:
+Anterior: ('5000902', 'GERHARD PETER', 'FIEBIGER', 16, 6, 1952)
+Nuevo: (5000902, 'GERHARD PETER', 'FIEBIGER', '16', '6', '1952')
+
+Diferencias para la cédula 5000903:
+Anterior: ('5000903', 'BHAVNA PREM', 'SAMTANI', 4, 2, 1979)
+Nuevo: (5000903, 'BHAVNA PREM', 'SAMTANI', '4', '2', '1979')
+
+Diferencias para la cédula 5000904:
+Anterior: ('5000904', 'ANAHI', 'ASCURRA', 23, 12, 1994)
+Nuevo: (5000904, 'ANAHI', 'ASCURRA', '23', '12', '1994')
+
+Diferencias para la cédula 5000905:
+Anterior: ('5000905', 'NISHTHA PREM', 'SAMTANI', 22, 11, 2000)
+Nuevo: (5000905, 'NISHTHA PREM', 'SAMTANI', '22', '11', '2000')
+
+Diferencias para la cédula 5000906:
+Anterior: ('5000906', 'VINOD', 'IMMANI', 8, 5, 1980)
+Nuevo: (5000906, 'VINOD', 'IMMANI', '8', '5', '1980')
+
+Diferencias para la cédula 5000907:
+Anterior: ('5000907', 'HAYPPY HAI PAI', 'HSU', 30, 1, 1976)
+Nuevo: (5000907, 'HAYPPY HAI PAI', 'HSU', '30', '1', '1976')
+
+Diferencias para la cédula 5000908:
+Anterior: ('5000908', 'FREDDY SEBASTIAN', 'AGUILAR ZAPATTA', 20, 1, 1986)
+Nuevo: (5000908, 'FREDDY SEBASTIAN', 'AGUILAR ZAPATTA', '20', '1', '1986')
+
+Diferencias para la cédula 5000909:
+Anterior: ('5000909', 'ZACARIA', 'CACERES', 5, 11, 1927)
+Nuevo: (5000909, 'ZACARIA', 'CACERES', '5', '11', '1927')
+
+Diferencias para la cédula 5000910:
+Anterior: ('5000910', 'FELIX', 'OZUNA CABRERA', 7, 10, 1947)
+Nuevo: (5000910, 'FELIX', 'OZUNA CABRERA', '7', '10', '1947')
+
+Diferencias para la cédula 5000911:
+Anterior: ('5000911', 'SUSANA GABRIELA', 'LOPEZ DE PAREDES', 12, 7, 1990)
+Nuevo: (5000911, 'SUSANA GABRIELA', 'LOPEZ DE PAREDES', '12', '7', '1990')
+
+Diferencias para la cédula 5000912:
+Anterior: ('5000912', 'MIGUEL ANGEL', 'ESQUIVEL RODRIGUEZ', 5, 2, 1996)
+Nuevo: (5000912, 'MIGUEL ANGEL', 'ESQUIVEL RODRIGUEZ', '5', '2', '1996')
+
+Diferencias para la cédula 5000913:
+Anterior: ('5000913', 'LILIAN CONCEPCION', 'AQUINO VILLALBA', 8, 12, 1984)
+Nuevo: (5000913, 'LILIAN CONCEPCION', 'AQUINO VILLALBA', '8', '12', '1984')
+
+Diferencias para la cédula 5000914:
+Anterior: ('5000914', 'OSCAR RAMON', 'JIMENEZ PORTILLO', 31, 8, 1985)
+Nuevo: (5000914, 'OSCAR RAMON', 'JIMENEZ PORTILLO', '31', '8', '1985')
+
+Diferencias para la cédula 5000915:
+Anterior: ('5000915', 'ADELA', 'BARRIOS MARECO', 29, 10, 1990)
+Nuevo: (5000915, 'ADELA', 'BARRIOS MARECO', '29', '10', '1990')
+
+Diferencias para la cédula 5000916:
+Anterior: ('5000916', 'SERGIO DAVID', 'MORINIGO GENES', 9, 4, 1990)
+Nuevo: (5000916, 'SERGIO DAVID', 'MORINIGO GENES', '9', '4', '1990')
+
+Diferencias para la cédula 5000917:
+Anterior: ('5000917', 'GABRIEL', 'FIGUEREDO GIMENEZ', 9, 12, 1992)
+Nuevo: (5000917, 'GABRIEL', 'FIGUEREDO GIMENEZ', '9', '12', '1992')
+
+Diferencias para la cédula 5000918:
+Anterior: ('5000918', 'ROSANA', 'LEIVA ALMIRON', 7, 2, 1989)
+Nuevo: (5000918, 'ROSANA', 'LEIVA ALMIRON', '7', '2', '1989')
+
+Diferencias para la cédula 5000919:
+Anterior: ('5000919', 'ARIEL FLORENTINO', 'VELAZQUEZ VILLALBA', 7, 3, 2002)
+Nuevo: (5000919, 'ARIEL FLORENTINO', 'VELAZQUEZ VILLALBA', '7', '3', '2002')
+
+Diferencias para la cédula 5000920:
+Anterior: ('5000920', 'CLARA CAROLINA', 'MARTINEZ', 21, 6, 1993)
+Nuevo: (5000920, 'CLARA CAROLINA', 'MARTINEZ', '21', '6', '1993')
+
+Diferencias para la cédula 5000921:
+Anterior: ('5000921', 'LIZ MABEL', 'MARTINEZ', 22, 8, 1995)
+Nuevo: (5000921, 'LIZ MABEL', 'MARTINEZ', '22', '8', '1995')
+
+Diferencias para la cédula 5000922:
+Anterior: ('5000922', 'LIZA MIGUELA', 'FRANCO GENES', 29, 9, 1991)
+Nuevo: (5000922, 'LIZA MIGUELA', 'FRANCO GENES', '29', '9', '1991')
+
+Diferencias para la cédula 5000923:
+Anterior: ('5000923', 'HECTOR SIMEON', 'ESQUIVEL RODRIGUEZ', 5, 4, 1993)
+Nuevo: (5000923, 'HECTOR SIMEON', 'ESQUIVEL RODRIGUEZ', '5', '4', '1993')
+
+Diferencias para la cédula 5000924:
+Anterior: ('5000924', 'HECTOR DANIEL', 'MERELES', 17, 4, 1993)
+Nuevo: (5000924, 'HECTOR DANIEL', 'MERELES', '17', '4', '1993')
+
+Diferencias para la cédula 5000925:
+Anterior: ('5000925', 'CESAR FACUNDO', 'AMARILLA ANDINO', 21, 4, 2002)
+Nuevo: (5000925, 'CESAR FACUNDO', 'AMARILLA ANDINO', '21', '4', '2002')
+
+Diferencias para la cédula 5000926:
+Anterior: ('5000926', 'AGUSTIN RODRIGO', 'GIMENEZ', 3, 7, 1990)
+Nuevo: (5000926, 'AGUSTIN RODRIGO', 'GIMENEZ', '3', '7', '1990')
+
+Diferencias para la cédula 5000927:
+Anterior: ('5000927', 'RODRIGO ORLANDO', 'CAÃ\x91IZA ENCISO', 14, 6, 1992)
+Nuevo: (5000927, 'RODRIGO ORLANDO', 'CAÃ\x91IZA ENCISO', '14', '6', '1992')
+
+Diferencias para la cédula 5000928:
+Anterior: ('5000928', 'MILCIADES RAMON', 'ACOSTA', 4, 7, 1997)
+Nuevo: (5000928, 'MILCIADES RAMON', 'ACOSTA', '4', '7', '1997')
+
+Diferencias para la cédula 5000929:
+Anterior: ('5000929', 'ALEJANDRO', 'PANADERO ACOSTA', 21, 10, 2002)
+Nuevo: (5000929, 'ALEJANDRO', 'PANADERO ACOSTA', '21', '10', '2002')
+
+Diferencias para la cédula 5000930:
+Anterior: ('5000930', 'FREDDY DAVID', 'RODAS FLEITAS', 8, 1, 1991)
+Nuevo: (5000930, 'FREDDY DAVID', 'RODAS FLEITAS', '8', '1', '1991')
+
+Diferencias para la cédula 5000931:
+Anterior: ('5000931', 'DIEGO NAHUEL', 'AMARILLA OZUNA', 22, 1, 1999)
+Nuevo: (5000931, 'DIEGO NAHUEL', 'AMARILLA OZUNA', '22', '1', '1999')
+
+Diferencias para la cédula 5000932:
+Anterior: ('5000932', 'JOSE JUNIOR', 'MARTINEZ HERMOSILLA', 9, 6, 1997)
+Nuevo: (5000932, 'JOSE JUNIOR', 'MARTINEZ HERMOSILLA', '9', '6', '1997')
+
+Diferencias para la cédula 5000933:
+Anterior: ('5000933', 'GUSTAVO DARIO', 'ARECO', 17, 8, 1990)
+Nuevo: (5000933, 'GUSTAVO DARIO', 'ARECO', '17', '8', '1990')
+
+Diferencias para la cédula 5000934:
+Anterior: ('5000934', 'CESAR VIRGILIO', 'ROBLES BAEZ', 7, 11, 1993)
+Nuevo: (5000934, 'CESAR VIRGILIO', 'ROBLES BAEZ', '7', '11', '1993')
+
+Diferencias para la cédula 5000935:
+Anterior: ('5000935', 'EVER EDUARDO', 'ORUE CABRERA', 16, 2, 1993)
+Nuevo: (5000935, 'EVER EDUARDO', 'ORUE CABRERA', '16', '2', '1993')
+
+Diferencias para la cédula 5000936:
+Anterior: ('5000936', 'ENZO GABRIEL', 'GONZALEZ AYALA', 11, 8, 2002)
+Nuevo: (5000936, 'ENZO GABRIEL', 'GONZALEZ AYALA', '11', '8', '2002')
+
+Diferencias para la cédula 5000937:
+Anterior: ('5000937', 'CRISTIAN TADEO', 'CACERES CACERES', 18, 12, 1995)
+Nuevo: (5000937, 'CRISTIAN TADEO', 'CACERES CACERES', '18', '12', '1995')
+
+Diferencias para la cédula 5000938:
+Anterior: ('5000938', 'IVAN JESUS', 'CANTERO MONTIEL', 3, 6, 1996)
+Nuevo: (5000938, 'IVAN JESUS', 'CANTERO MONTIEL', '3', '6', '1996')
+
+Diferencias para la cédula 5000939:
+Anterior: ('5000939', 'REINALDO JAVIER', 'BENITEZ SOSA', 27, 2, 1995)
+Nuevo: (5000939, 'REINALDO JAVIER', 'BENITEZ SOSA', '27', '2', '1995')
+
+Diferencias para la cédula 5000940:
+Anterior: ('5000940', 'CRISTHIAN MARCELO', 'PEREIRA', 28, 8, 1994)
+Nuevo: (5000940, 'CRISTHIAN MARCELO', 'PEREIRA', '28', '8', '1994')
+
+Diferencias para la cédula 5000941:
+Anterior: ('5000941', 'ELDER ISAAC', 'PEREIRA', 24, 2, 1996)
+Nuevo: (5000941, 'ELDER ISAAC', 'PEREIRA', '24', '2', '1996')
+
+Diferencias para la cédula 5000942:
+Anterior: ('5000942', 'JORGE RAMON', 'ESTIGARRIBIA RIVEROS', 20, 8, 1992)
+Nuevo: (5000942, 'JORGE RAMON', 'ESTIGARRIBIA RIVEROS', '20', '8', '1992')
+
+Diferencias para la cédula 5000943:
+Anterior: ('5000943', 'MIGUEL ENRIQUE', 'ESTIGARRIBIA RIVEROS', 29, 9, 1997)
+Nuevo: (5000943, 'MIGUEL ENRIQUE', 'ESTIGARRIBIA RIVEROS', '29', '9', '1997')
+
+Diferencias para la cédula 5000944:
+Anterior: ('5000944', 'MARCELO NOEL', 'VERGARA FERNANDEZ', 16, 11, 1995)
+Nuevo: (5000944, 'MARCELO NOEL', 'VERGARA FERNANDEZ', '16', '11', '1995')
+
+Diferencias para la cédula 5000945:
+Anterior: ('5000945', 'CESAR OSMAR', 'VILLAMAYOR AYALA', 30, 5, 1992)
+Nuevo: (5000945, 'CESAR OSMAR', 'VILLAMAYOR AYALA', '30', '5', '1992')
+
+Diferencias para la cédula 5000946:
+Anterior: ('5000946', 'ABDIAS ARIEL', 'MEZA MARTINEZ', 25, 1, 1998)
+Nuevo: (5000946, 'ABDIAS ARIEL', 'MEZA MARTINEZ', '25', '1', '1998')
+
+Diferencias para la cédula 5000947:
+Anterior: ('5000947', 'ORLANDO GABRIEL', 'GAONA LUGO', 25, 7, 1990)
+Nuevo: (5000947, 'ORLANDO GABRIEL', 'GAONA LUGO', '25', '7', '1990')
+
+Diferencias para la cédula 5000948:
+Anterior: ('5000948', 'MATIAS EMMANUEL', 'PEÃ\x91A NAVARRO', 28, 4, 2000)
+Nuevo: (5000948, 'MATIAS EMMANUEL', 'PEÃ\x91A NAVARRO', '28', '4', '2000')
+
+Diferencias para la cédula 5000949:
+Anterior: ('5000949', 'CRISTIAN FRANCISCO', 'AYALA', 4, 10, 1990)
+Nuevo: (5000949, 'CRISTIAN FRANCISCO', 'AYALA', '4', '10', '1990')
+
+Diferencias para la cédula 5000950:
+Anterior: ('5000950', 'JERSON ARIEL', 'BRITEZ SAMANIEGO', 5, 8, 1995)
+Nuevo: (5000950, 'JERSON ARIEL', 'BRITEZ SAMANIEGO', '5', '8', '1995')
+
+Diferencias para la cédula 5000951:
+Anterior: ('5000951', 'NICOLAS DANIEL', 'AYALA PORTILLO', 24, 11, 2001)
+Nuevo: (5000951, 'NICOLAS DANIEL', 'AYALA PORTILLO', '24', '11', '2001')
+
+Diferencias para la cédula 5000952:
+Anterior: ('5000952', 'MARIANO', 'MARECO ALFONSO', 1, 1, 1992)
+Nuevo: (5000952, 'MARIANO', 'MARECO ALFONSO', '1', '1', '1992')
+
+Diferencias para la cédula 5000953:
+Anterior: ('5000953', 'GUILLERMO DANIEL', 'SANTA CRUZ SEGOVIA', 22, 5, 1996)
+Nuevo: (5000953, 'GUILLERMO DANIEL', 'SANTA CRUZ SEGOVIA', '22', '5', '1996')
+
+Diferencias para la cédula 5000954:
+Anterior: ('5000954', 'MICHEL ANGEL', 'PANIAGUA ESPINOLA', 18, 8, 2002)
+Nuevo: (5000954, 'MICHEL ANGEL', 'PANIAGUA ESPINOLA', '18', '8', '2002')
+
+Diferencias para la cédula 5000955:
+Anterior: ('5000955', '', '', '', '', '')
+Nuevo: (5000955, 'JOSE EDUARDO', 'AMARILLA HAEDO', '18', '3', '1991')
+
+Diferencias para la cédula 5000956:
+Anterior: ('5000956', 'CHRISTIAN MOISES', 'CHAMORRO SANCHEZ', 30, 7, 1994)
+Nuevo: (5000956, 'CHRISTIAN MOISES', 'CHAMORRO SANCHEZ', '30', '7', '1994')
+
+Diferencias para la cédula 5000957:
+Anterior: ('5000957', 'CHRISTIAN ERNESTO', 'BENITEZ CUBILLA', 5, 11, 1998)
+Nuevo: (5000957, 'CHRISTIAN ERNESTO', 'BENITEZ CUBILLA', '5', '11', '1998')
+
+Diferencias para la cédula 5000958:
+Anterior: ('5000958', 'REINALDO FRANCISCO', 'SANCHEZ MELGAREJO', 26, 10, 1989)
+Nuevo: (5000958, 'REINALDO FRANCISCO', 'SANCHEZ MELGAREJO', '26', '10', '1989')
+
+Diferencias para la cédula 5000959:
+Anterior: ('5000959', 'MARCELO GABRIEL', 'ARGAÃ\x91A SAMANIEGO', 31, 3, 1998)
+Nuevo: (5000959, 'MARCELO GABRIEL', 'ARGAÃ\x91A SAMANIEGO', '31', '3', '1998')
+
+Diferencias para la cédula 5000960:
+Anterior: ('5000960', 'DANIEL', 'ACUÃ\x91A SOSA', 21, 9, 1995)
+Nuevo: (5000960, 'DANIEL', 'ACUÃ\x91A SOSA', '21', '9', '1995')
+
+Diferencias para la cédula 5000961:
+Anterior: ('5000961', 'EDUARDO DANIEL', 'PAEZ', 23, 1, 1991)
+Nuevo: (5000961, 'EDUARDO DANIEL', 'PAEZ', '23', '1', '1991')
+
+Diferencias para la cédula 5000962:
+Anterior: ('5000962', 'FEDERICO MANUEL', 'TORRES RUIZ DIAZ', 18, 2, 1991)
+Nuevo: (5000962, 'FEDERICO MANUEL', 'TORRES RUIZ DIAZ', '18', '2', '1991')
+
+Diferencias para la cédula 5000963:
+Anterior: ('5000963', 'ALDO ANDRES', 'MOLINAS GARAY', 17, 12, 1988)
+Nuevo: (5000963, 'ALDO ANDRES', 'MOLINAS GARAY', '17', '12', '1988')
+
+Diferencias para la cédula 5000964:
+Anterior: ('5000964', 'EMANUEL', 'DUARTE ARAUJO', 22, 10, 1997)
+Nuevo: (5000964, 'EMANUEL', 'DUARTE ARAUJO', '22', '10', '1997')
+
+Diferencias para la cédula 5000965:
+Anterior: ('5000965', 'JUAN MANUEL', 'MORALES BENITEZ', 18, 4, 1991)
+Nuevo: (5000965, 'JUAN MANUEL', 'MORALES BENITEZ', '18', '4', '1991')
+
+Diferencias para la cédula 5000966:
+Anterior: ('5000966', 'JORGE FELICIANO', 'MARECO ALFONSO', 24, 1, 1990)
+Nuevo: (5000966, 'JORGE FELICIANO', 'MARECO ALFONSO', '24', '1', '1990')
+
+Diferencias para la cédula 5000967:
+Anterior: ('5000967', 'CRISTHIAN MANUEL', 'GALEANO MORA', 5, 5, 1989)
+Nuevo: (5000967, 'CRISTHIAN MANUEL', 'GALEANO MORA', '5', '5', '1989')
+
+Diferencias para la cédula 5000968:
+Anterior: ('5000968', 'BLAZ ANTONIO', 'ALVARENGA FIGUEREDO', 3, 2, 1991)
+Nuevo: (5000968, 'BLAZ ANTONIO', 'ALVARENGA FIGUEREDO', '3', '2', '1991')
+
+Diferencias para la cédula 5000969:
+Anterior: ('5000969', 'RIGOBERTO', 'GODOY ROMAN', 5, 3, 1998)
+Nuevo: (5000969, 'RIGOBERTO', 'GODOY ROMAN', '5', '3', '1998')
+
+Diferencias para la cédula 5000970:
+Anterior: ('5000970', 'VICTOR RENE', 'MARTINEZ', 14, 7, 1993)
+Nuevo: (5000970, 'VICTOR RENE', 'MARTINEZ', '14', '7', '1993')
+
+Diferencias para la cédula 5000971:
+Anterior: ('5000971', 'ALBERTO DANIEL', 'BAEZ GARCETE', 29, 5, 1990)
+Nuevo: (5000971, 'ALBERTO DANIEL', 'BAEZ GARCETE', '29', '5', '1990')
+
+Diferencias para la cédula 5000972:
+Anterior: ('5000972', 'ARNALDO ANDRES', 'CABRAL BENITEZ', 6, 12, 1992)
+Nuevo: (5000972, 'ARNALDO ANDRES', 'CABRAL BENITEZ', '6', '12', '1992')
+
+Diferencias para la cédula 5000973:
+Anterior: ('5000973', 'ALCIDES', 'RODRIGUEZ LOPEZ', 18, 6, 1995)
+Nuevo: (5000973, 'ALCIDES', 'RODRIGUEZ LOPEZ', '18', '6', '1995')
+
+Diferencias para la cédula 5000974:
+Anterior: ('5000974', 'ANDRES JULIAN', 'SALCEDO CABRAL', 19, 2, 1994)
+Nuevo: (5000974, 'ANDRES JULIAN', 'SALCEDO CABRAL', '19', '2', '1994')
+
+Diferencias para la cédula 5000975:
+Anterior: ('5000975', 'DOMINGO GUSTAVO', 'CABRAL BENITEZ', 17, 3, 1991)
+Nuevo: (5000975, 'DOMINGO GUSTAVO', 'CABRAL BENITEZ', '17', '3', '1991')
+
+Diferencias para la cédula 5000976:
+Anterior: ('5000976', 'ANDRES', 'MARTINEZ BALBUENA', 2, 3, 1999)
+Nuevo: (5000976, 'ANDRES', 'MARTINEZ BALBUENA', '2', '3', '1999')
+
+Diferencias para la cédula 5000977:
+Anterior: ('5000977', 'RICHARD ARIEL', 'CHAMORRO SANCHEZ', 28, 3, 1992)
+Nuevo: (5000977, 'RICHARD ARIEL', 'CHAMORRO SANCHEZ', '28', '3', '1992')
+
+Diferencias para la cédula 5000978:
+Anterior: ('5000978', 'MARIO ARTURO', 'RAMOS ALVARENGA', 10, 4, 1997)
+Nuevo: (5000978, 'MARIO ARTURO', 'RAMOS ALVARENGA', '10', '4', '1997')
+
+Diferencias para la cédula 5000979:
+Anterior: ('5000979', 'MIGUEL ANGEL', 'ORUE CABRERA', 31, 1, 1994)
+Nuevo: (5000979, 'MIGUEL ANGEL', 'ORUE CABRERA', '31', '1', '1994')
+
+Diferencias para la cédula 5000980:
+Anterior: ('5000980', 'CARLOS JAVIER', 'GODOY GENES', 16, 2, 1987)
+Nuevo: (5000980, 'CARLOS JAVIER', 'GODOY GENES', '16', '2', '1987')
+
+Diferencias para la cédula 5000981:
+Anterior: ('5000981', 'OSMAR', 'OJEDA NUÃ\x91EZ', 21, 8, 1992)
+Nuevo: (5000981, 'OSMAR', 'OJEDA NUÃ\x91EZ', '21', '8', '1992')
+
+Diferencias para la cédula 5000982:
+Anterior: ('5000982', 'CRISTOFER DAMIAN', 'CENTURION CARDOZO', 10, 6, 1993)
+Nuevo: (5000982, 'CRISTOFER DAMIAN', 'CENTURION CARDOZO', '10', '6', '1993')
+
+Diferencias para la cédula 5000983:
+Anterior: ('5000983', 'LUIS MARTIN', 'BOGARIN ESPINOLA', 3, 11, 1991)
+Nuevo: (5000983, 'LUIS MARTIN', 'BOGARIN ESPINOLA', '3', '11', '1991')
+
+Diferencias para la cédula 5000984:
+Anterior: ('5000984', 'OSCAR JAVIER', 'BENITEZ BRITEZ', 23, 1, 1994)
+Nuevo: (5000984, 'OSCAR JAVIER', 'BENITEZ BRITEZ', '23', '1', '1994')
+
+Diferencias para la cédula 5000985:
+Anterior: ('5000985', 'JOSE ARIEL', 'ZARACHO GONZALEZ', 19, 7, 1991)
+Nuevo: (5000985, 'JOSE ARIEL', 'ZARACHO GONZALEZ', '19', '7', '1991')
+
+Diferencias para la cédula 5000986:
+Anterior: ('5000986', 'DIEGO ARIEL', 'ORTIZ CHAVEZ', 4, 10, 1991)
+Nuevo: (5000986, 'DIEGO ARIEL', 'ORTIZ CHAVEZ', '4', '10', '1991')
+
+Diferencias para la cédula 5000987:
+Anterior: ('5000987', 'CARLOS DANIEL', 'GONZALEZ BRITEZ', 23, 8, 1988)
+Nuevo: (5000987, 'CARLOS DANIEL', 'GONZALEZ BRITEZ', '23', '8', '1988')
+
+Diferencias para la cédula 5000988:
+Anterior: ('5000988', 'NIK BRAHIAM', 'BENITEZ ACOSTA', 18, 6, 1995)
+Nuevo: (5000988, 'NIK BRAHIAM', 'BENITEZ ACOSTA', '18', '6', '1995')
+
+Diferencias para la cédula 5000989:
+Anterior: ('5000989', 'SILVIO ROLANDO', 'BALBUENA MORALES', 5, 11, 1990)
+Nuevo: (5000989, 'SILVIO ROLANDO', 'BALBUENA MORALES', '5', '11', '1990')
+
+Diferencias para la cédula 5000990:
+Anterior: ('5000990', 'JUAN GRACIANO', 'GONZALEZ CARDOZO', 12, 8, 1994)
+Nuevo: (5000990, 'JUAN GRACIANO', 'GONZALEZ CARDOZO', '12', '8', '1994')
+
+Diferencias para la cédula 5000991:
+Anterior: ('5000991', 'EDGAR', 'BENITEZ PEREIRA', 9, 12, 1993)
+Nuevo: (5000991, 'EDGAR', 'BENITEZ PEREIRA', '9', '12', '1993')
+
+Diferencias para la cédula 5000992:
+Anterior: ('5000992', 'JOEL EVANDRO', 'GOMEZ COLMAN', 9, 8, 1988)
+Nuevo: (5000992, 'JOEL EVANDRO', 'GOMEZ COLMAN', '9', '8', '1988')
+
+Diferencias para la cédula 5000993:
+Anterior: ('5000993', 'ANGEL DANIEL', 'MEZA GAUTO', 7, 12, 1997)
+Nuevo: (5000993, 'ANGEL DANIEL', 'MEZA GAUTO', '7', '12', '1997')
+
+Diferencias para la cédula 5000994:
+Anterior: ('5000994', 'ESTANISLAO', 'ORTIZ AGÃ\x9cERO', 13, 11, 1986)
+Nuevo: (5000994, 'ESTANISLAO', 'ORTIZ AGÃ\x9cERO', '13', '11', '1986')
+
+Diferencias para la cédula 5000995:
+Anterior: ('5000995', 'IVAN NICOLAS', 'GONZALEZ ORTELLADO', 22, 12, 1998)
+Nuevo: (5000995, 'IVAN NICOLAS', 'GONZALEZ ORTELLADO', '22', '12', '1998')
+
+Diferencias para la cédula 5000996:
+Anterior: ('5000996', 'FABIO ARIEL', 'GONZALEZ ORTELLADO', 19, 9, 1994)
+Nuevo: (5000996, 'FABIO ARIEL', 'GONZALEZ ORTELLADO', '19', '9', '1994')
+
+Diferencias para la cédula 5000997:
+Anterior: ('5000997', 'ELIAS', 'BENITEZ RODRIGUEZ', 26, 2, 1992)
+Nuevo: (5000997, 'ELIAS', 'BENITEZ RODRIGUEZ', '26', '2', '1992')
+
+Diferencias para la cédula 5000998:
+Anterior: ('5000998', 'MARCOS ELIAS', 'AMARILLA ISASI', 18, 5, 1994)
+Nuevo: (5000998, 'MARCOS ELIAS', 'AMARILLA ISASI', '18', '5', '1994')
+
+Diferencias para la cédula 5000999:
+Anterior: ('5000999', 'NESTOR DAVID', 'CACERES ARAUJO', 22, 3, 1997)
+Nuevo: (5000999, 'NESTOR DAVID', 'CACERES ARAUJO', '22', '3', '1997')
+
